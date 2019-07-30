@@ -1,0 +1,28 @@
+state: enabled
+email: bserrett@iu.edu
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+    cache: 'true'
+    configuration: 'true'
+    configuration_system: 'true'
+    configuration_site: 'true'
+    configuration_media: 'true'
+    configuration_info: 'true'
+    settings: 'true'
+    pages: 'true'
+    maintenance: 'true'
+    statistics: 'true'
+    plugins: 'true'
+    themes: 'true'
+    tools: 'true'
+    users: 'true'
+  site:
+    login: 'true'
+fullname: 'Ben Serrette'
+title: Admin
+hashed_password: $2y$10$046knhm62QzSkrVhnPdUvuZOv88gifK8X1Ch8X0mkc.AGsiUZOnU2
+language: en
+twofa_enabled: false
+twofa_secret: MYPKRCXLA7NQ3UDP3LZ7WFD6R76Y62KV

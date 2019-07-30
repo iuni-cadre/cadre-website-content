@@ -1,0 +1,26 @@
+state: enabled
+email: smcgavin@iu.edu
+access:
+  admin:
+    super: 'false'
+    login: 'true'
+    cache: 'true'
+    configuration: 'false'
+    configuration_system: 'false'
+    configuration_site: 'false'
+    configuration_media: 'false'
+    configuration_info: 'false'
+    settings: 'false'
+    pages: 'true'
+    maintenance: 'false'
+    statistics: 'true'
+    plugins: 'false'
+    themes: 'false'
+    tools: 'true'
+    users: 'false'
+fullname: 'Stephanie McGavin'
+title: Editor
+hashed_password: $2y$10$5KR4JAiOfYGqm99C67Lr6.t1DcZg23aQfPZ9xUVMGcMXDgbPC1gl.
+language: en
+twofa_enabled: false
+twofa_secret: MYPKRCXLA7NQ3UDP3LZ7WFD6R76Y62KV
