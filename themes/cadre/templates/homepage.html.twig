@@ -1,0 +1,88 @@
+{% extends 'partials/base.html.twig' %}
+{% block styles %}
+<style>
+.hero-bg {
+
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+    color: #ffffff;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url({{url('theme://assets/img/hero-background/bg.svg')}});
+
+}
+.hero-bg h1
+{
+    font-family: 'Rubik', sans-serif;
+    font-size: 4.5rem;
+    font-weight: normal;
+}
+
+.hero-bg a
+{
+    color: #94d5e8;
+}
+
+.hero-bg .call-to-action a.btn
+{
+    background-color: white;
+    color: #5b72b7;
+    width: 66%;
+    font-size: 1.125rem;
+    font-weight: bold;
+    margin: 2rem 0;
+}
+.hero-bg .call-to-action a
+{
+    color: #ffffff;
+}
+
+</style>
+{% endblock %}
+{% block content %}
+    <section id="hero" class="hero-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-6">
+            {% for module in page.collection() if module.folder == '_hero_text' %}
+                {{ module.content|raw }}
+            {% endfor %}
+
+            <div>No programming/data science experience required.</div>
+            <div>Affordable tiered pricing. <a href="#">Learn more</a></div>
+
+            </div>
+
+            <div class="call-to-action col-12 col-sm-6 d-flex align-items-center justify-content-center">
+                <div class="w-100 text-center">
+                    <a class="btn btn-primary">Get Started</a>
+                    <div>
+                        <a href="#">Learn about different types of CADRE accounts</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <section id="features">
+        <div class="container">
+            <h2>Features</h2>
+            <h3>All of these to offer, and more.</h3>
+        </div>
+    </section>
+
+    {{ page.content|raw }}
+
+    <section id="fellows" class="blue">
+        <div class="container">
+        <h2>CADRE Fellows</h2>
+        <h3>Meet the community of researchers who are using CADRE to advance their research</h3>
+        </div>
+    </section>
+
+
+
+{% endblock %}

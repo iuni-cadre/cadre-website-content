@@ -20,9 +20,14 @@
 
 
 {% block stylesheets %}
+<link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="https://assets.iu.edu/brand/3.2.x/brand.css" />
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<link rel="stylesheet" href="{{ url('theme://css/cadre.css') }}" />
+
     {# {% do assets.addCss('theme://css-compiled/spectre'~compress) %}
     {% if theme_var('spectre.exp') %}{% do assets.addCss('theme://css-compiled/spectre-exp'~compress)  %}{% endif %}
     {% if theme_var('spectre.icons') %}{%  do assets.addCss('theme://css-compiled/spectre-icons'~compress) %}{% endif %}
@@ -41,22 +46,55 @@
     {{ assets.css()|raw }}
     {{ assets.js()|raw }}
 {% endblock %} #}
+{% block styles deferred %}
+{% endblock %}
+
 </head>
 <body id="top" class="{% block body_classes %}{{ body_classes }}{% endblock %}">
+    <div class="iu-header-wrapper">
     {% include 'partials/iu-header.html.twig' %}
+    </div>
 
-        <section id="start">
+    <header id="main-header">
+        <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand" href="#"><img src="{{url('theme://assets/img/logo/logo-and-type.svg')}}" alt="CADRE" /><span class="d-none">CADRE</span></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About Cadre</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Documentation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Work With Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Resources</a>
+                    </li>
+                    
+                </ul>
+                {# <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form> #}
+                <a href="" class="btn get-started-button">Get Started</a>
+            </div>
+        </nav>
+    </header>
+
+
+
         {% block body %}
-            <section id="body-wrapper" class="section">
-                <section class="container {{ grid_size }}">
                     {% block messages %}
                         {% include 'partials/messages.html.twig' ignore missing %}
                     {% endblock %}
                     {% block content %}{% endblock %}
-                </section>
-            </section>
         {% endblock %}
-        </section>
 
 
     {% include 'partials/iu-footer.html.twig' %}
