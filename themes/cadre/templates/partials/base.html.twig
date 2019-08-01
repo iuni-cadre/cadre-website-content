@@ -66,19 +66,11 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About Cadre</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Documentation</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Work With Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Resources</a>
-                    </li>
-                    
+                    {% for page in pages.children if page.header.main == true %}
+                        <li class="nav-item">
+                            <a href="{{url(page.url)}}">{{page.title}}</a>
+                        </li>
+                    {% endfor %}
                 </ul>
                 {# <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -110,10 +102,33 @@
                     {# <a href=""><i class="fab fa-instagram"></i></a> #}
                 </div>
             </div>
-            <div class="col">
-                <strong>About CADRE</strong>
 
+            {% for page in pages.children if page.header.main == true %}
+            <div class="col">
+                <strong>{{page.title}}</strong>
+                <ul class="list-unstyled">
+                    {% for subpage in page.children %}
+                    <li class="list-item">
+                        {{subpage.title}}
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
+            {% endfor %}
+
+            {# <div class="col">
+                <strong>About CADRE</strong>
+                {{site.title}}
+                {% for mitem in site.menu %}
+            <li>
+                <a {% if mitem.class %}class="{{ mitem.class }}"{% endif %} href="{{ mitem.url }}">
+                    {% if mitem.icon %}<i class="fa fa-{{ mitem.icon }}"></i>{% endif %}
+                    {{ mitem.text }}
+                </a>
+            </li>
+        {% endfor %} #}
+
+            {# </div>
             <div class="col">
                 <strong>Documentation</strong>
             </div>
@@ -122,7 +137,7 @@
             </div>
             <div class="col">
                 <strong>Resources</strong>
-            </div>
+            </div> #}
             </div>
 
         </div>
