@@ -5,7 +5,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: quark
+  theme: cadre
   markdown:
     extra: false
   process:
