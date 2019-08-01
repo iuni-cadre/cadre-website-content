@@ -1,3 +1,14 @@
+#branding-bar
+{
+    position: relative !important;
+}
+#footer .tagline {
+    left: 50%;
+    position: absolute;
+    margin: 0 -200px 0 0;
+    transform: translateX(-50%);
+    top: -55px;
+}
 body {
     font-family: 'Lato', sans-serif;
 }
@@ -55,6 +66,7 @@ section h2
     font-size: 3rem;
     line-height: 3.5rem;
     color: #3c80eb;
+    text-shadow: 0 8px 16px rgba(48, 42, 109, 0.24);
 }
 section h3
 {
