@@ -20,6 +20,8 @@
 
 
 {% block stylesheets %}
+<script src="https://kit.fontawesome.com/81179d7d28.js"></script>
+
 <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
@@ -96,6 +98,35 @@
                     {% block content %}{% endblock %}
         {% endblock %}
 
+
+    <footer id="main-footer">
+        <div class="container">
+        <div class="row">
+            <div class="col">
+                <a class="cadre-logo" href="#"><img src="{{url('theme://assets/img/logo/logo-and-type.svg')}}" alt="CADRE" /><span class="d-none">CADRE</span></a>
+                <div class="d-flex justify-content-between social-icons">
+                    {# <a href=""><i class="fab fa-facebook-square"></i></a> #}
+                    <a href=""><i class="fab fa-twitter"></i></a>
+                    {# <a href=""><i class="fab fa-instagram"></i></a> #}
+                </div>
+            </div>
+            <div class="col">
+                <strong>About CADRE</strong>
+
+            </div>
+            <div class="col">
+                <strong>Documentation</strong>
+            </div>
+            <div class="col">
+                <strong>Work With Us</strong>
+            </div>
+            <div class="col">
+                <strong>Resources</strong>
+            </div>
+            </div>
+
+        </div>
+    </footer>
 
     {% include 'partials/iu-footer.html.twig' %}
 </body>
