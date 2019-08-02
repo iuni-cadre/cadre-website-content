@@ -1,0 +1,37 @@
+{% extends 'default.html.twig' %}
+
+{% block body %}
+
+<div class="fellow card">
+
+
+    <div class="organization-logos d-flex justify-content-start">
+        {% for logo in page.header.logos %}
+        <div class="d-flex align-items-center org-logo">
+            <img src="{{ url(page.media[logo.image].url) }}" alt="{{ logo.name }}" />
+            {# <strong>{{person.name}}</strong> #}
+        </div>
+        {% endfor %}
+    </div>
+
+
+    <div class="people-pictures row">
+        {% for person in page.header.people %}
+        <div class="d-flex align-items-center person col">
+            <img class="mr-3" src="{{ url(page.media[person.image].url) }}" alt="{{ person.name }}" />
+            <strong>{{person.name}}</strong>
+        </div>
+        {% endfor %}
+    </div>
+
+    <h3>
+    {{page.title}}
+    </h3>
+
+    <div>
+    {{page.content}}
+    </div>
+
+</div>
+
+{% endblock %}

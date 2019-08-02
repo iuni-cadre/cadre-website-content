@@ -1,0 +1,39 @@
+title: Fellows
+'@extends':
+    type: default
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        gallery:
+          type: tab
+          title: Fellows
+          ordering@: 1
+          fields:
+            header.people:
+              name: people
+              type: list
+              label: People
+              fields:
+                .name:
+                  type: text
+                  label: Name
+                .image:
+                  label: Choose Image
+                  type: pagemediaselect
+            header.logos:
+              name: logos
+              type: list
+              label: Logos
+              fields:
+                .name:
+                  type: text
+                  label: Organization Name
+                .image:
+                  label: Choose Image
+                  type: pagemediaselect

@@ -87,6 +87,46 @@
         <h2>CADRE Fellows</h2>
         <h3>Meet the community of researchers who are using CADRE to advance their research</h3>
         </div>
+
+        <div class="container d-flex justify-content-center">
+            {% set fellows = pages.find(url('/fellows')) %}
+            {% for fellow in fellows.children() %}
+
+            <div class="fellow card">
+
+
+                <div class="organization-logos d-flex justify-content-start">
+                    {% for logo in fellow.header.logos %}
+                    <div class="d-flex align-items-center org-logo">
+                        <img src="{{ url(fellow.media[logo.image].url) }}" alt="{{ logo.name }}" />
+                        {# <strong>{{person.name}}</strong> #}
+                    </div>
+                    {% endfor %}
+                </div>
+
+
+                <div class="people-pictures row">
+                    {% for person in fellow.header.people %}
+                    <div class="d-flex align-items-center person col">
+                        <img class="mr-3" src="{{ url(fellow.media[person.image].url) }}" alt="{{ person.name }}" />
+                        <strong>{{person.name}}</strong>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <h3>
+                {{fellow.title}}
+                </h3>
+
+                <div class="summary">
+                {{fellow.summary}} <a href="{{fellow.url}}">Read More</a>
+                </div>
+
+            </div>
+
+            {% endfor %}
+
+        </div>
     </section>
 
     <section id="fellows" class="">
