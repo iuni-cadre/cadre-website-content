@@ -1,0 +1,13 @@
+{% block content %}
+    
+    {% set first_image = page.media.images|first %}
+    
+<div class="card" style="width: 18rem;">
+  <img src="{{ url(first_image.url) }}" class="card-img-top" alt="{{ page.title }}">
+  <div class="card-body">
+    <h5 class="card-title">{{ page.title }}</h5>
+    <p class="card-text">{{ page.content|raw }}</p>
+  </div>
+</div>
+
+{% endblock %}
