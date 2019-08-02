@@ -113,7 +113,7 @@ section.blue h3 {
 {
     font-family: 'Rubik';
     font-size: .875rem;
-    line-height: 2;
+    /* line-height: 2; */
     font-weight: bold;
 }
 .people-pictures .person img

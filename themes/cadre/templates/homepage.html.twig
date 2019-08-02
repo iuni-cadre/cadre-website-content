@@ -40,6 +40,48 @@
     color: #ffffff;
 }
 
+#features .card
+{
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 .5rem 2rem 0 rgba(13, 49, 181, 0.12);
+    background-color: #ffffff;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+#features .card:last-child
+{
+    margin-right: 0;
+}
+
+#features .card .card-img-top
+{
+    border-top-right-radius: 1rem; /* calc(1rem - 1px); */
+    border-top-left-radius: 1rem; /* calc(1rem - 1px); */
+}
+
+#features .card .card-body
+{
+    padding: 1.75rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    color: #646c81;
+    text-align: center;
+}
+
+#features .card .card-body h5
+{
+  font-family: "Rubik";
+  font-size: 1.375;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.125;
+  text-align: center;
+  color: #3c80eb;
+}
+
+
 </style>
 {% endblock %}
 {% block content %}
@@ -67,14 +109,14 @@
         </div>
     </div>
     </section>
-    <section id="features">
+    <section id="features" class="">
         <div class="container">
             <h2>Features</h2>
             <h3>All of these to offer, and more.</h3>
 
-            <div class="d-flex justify-content-between">
+            <div class="d-flex row">
             {% for module in page.collection() if module.template == "modular/feature"%}
-                {{ module.content|raw }}
+                <div class="col d-flex">{{ module.content|raw }}</div>
             {% endfor %}
             </div>
         </div>
