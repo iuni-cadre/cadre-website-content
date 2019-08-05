@@ -215,7 +215,8 @@ button.carousel-button
                     
                     <template  v-for="(fellow, index) in fellows">
                     <transition name="fade">
-                    <div v-if="index == current_index - 1" class="fellow card carousel-prev-card" >
+                    <div v-if="index == current_index - 1">
+                    <div class="fellow card carousel-prev-card" >
                         <div class="organization-logos d-flex justify-content-start">
                             <div v-for="logo in fellow.logos" class="d-flex align-items-center org-logo">
                                 <img :src="logo.image" :alt="logo.name" />
@@ -232,12 +233,14 @@ button.carousel-button
                         <span v-html="fellow.summary"></span><a :href="fellow.url">Read More</a>
                         </div>
                     </div>
+                    </div>
                     </transition>
                     </template>
 
                     <template   v-for="(fellow, index) in fellows">
                     <transition name="fade">
-                    <div v-if="index == current_index +1" class="carousel-next-card fellow card" >
+                    <div v-if="index == current_index +1">
+                    <div class="carousel-next-card fellow card" >
                         <div class="organization-logos d-flex justify-content-start">
                             <div v-for="logo in fellow.logos" class="d-flex align-items-center org-logo">
                                 <img :src="logo.image" :alt="logo.name" />
@@ -253,6 +256,7 @@ button.carousel-button
                         <div class="summary">
                         <span v-html="fellow.summary"></span><a :href="fellow.url">Read More</a>
                         </div>
+                    </div>
                     </div>
                     </transition>
                     </template>
