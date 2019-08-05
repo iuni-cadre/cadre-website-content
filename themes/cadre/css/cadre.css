@@ -174,3 +174,9 @@ section.blue h3 {
 {
     display: inline;
 }
+
+#fellow_carousel
+{
+    overflow: hidden;
+    position: relative;
+}
