@@ -88,6 +88,73 @@
   opacity: 0;
 }
 
+button.carousel-button
+{
+    background-color: Transparent;
+    outline: none;
+    border: none;
+    margin: 1rem;
+    margin-top: 6rem;
+
+    
+}
+.carousel-button div
+{
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 1.5rem;
+    cursor: pointer;
+    border-radius: 100%;
+    height: 3rem;
+    width: 3rem;
+    outline: none;
+    border: 0;
+    line-height: 2;
+    display: block;
+    padding: 0;
+    color: #3c80eb;
+
+}
+.carousel-main-card
+{
+    z-index: 1000;
+}
+.carousel-prev-card, .carousel-next-card
+{
+    position: absolute;
+    z-index: 999;
+    opacity: .5;
+    transform: scale(.9);
+}
+.carousel-prev-card
+{
+    /*left: -10rem;*/
+    left: -25%;
+}
+.carousel-next-card
+{
+    /*right: -10rem;*/
+    right: -25%;
+}
+
+
+.carousel-dots
+{
+    margin-top: 1rem;
+}
+.carousel-dots button
+{
+    background: none;
+    background-color: Transparent;
+    border: 0;
+    color: #3c80eb;
+    outline: none;
+    
+}
+.carousel-dots button.active-dot
+{
+    color: #fff;
+    border: 0;
+}
 
 </style>
 {% endblock %}
@@ -145,30 +212,11 @@
             <!-- Actual Coursel Vue App -->
             <div style="display: none;" :style="'display: block'">
                 <div class="container d-flex justify-content-center">
-
-<button @click="previousFellow">PREV</button>
-
-                    <div style="visibility: hidden" class="fellow card" >
-                        <div class="organization-logos d-flex justify-content-start">
-                            <div v-for="logo in fellows[current_index].logos" class="d-flex align-items-center org-logo">
-                                <img :src="logo.image" :alt="logo.name" />
-                            </div>
-                        </div>
-                        <div class="people-pictures row">
-                            <div v-for="person in fellows[current_index].people" class="d-flex align-items-center person col">
-                                <img class="mr-3" :src="person.image" :alt="person.name" />
-                                <strong v-text="person.name"></strong>
-                            </div>
-                        </div>
-                        <h3 v-text="fellows[current_index].title"></h3>
-                        <div class="summary">
-                        <span v-html="fellows[current_index].summary"></span><a :href="fellows[current_index].url">Read More</a>
-                        </div>
-                    </div>
-
-                    <div style="position: absolute;"  v-for="(fellow, index) in fellows">
-                    <transition name="fade" mode="in-out">
-                    <div v-if="index == current_index" class="fellow card" :key="'fellow_' + index">
+                    
+                    <div  v-for="(fellow, index) in fellows">
+                    <transition name="fade">
+                    <div v-if="index == current_index - 1">
+                    <div class="fellow card carousel-prev-card" >
                         <div class="organization-logos d-flex justify-content-start">
                             <div v-for="logo in fellow.logos" class="d-flex align-items-center org-logo">
                                 <img :src="logo.image" :alt="logo.name" />
@@ -185,15 +233,93 @@
                         <span v-html="fellow.summary"></span><a :href="fellow.url">Read More</a>
                         </div>
                     </div>
+                    </div>
                     </transition>
                     </div>
-<button @click="nextFellow">NEXT</button>
 
+                    <div   v-for="(fellow, index) in fellows">
+                    <transition name="fade">
+                    <div v-if="index == current_index +1">
+                    <div class="carousel-next-card fellow card" >
+                        <div class="organization-logos d-flex justify-content-start">
+                            <div v-for="logo in fellow.logos" class="d-flex align-items-center org-logo">
+                                <img :src="logo.image" :alt="logo.name" />
+                            </div>
+                        </div>
+                        <div class="people-pictures row">
+                            <div v-for="person in fellow.people" class="d-flex align-items-center person col">
+                                <img class="mr-3" :src="person.image" :alt="person.name" />
+                                <strong v-text="person.name"></strong>
+                            </div>
+                        </div>
+                        <h3 v-text="fellow.title"></h3>
+                        <div class="summary">
+                        <span v-html="fellow.summary"></span><a :href="fellow.url">Read More</a>
+                        </div>
+                    </div>
+                    </div>
+                    </transition>
+                    </div>
+
+                    <div class="carousel-main-card d-flex justify-content-between align-items-start ">
+
+                        <button class="carousel-button d-flex justify-content-center align-items-center" @click="previousFellow"><div>&#x276e;&nbsp;</div></button>
+                        <div style="position: relative">
+                            <template  v-for="(fellow, index) in fellows">
+                                <transition name="fade" mode="in-out">
+                                    <div style="position: absolute; top:0; left:0; right: 0; bottom: 0;" v-if="index == current_index" class="fellow card" :key="'fellow_' + index">
+                                        <div class="organization-logos d-flex justify-content-start">
+                                            <div v-for="logo in fellow.logos" class="d-flex align-items-center org-logo">
+                                                <img :src="logo.image" :alt="logo.name" />
+                                            </div>
+                                        </div>
+                                        <div class="people-pictures row">
+                                            <div v-for="person in fellow.people" class="d-flex align-items-center person col">
+                                                <img class="mr-3" :src="person.image" :alt="person.name" />
+                                                <strong v-text="person.name"></strong>
+                                            </div>
+                                        </div>
+                                        <h3 v-text="fellow.title"></h3>
+                                        <div class="summary">
+                                        <span v-html="fellow.summary"></span><a :href="fellow.url">Read More</a>
+                                        </div>
+                                    </div>
+                                </transition>
+                            </template>
+
+                            <!-- Place Holder -->
+                            <div style="visibility: hidden" class="fellow card" >
+                                <div class="organization-logos d-flex justify-content-start">
+                                    <div v-for="logo in fellows[current_index].logos" class="d-flex align-items-center org-logo">
+                                        <img :src="logo.image" :alt="logo.name" />
+                                    </div>
+                                </div>
+                                <div class="people-pictures row">
+                                    <div v-for="person in fellows[current_index].people" class="d-flex align-items-center person col">
+                                        <img class="mr-3" :src="person.image" :alt="person.name" />
+                                        <strong v-text="person.name"></strong>
+                                    </div>
+                                </div>
+                                <h3 v-text="fellows[current_index].title"></h3>
+                                <div class="summary">
+                                <span v-html="fellows[current_index].summary"></span><a :href="fellows[current_index].url">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <button class="carousel-button d-flex justify-content-center align-items-start" @click="nextFellow"><div>&nbsp;&#x276f;</div></button>
+
+                    </div>
+
+
+                </div>
+                <div class="carousel-dots d-flex justify-content-center">
+                    <button v-for="(fellow, index) in fellows" :class="{'active-dot': index == current_index}" @click="gotoIndex(index)">&#8226;</button>
                 </div>
             </div>
 
             <!-- Keep this here in case vue carousel fails -->
-            <div v-if="!fellows.length" class="container d-flex justify-content-center">
+            <div v-if="!fellows.length" class="container">
                 {% set fellows = pages.find(url('/fellows')) %}
                 {% for fellow in fellows.children() %}
 

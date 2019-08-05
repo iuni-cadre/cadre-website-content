@@ -141,6 +141,7 @@ section.blue h3 {
     border-radius: 1rem;
     box-shadow: 0 .5rem 2rem 0 rgba(13, 49, 181, 0.12);
     background-color: #ffffff;
+    margin-bottom: 2rem;
 }
 .fellow .people-pictures, .fellow .organization-logos
 {
