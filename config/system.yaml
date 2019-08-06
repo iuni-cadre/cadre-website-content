@@ -1,6 +1,6 @@
 absolute_urls: false
-# custom_base_url: /website/grav/
-# reverse_proxy_setup: true
+custom_base_url: /website/grav/
+reverse_proxy_setup: true
 home:
   alias: '/home'
 
