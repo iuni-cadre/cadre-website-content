@@ -1,0 +1,30 @@
+title: Event
+'@extends':
+    type: default
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            header.date_from:
+              ordering@: 2
+              type: datetime
+              label: From
+              style: vertical
+              validate:
+                required: false
+                type: datetime
+            header.date_to:
+              ordering@: 3
+              type: datetime
+              label: To
+              style: vertical
+              validate:
+                required: false
+                type: datetime
