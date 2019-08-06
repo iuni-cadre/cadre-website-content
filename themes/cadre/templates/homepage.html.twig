@@ -127,13 +127,13 @@ button.carousel-button
 }
 .carousel-prev-card
 {
-    /*left: -10rem;*/
-    left: -25%;
+    left: -20rem;
+    /*left: -25%;*/
 }
 .carousel-next-card
 {
-    /*right: -10rem;*/
-    right: -25%;
+    right: -20rem;
+    /*right: -25%;*/
 }
 
 
@@ -163,6 +163,11 @@ button.carousel-button
 
 
 {% block content %}
+
+                {# {% set fellows = pages.find(url('/fellows')) %} #}
+                {# {% for fellow in pages.find('/fellows').children() %}
+                {{fellow.title}}
+                {% endfor %} #}
     <section id="hero" class="hero-bg">
     <div class="container">
         <div class="row">
@@ -320,7 +325,7 @@ button.carousel-button
 
             <!-- Keep this here in case vue carousel fails -->
             <div v-if="!fellows.length" class="container">
-                {% set fellows = pages.find(url('/fellows')) %}
+                {% set fellows = pages.find('/fellows') %}
                 {% for fellow in fellows.children() %}
 
                 <div class="fellow card">
@@ -363,7 +368,7 @@ button.carousel-button
 
 
 <script>
-            {% set fellows = pages.find(url('/fellows')) %}
+            {% set fellows = pages.find('/fellows') %}
 
 const FELLOWS = [
     {% for fellow in fellows.children() %}
