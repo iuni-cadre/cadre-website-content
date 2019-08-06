@@ -10,15 +10,13 @@ form:
       active: 1
 
       fields:
-        gallery:
-          type: tab
-          title: Fellows
-          ordering@: 1
+        content:
           fields:
             header.people:
               name: people
               type: list
               label: People
+              style: vertical
               fields:
                 .name:
                   type: text
@@ -30,6 +28,7 @@ form:
               name: logos
               type: list
               label: Logos
+              style: vertical
               fields:
                 .name:
                   type: text

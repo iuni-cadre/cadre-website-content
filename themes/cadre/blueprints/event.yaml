@@ -28,3 +28,15 @@ form:
               validate:
                 required: false
                 type: datetime
+            header.place:
+              ordering@: 4
+              type: text
+              label: Location
+              style: vertical
+            header.website:
+              ordering@: 5
+              type: text
+              label: Website
+              style: vertical
+              validate:
+                type: url
