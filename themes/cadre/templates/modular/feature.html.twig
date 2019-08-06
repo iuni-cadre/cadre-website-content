@@ -5,8 +5,12 @@
 <div class="card">
   <img src="{{ url(first_image.url) }}" class="card-img-top" alt="{{ page.title }}">
   <div class="card-body">
-    <h5 class="card-title">{{ page.title }}</h5>
-    <p class="card-text">{{ page.content|raw }}</p>
+    <div class="feature-title-bounding-box d-flex justify-content-center align-items-center">
+      <h5 class="card-title">{{ page.title }}</h5>
+    </div>
+    {# <p class="card-text"> #}
+    {{ page.content|raw }}
+    {# </p> #}
   </div>
 </div>
 
