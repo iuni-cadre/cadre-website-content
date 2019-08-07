@@ -41,6 +41,12 @@
   display: inline-block;
   padding: .5rem 1rem;
 }
+
+.events-homepage .event-card-content
+{
+    padding: 1rem 1.25rem;
+}
+
 </style>
 {% endblock %}
 
@@ -63,6 +69,31 @@
         <h3>
             Upcoming Events
         </h3>
+
+        <div class="upcoming-events">
+        {% for event in page.children() %}
+            <div class="card" >
+            <div class="d-flex justify-content-between">
+                <div class="event-card-content">
+                    <h4>{{event.title}}</h4>
+                    <div>{{event.header.date_from}}</div>
+                    <div>{{event.header.date_to}}</div>
+                    <div>{{event.header.place}}</div>
+                    <div>{{event.header.website}}</div>
+                    {{ event.summary | raw}}
+                    {# {{event.header | json_encode()}} #}
+                </div>
+
+                <div>
+                    <img src="example.com">
+                </div>
+                </div>
+            </div>
+        {% endfor %}
+
+        </div>
+
+
     </div>
 </section>
 
