@@ -20,7 +20,10 @@ body a {
     background-color: rgba(0, 0, 0, 0.16);
 }
 
+
 header#main-header {
+    position: relative;
+    z-index: 1;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.16);
     background-color: #ffffff;
     margin-top: -1rem;
@@ -38,6 +41,30 @@ header#main-header .nav-item {
 header#main-header a.get-started-button {
     color: #ffffff;
     background-image: linear-gradient(to right, #5b72b7, #302a6d);
+}
+
+#breadcrumbs
+{
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    font-size: 0.875rem;
+    color: #7285a3;
+    /* font-weight: bold; */
+}
+/* #breadcrumbs span.divider
+{
+    font-size: 2rem;
+    line-height: 0.875rem;
+    vertical-align: baseline;
+} */
+#breadcrumbs span:not(.divider)
+{
+    font-weight: bold;
+}
+#breadcrumbs a span:not(.divider)
+{
+    font-weight: normal;
+    color: #7285a3;
 }
 
 .btn {
