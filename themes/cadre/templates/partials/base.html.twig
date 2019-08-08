@@ -108,11 +108,11 @@
 
             {% for page in pages.children if page.header.main == true %}
             <div class="col">
-                <strong>{{page.title}}</strong>
+                <a href="{{url(page.url)}}"><strong>{{page.title}}</strong></a>
                 <ul class="list-unstyled">
                     {% for subpage in page.children %}
                     <li class="list-item">
-                        {{subpage.title}}
+                        <a href="{{url(subpage.url)}}">{{subpage.title}}</a>
                     </li>
                     {% endfor %}
                 </ul>

@@ -214,3 +214,27 @@ section.blue h3 {
     overflow: hidden;
     position: relative;
 }
+
+/* 
+########  ######## ########    ###    ##     ## ##       ######## 
+##     ## ##       ##         ## ##   ##     ## ##          ##    
+##     ## ##       ##        ##   ##  ##     ## ##          ##    
+##     ## ######   ######   ##     ## ##     ## ##          ##    
+##     ## ##       ##       ######### ##     ## ##          ##    
+##     ## ##       ##       ##     ## ##     ## ##          ##    
+########  ######## ##       ##     ##  #######  ########    ##     */
+
+
+.default-page
+{
+    padding-top: 3rem;
+}
+.default-page h2
+{
+    
+    /* border-radius: 0 0 1rem 1rem; */
+    /* padding: 3rem; */
+    text-align: left;
+    font-size: 2.5rem;
+    margin: 0;
+}
