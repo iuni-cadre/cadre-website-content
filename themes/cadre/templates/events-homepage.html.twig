@@ -9,7 +9,11 @@
 }
 .events-homepage header h2
 {
-    background-color: blue;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
+
     border-radius: 0 0 1rem 1rem;
     padding: 3rem;
     text-align: left;
@@ -40,11 +44,91 @@
 
   display: inline-block;
   padding: .5rem 1rem;
+  margin-bototm: 1rem;
 }
 
 .events-homepage .event-card-content
 {
     padding: 1rem 1.25rem;
+}
+
+.events-homepage .event-card-image img
+{
+    {# visibility: hidden; #}
+    display: none;
+}
+
+.event-card-image
+{
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    {# width: 100%;
+    position: relative;
+    left: 0;
+    right: .5rem;
+    bottom: 0;
+    top: 0; #}
+}
+
+.events-homepage h4
+{
+    font-family: Lato, sans-serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5b72b7;
+    margin-bottom: 1rem;
+}
+
+.events-homepage .event-card-content > div
+{
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5b72b7;
+    margin-bottom: .5rem;
+}
+.events-homepage .event-card-content > p
+{
+  font-family: Lato, sans-serif;
+  font-size: 0.875rem;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: left;
+  color: #838896;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+
+}
+
+.events-homepage .details-button
+{
+    background-color: #5b72b7;
+    font-size: .875rem;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    border-radius: 1rem;
+    padding: .25rem 1rem;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: inline-block;
 }
 
 </style>
@@ -72,22 +156,30 @@
 
         <div class="upcoming-events">
         {% for event in page.children() %}
-            <div class="card" >
-            <div class="d-flex justify-content-between">
-                <div class="event-card-content">
-                    <h4>{{event.title}}</h4>
-                    <div>{{event.header.date_from}}</div>
-                    <div>{{event.header.date_to}}</div>
-                    <div>{{event.header.place}}</div>
-                    <div>{{event.header.website}}</div>
-                    {{ event.summary | raw}}
-                    {# {{event.header | json_encode()}} #}
+            <div class="card" class="event-card">
+            <div class="row d-flex justify-content-between">
+                <div class="col-8">
+                    <div class="event-card-content">
+                        <h4>{{event.title}}</h4>
+                        <div class="dates">{{event.header.date_from | date("F j, Y")}} - {{event.header.date_to | date("F j, Y")}}</div>
+                        <div class="place">{{event.header.place}}</div>
+                        <div class="website">{{event.header.website}}</div>
+                        {{ event.summary | raw}}
+                        {# {{event.header | json_encode()}} #}
+                        <a class="details-button" href="{{url(event.url)}}">See Details</a>
+                    </div>
                 </div>
 
-                <div>
-                    <img src="example.com">
+                <div class="col d-flex">
+                <div class="event-card-image flex-fill" style="
+                    background-image: url({{ url(event.media[event.header.image].url) }}); 
+                    background-size: cover;
+                    " >
+                    &nbsp;
+                    <img class="btn" src="{{ url(event.media[event.header.image].url) }}">
                 </div>
                 </div>
+            </div>
             </div>
         {% endfor %}
 

@@ -40,3 +40,10 @@ form:
               style: vertical
               validate:
                 type: url
+            header.image:
+              ordering@: 6
+              type: PageMediaSelect
+              label: Image
+              style: vertical
+              validate:
+                type: url

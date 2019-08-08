@@ -20,6 +20,13 @@ body a {
     background-color: rgba(0, 0, 0, 0.16);
 }
 
+.card
+{
+    border-radius: 1rem;
+    border: 0;
+    box-shadow: 0 8px 16px 0 rgba(91, 114, 183, 0.16);
+    background-color: #ffffff;
+}
 
 header#main-header {
     position: relative;
