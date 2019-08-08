@@ -1,0 +1,22 @@
+title: News Item
+'@extends':
+    type: default
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            header.dateline:
+              ordering@: 2
+              type: datetime
+              label: Dateline
+              style: vertical
+              validate:
+                required: false
+                type: datetime

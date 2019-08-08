@@ -1,0 +1,15 @@
+{% extends 'partials/base.html.twig' %}
+{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
+
+{% block content %}
+
+<section>
+    <div class="container">
+        <h2>{{page.title}}</h2>
+        {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
+            {% include 'partials/breadcrumbs.html.twig' %}
+        {% endif %}        {{ page.content|raw }}
+    </div>
+</section>
+
+{% endblock %}
