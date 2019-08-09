@@ -1,9 +1,9 @@
-{% extends 'partials/base.html.twig' %}
-{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
+{% extends 'default.html.twig' %}
+{# {% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
 
 {% block content %}
 
-<section class="default-page">
+<section>
     <div class="container">
         <h2>{{page.title}}</h2>
         {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
@@ -12,4 +12,4 @@
     </div>
 </section>
 
-{% endblock %}
+{% endblock %} #}
