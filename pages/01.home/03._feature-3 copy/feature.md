@@ -1,6 +1,7 @@
 ---
-title: 'Share research & data analysis tools as well as query outputs'
+title: 'Utilize open research & data-analysis tools'
+an_example_text_field: 5
 media_order: illustration1.png
 ---
 
-Utilize data-analysis tools and query outputs created by other researchers in the collaborative CADRE Marketplace. The Marketplace is our answer to big data research accessibility and reproducibility.
+Utilize the research and data-analysis tools shared in the CADRE Marketplace&mdash;our answer to data accessibility and reproducibility.
