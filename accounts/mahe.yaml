@@ -1,0 +1,24 @@
+state: enabled
+email: mahe@iu.edu
+access:
+  admin:
+    super: 'false'
+    login: 'true'
+    cache: 'true'
+    configuration: 'false'
+    configuration_system: 'false'
+    configuration_site: 'false'
+    configuration_media: 'false'
+    configuration_info: 'false'
+    settings: 'false'
+    pages: 'true'
+    maintenance: 'false'
+    statistics: 'true'
+    plugins: 'false'
+    themes: 'false'
+    tools: 'true'
+    users: 'false'
+fullname: 'Jessie Ma'
+title: Editor
+language: en
+hashed_password: $2y$10$rgYljJ.5ZHRv2qmWKJgMne9iblj8IUzZv9X2zQ.S7clFBePIgWDKa
