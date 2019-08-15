@@ -155,7 +155,6 @@ section.blue h3 {
 {
     /* max-width: 3rem; */
     width: 2rem;
-    height: 2rem;
 }
 
 .org-logo img
@@ -171,7 +170,7 @@ section.blue h3 {
     height: 2.5rem;
     padding-left: 2rem;
     position: relative;
-    padding-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 .organization-logos .org-logo:first-child
 {
