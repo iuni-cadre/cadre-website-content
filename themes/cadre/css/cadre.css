@@ -149,6 +149,7 @@ section.blue h3 {
     font-size: .875rem;
     /* line-height: 2; */
     font-weight: bold;
+    line-height: 1.2;
 }
 .people-pictures .person img
 {
