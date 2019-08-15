@@ -22,10 +22,12 @@
         <ul class="list-unstyled">
         {% for subpage in page.children() %}
             <li>
-                <strong><a href="{{url(subpage.url)}}">{{ subpage.title|raw }}</a></strong>
+                <div class="card p-3">
+                    <strong><a href="{{url(subpage.url)}}">{{ subpage.title|raw }}</a></strong>
 
-                {{ subpage.summary | raw }}
-                <small><a href="{{url(subpage.url)}}">Read More...</a></small>
+                    {{ subpage.summary | raw }}
+                    <small><a href="{{url(subpage.url)}}">Read More...</a></small>
+                </div>
             </li>
         {% endfor %}
         </ul>
