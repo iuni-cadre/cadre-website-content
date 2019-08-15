@@ -5,15 +5,15 @@ published: true
 publish_date: '31-07-2019 16:01'
 ---
 
-![](complete-colored-transparent%20%281%29.png)
+![A purple and blue logo that reads "CADRE" with an owl attached to it](complete-colored-transparent%20%281%29.png)
 
 In our last blog you met the [CADRE Fellows](https://cadre.iu.edu/website/grav/news-and-events/news/meet-cadres-first-class-of-fellows). Now, meet the CADRE Owl! That’s right, CADRE has a logo. More than a picture, our logo represents who we are.
 
 ===
 
-For [Jessie Ma](http://iuni.iu.edu/about/people/person/jessie_ma), the UI/UX designer at the [Indiana University Network Science Institute](http://iuni.iu.edu/), who has taken the lead on designing CADRE’s visuals, an owl aligned perfectly with CADRE’s mission. ![Five different versions of an illustrated owl: Two owls are white and facing opposite directions; the other three owls have various features including a network around their next and facial disks. ](owlhead-compare.png?classes=float-left)
+For [Jessie Ma](http://iuni.iu.edu/about/people/person/jessie_ma), the UI/UX designer at the [Indiana University Network Science Institute](http://iuni.iu.edu/), who has taken the lead on designing CADRE’s visuals, an owl aligned perfectly with CADRE’s mission. 
 
-Ma says CADRE is a project designed to make valuable and complex large library data resources approachable to any academic researcher, regardless of their skill level in handling such data.
+![Five different versions of an illustrated owl: Two owls are white and facing opposite directions; the other three owls have various features including a network around their next and facial disks. ](owlhead-compare.png?classes=float-left) Ma says CADRE is a project designed to make valuable and complex large library data resources approachable to any academic researcher, regardless of their skill level in handling such data.
 
 An owl is not just beautiful, it is a symbol of wisdom and a known powerful predator. Ma says this is exactly how CADRE resonates with her: a powerful system filled with complex big data wrapped in a user-friendly interface that allows even non-experienced coders to tame the data.
 

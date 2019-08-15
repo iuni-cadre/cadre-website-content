@@ -1,6 +1,6 @@
 ---
 title: 'The global network of air links and scientific collaboration – a quasi-experimental analysis '
-media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_YingDing.png,nanjing university logo.png,IUB.2line.H_WEB.png'
+media_order: 'IUB.2line.H_WEB-cropped.png,PODSTAWOWY-cropped.png'
 people:
     -
         name: 'Katy Börner'
@@ -17,7 +17,10 @@ people:
 logos:
     -
         name: 'Indiana University Bloomington'
-        image: IUB.2line.H_WEB.png
+        image: IUB.2line.H_WEB-cropped.png
+    -
+        name: 'University of Warsaw'
+        image: PODSTAWOWY-cropped.png
 ---
 
 Researchers plan to determine the impact of the introduction and availability of long-distance flights on international scientific collaboration. The team will measure collaboration through co-authorship and co-affiliation.

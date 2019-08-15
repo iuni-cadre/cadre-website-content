@@ -1,14 +1,14 @@
 ---
 title: 'Systematic over-time study of the similarities and differences in research across mathematics and the sciences'
-media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_YingDing.png,nanjing university logo.png,IUB.2line.H_WEB.png'
+media_order: 'UMich_Hansen-round.png,University-of-Michigan-Logo-cropped.png'
 people:
     -
         name: 'Samuel Hansen'
-        image: CitationImpact_ChaoMin.png
+        image: UMich_Hansen-round.png
 logos:
     -
         name: 'University of Michigan'
-        image: IUB.2line.H_WEB.png
+        image: University-of-Michigan-Logo-cropped.png
 ---
 
 Samuel’s project uses reference and citation aging, bibliographic coupling, and network breadth and depth to find similarities and differences between research fields in mathematics and the sciences.

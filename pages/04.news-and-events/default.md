@@ -6,3 +6,5 @@ main: true
 **[News](./news)**
 
 **[Events](./events)**
+
+**[Blog](./blog)**

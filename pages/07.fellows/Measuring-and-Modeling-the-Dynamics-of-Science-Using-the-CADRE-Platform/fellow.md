@@ -1,34 +1,34 @@
 ---
 title: 'Measuring and Modeling the Dynamics of Science Using the CADRE Platform'
-media_order: 'boston-u_rgb-cropped.png,NYU_logo.svg_-cropped.png,u-of-minnesota-cropped.png,University_of_Arizona-CROPPED.png,University-of-Pennsylvania-Logo-square-cropped.png'
+media_order: 'boston-u_rgb-cropped.png,NYU_logo.svg_-cropped.png,u-of-minnesota-cropped.png,University_of_Arizona-CROPPED.png,University-of-Pennsylvania-Logo-square-cropped.png,MaM_Gebhart-round.png,MaM_Glenon-round.png,MaM_Lane-round.png,MaM_Leahey-round.png,MaM_Murciano-Goroff-round.png,MaM_Park-round.png,MaM_Ross-round.png,MaM_Funk-round.png,MaM_Lee-round.png'
 people:
     -
         name: 'Russell Funk'
-        image: CitationImpact_YiBu.png
+        image: MaM_Funk-round.png
     -
         name: 'Thomas Gebhart'
-        image: CitationImpact_ChaoMin.png
+        image: MaM_Gebhart-round.png
     -
         name: 'Michael Park'
-        image: CitationImpact_YingDing.png
+        image: MaM_Park-round.png
     -
         name: 'Julia Lane'
-        image: CitationImpact_ChaoMin.png
+        image: MaM_Lane-round.png
     -
         name: 'Raviv Murciano-Goroff'
-        image: CitationImpact_YiBu.png
+        image: MaM_Murciano-Goroff-round.png
     -
         name: 'Matthew Ross'
-        image: CitationImpact_YiBu.png
+        image: MaM_Ross-round.png
     -
         name: 'Britta Glennon'
-        image: CitationImpact_ChaoMin.png
+        image: MaM_Glenon-round.png
     -
         name: 'Erin Leahey'
-        image: CitationImpact_YingDing.png
+        image: MaM_Leahey-round.png
     -
         name: 'Jina Lee'
-        image: CitationImpact_YiBu.png
+        image: MaM_Lee-round.png
 logos:
     -
         name: 'University of Minnesota'
