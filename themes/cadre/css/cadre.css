@@ -155,6 +155,7 @@ section.blue h3 {
 {
     /* max-width: 3rem; */
     width: 2rem;
+    height: 2rem;
 }
 
 .org-logo img
@@ -166,15 +167,15 @@ section.blue h3 {
 
 .organization-logos .org-logo
 {
-    max-width: 30%;
-    margin-right: 2rem;
+    width: 30%;
     height: 2.5rem;
+    padding-left: 2rem;
     position: relative;
-    margin-bottom: 1rem;
+    padding-bottom: 1rem;
 }
-.organization-logos .org-logo:last-child
+.organization-logos .org-logo:first-child
 {
-    margin-right: 0;
+    padding-left: 0;
 }
 
 .fellow.card
