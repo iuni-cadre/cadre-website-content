@@ -1,6 +1,6 @@
 ---
 title: 'Measuring and Modeling the Dynamics of Science Using the CADRE Platform'
-media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_YingDing.png,nanjing university logo.png,IUB.2line.H_WEB.png'
+media_order: 'boston-u_rgb-cropped.png,NYU_logo.svg_-cropped.png,u-of-minnesota-cropped.png,University_of_Arizona-CROPPED.png,University-of-Pennsylvania-Logo-square-cropped.png'
 people:
     -
         name: 'Russell Funk'
@@ -32,14 +32,19 @@ people:
 logos:
     -
         name: 'University of Minnesota'
+        image: u-of-minnesota-cropped.png
     -
         name: 'New York University'
+        image: NYU_logo.svg_-cropped.png
     -
         name: 'Boston University'
+        image: boston-u_rgb-cropped.png
     -
         name: 'University of Pennsylvania'
+        image: University-of-Pennsylvania-Logo-square-cropped.png
     -
         name: 'University of Arizona'
+        image: University_of_Arizona-CROPPED.png
 ---
 
 This research team wants to better characterize scientific influence of papers, typically measured by how many times papers are cited, by distinguishing between papers that destabilize existing knowledge with novel concepts and papers that consolidate existing knowledge.

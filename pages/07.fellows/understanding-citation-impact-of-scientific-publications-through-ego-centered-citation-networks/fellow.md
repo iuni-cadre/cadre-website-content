@@ -1,16 +1,16 @@
 ---
 title: 'Understanding Citation Impact of Scientific Publications Through Ego-Centered Citation Networks'
-media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_YingDing.png,nanjing university logo.png,IUB.2line.H_WEB.png'
+media_order: 'nanjing university logo.png,IUB.2line.H_WEB.png,CitationImpact_ChaoMin-round.png,CitationImpact_YingDing-round.png,CitationImpact_YiBu-round.png'
 people:
     -
         name: 'Yi Bu'
-        image: CitationImpact_YiBu.png
+        image: CitationImpact_YiBu-round.png
     -
         name: 'Chao Min'
-        image: CitationImpact_ChaoMin.png
+        image: CitationImpact_ChaoMin-round.png
     -
         name: 'Ying Ding'
-        image: CitationImpact_YingDing.png
+        image: CitationImpact_YingDing-round.png
 logos:
     -
         name: 'Nanjing University'

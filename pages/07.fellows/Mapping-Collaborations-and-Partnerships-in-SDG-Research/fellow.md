@@ -1,23 +1,23 @@
 ---
 title: 'MCAP: Mapping Collaborations and Partnerships in SDG Research'
-media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_YingDing.png,nanjing university logo.png,IUB.2line.H_WEB.png'
+media_order: 'combomarksforweb-01 copy.png,MSU_Calvert-round.png,MSU_He2-round.png,MSU_Payumo-round.png,MSU-devinhiggins-round.png'
 people:
     -
         name: 'Jane Payumo'
-        image: CitationImpact_YiBu.png
+        image: MSU_Payumo-round.png
     -
         name: 'Devin Higgins'
-        image: CitationImpact_ChaoMin.png
+        image: MSU-devinhiggins-round.png
     -
         name: 'Scout Calvert'
-        image: CitationImpact_YingDing.png
+        image: MSU_Calvert-round.png
     -
         name: 'Guangming He'
-        image: CitationImpact_ChaoMin.png
+        image: MSU_He2-round.png
 logos:
     -
         name: 'Michigan State University'
-        image: IUB.2line.H_WEB.png
+        image: 'combomarksforweb-01 copy.png'
 ---
 
 This project will build on the WoS report “Navigating the Structure of Research on Sustainable Development Goals (SDG),” as the researchers search for patterns of global collaboration and support the United Nations’ SDG call for action.

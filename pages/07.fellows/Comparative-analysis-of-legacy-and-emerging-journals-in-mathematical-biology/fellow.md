@@ -1,23 +1,23 @@
 ---
 title: 'Comparative analysis of legacy and emerging journals in mathematical biology'
-media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_YingDing.png,nanjing university logo.png,IUB.2line.H_WEB.png'
+media_order: 'UMich_Conte-round.png,UMich_Hansen-round.png,UMich_Martin-round.png,UMich_Shnell-round.png,University-of-Michigan-Logo-cropped.png'
 people:
     -
         name: 'Marisa Conte'
-        image: CitationImpact_YiBu.png
+        image: UMich_Conte-round.png
     -
         name: 'Samuel Hansen'
-        image: CitationImpact_ChaoMin.png
+        image: UMich_Hansen-round.png
     -
         name: 'Scott Martin'
-        image: CitationImpact_YingDing.png
+        image: UMich_Martin-round.png
     -
         name: 'Santiago Schnell'
-        image: CitationImpact_ChaoMin.png
+        image: UMich_Shnell-round.png
 logos:
     -
         name: 'University of Michigan'
-        image: IUB.2line.H_WEB.png
+        image: University-of-Michigan-Logo-cropped.png
 ---
 
 Researchers will perform a comparative analysis on papers published in four mathematical biology legacy journals and on newer journals with different publication models and disciplinary scope.

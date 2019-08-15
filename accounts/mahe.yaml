@@ -22,3 +22,11 @@ fullname: 'Jessie Ma'
 title: Editor
 language: en
 hashed_password: $2y$10$rgYljJ.5ZHRv2qmWKJgMne9iblj8IUzZv9X2zQ.S7clFBePIgWDKa
+twofa_enabled: false
+twofa_secret: ZDGQXP2R7L4D3T46WYCPFVMCK5I4EEBF
+avatar:
+  user/accounts/avatars/3Rig8qLAVrTJkPu.png:
+    name: 3Rig8qLAVrTJkPu.png
+    type: image/png
+    size: 513406
+    path: user/accounts/avatars/3Rig8qLAVrTJkPu.png
