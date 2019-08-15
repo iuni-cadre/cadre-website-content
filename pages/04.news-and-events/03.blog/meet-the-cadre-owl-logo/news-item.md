@@ -1,8 +1,6 @@
 ---
 title: 'Meet the CADRE Owl logo'
-media_order: 'owlhead-compare.png,OldOwl.jpg,complete-colored-transparent (1).png'
-published: true
-publish_date: '31-07-2019 16:01'
+dateline: '13-07-2019 15:41'
 ---
 
 **7/13/19** 

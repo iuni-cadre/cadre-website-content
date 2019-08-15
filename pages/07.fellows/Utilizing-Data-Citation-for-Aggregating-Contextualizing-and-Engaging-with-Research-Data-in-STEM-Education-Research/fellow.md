@@ -4,17 +4,17 @@ media_order: 'CitationImpact_ChaoMin.png,CitationImpact_YiBu.png,CitationImpact_
 people:
     -
         name: 'Michael Witt'
-        image: CitationImpact_YiBu.png
+        image: STEM_Witt-round.png
     -
         name: 'Loran Carleton Parker'
-        image: CitationImpact_ChaoMin.png
+        image: STEM_Parker-round.png
     -
         name: 'Ann Bessenbacher'
-        image: CitationImpact_YingDing.png
+        image: STEM_Bessenbacher-round.png
 logos:
     -
         name: 'Purdue University '
-        image: IUB.2line.H_WEB.png
+        image: Purdue-Sig-Black-Gold-rgb-cropped.png
 ---
 
 Researchers will characterize citation of data from the literature in the field of STEM education research. A sample of relevant publication venues in the field will be identified from WoS and MAG. 

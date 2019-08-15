@@ -1,19 +1,19 @@
 ---
 title: 'The global network of air links and scientific collaboration – a quasi-experimental analysis '
-media_order: 'IUB.2line.H_WEB-cropped.png,PODSTAWOWY-cropped.png'
+media_order: 'IUB.2line.H_WEB-cropped.png,PODSTAWOWY-cropped.png,QuasiExp_Borner-round.png,QuasiExp_Herr-round.png,QuasiExp_Ploszaj-round.png,QuasiExp_Record-round.png'
 people:
     -
         name: 'Katy Börner'
-        image: CitationImpact_YiBu.png
+        image: QuasiExp_Borner-round.png
     -
         name: 'Adam Ploszaj'
-        image: CitationImpact_ChaoMin.png
+        image: QuasiExp_Ploszaj-round.png
     -
         name: 'Lisel Record'
-        image: CitationImpact_YingDing.png
+        image: QuasiExp_Record-round.png
     -
         name: 'Bruce Herr II'
-        image: CitationImpact_ChaoMin.png
+        image: QuasiExp_Herr-round.png
 logos:
     -
         name: 'Indiana University Bloomington'
