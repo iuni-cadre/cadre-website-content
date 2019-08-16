@@ -12,6 +12,8 @@ CADRE is an IMLS-funded project that provides sustainable, affordable, and stand
 * CADRE Notebook: where proficient coders can build their own data-analysis tools 
 * CADRE Marketplace: where researchers can reproduce queries, tools, derived data, research results, workflows, and visualizations&mdash;and utilize what others share
 
+[plugin:youtube](https://www.youtube.com/watch?v=33ev6Rzhd0A)
+
 This platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible by [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/).
 
 To read more in-depth about the features our platform will provide, please visit the [introduction page](https://cadre.iu.edu/website/grav/about-cadre/introduction).
