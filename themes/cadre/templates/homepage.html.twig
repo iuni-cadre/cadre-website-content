@@ -200,6 +200,7 @@ button.carousel-button
 
     width: 2.25rem;
     margin-right: 1rem;
+    display: block;
 }
 
 .news-widget .news-item a
@@ -278,10 +279,13 @@ button.carousel-button
                 <div class="news-widget col-lg-7">
                     
                     <div class="card">
+                    <h4>News</h4>
                     {% for item in pages.find("/news-and-events/news").collection('homepageitems') %}
                         <div class="news-item d-flex justify-content-start">
+                            <div>
                             <div class="dateline">
                                 {{item.header.dateline | date("n/j")}}
+                            </div>
                             </div>
                             <div class="">
                             <a href="{{url(item.url)}}">
@@ -292,8 +296,10 @@ button.carousel-button
                         </div>
                     {% endfor %}
                     <div class="d-flex justify-content-start">
-                            <div class="dateline">
-                                
+                            <div>
+                                <div class="dateline">
+                                    
+                                </div>
                             </div>
                             <div class="">
                             <a href="{{url(pages.find("/news-and-events/news").url)}}">
@@ -305,10 +311,13 @@ button.carousel-button
 
 
                     <div class="card">
+                    <h4>Events</h4>
                     {% for item in pages.find("/news-and-events/events").collection('homepageitems') %}
                         <div class="news-item d-flex justify-content-start">
-                            <div class="dateline">
-                                {{item.header.date_from | date("n/j")}}
+                            <div>
+                                <div class="dateline">
+                                    {{item.header.date_from | date("n/j")}}
+                                </div>
                             </div>
                             <div class="">
                             <a href="{{url(item.url)}}">
@@ -319,8 +328,10 @@ button.carousel-button
                         </div>
                     {% endfor %}
                     <div class="d-flex justify-content-start">
-                            <div class="dateline">
-                                
+                            <div>
+                                <div class="dateline">
+                                    
+                                </div>
                             </div>
                             <div class="">
                             <a href="{{url(pages.find("/news-and-events/events").url)}}">
