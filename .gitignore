@@ -1,4 +1,6 @@
 data
-plugins
+plugins/*
 themes/quark
 config/system.yaml
+
+!plugins/cadphp

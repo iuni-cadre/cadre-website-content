@@ -1,14 +1,46 @@
 {% extends 'partials/base.html.twig' %}
 {% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
 
+{% block styles %}
+    <style>
+.default-page
+{
+    padding-top: 0;
+}
+.default-page header h2
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+    border-radius: 0 0 1rem 1rem;
+    padding: 3rem;
+    text-align: left;
+    font-size: 2.5rem;
+    margin: 0;
+    color: white;
+
+    background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
+}
+    </style>
+{% endblock %}
 {% block content %}
 
 <section class="default-page">
     <div class="container">
-        <h2>{{page.title}}</h2>
+    
+        <header>
+            <div class="header-title">
+                <h2>{{page.title}}</h2>
+            </div>
+
         {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
             {% include 'partials/breadcrumbs.html.twig' %}
-        {% endif %}        {{ page.content|raw }}
+        {% endif %}
+        </header>
+        
+        
+        {{ page.content|raw }}
     </div>
 </section>
 
