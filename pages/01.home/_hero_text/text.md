@@ -8,4 +8,4 @@ order_manual: ''
 
 # CADRE
 
-The Collaborative Archive & Data Research Environment is an open source science gateway for accessing open datasets and data-anlysis tools to build research and collaborate with others&mdash;all in one cloud-based platform.
+The Collaborative Archive & Data Research Environment is a science gateway to standardized text- and data-mining services for large datasets&mdash;with reproducbility and collaboration in mind. All in a cloud-based platform.

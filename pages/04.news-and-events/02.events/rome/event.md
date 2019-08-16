@@ -10,7 +10,7 @@ media_order: 'rome1.jpg,rome1@2x.jpg'
 
 CADRE's presentation at ISSI 2019 will be on [Sept. 2](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) and will consist of a  workshop from 2 p.m. to 4 p.m. CEST and a tutorial from 4:30 p.m. to 6:30 p.m. CEST&mdash;so don't miss us! 
 
-ISSI provides an opportunity to showcase CADRE to an international community of Scientometrics and Informetrics researchers, while also allowing us to receive essential feedback and use cases as we continue to develop a platform that suit the needs of every type of academic researcher. 
+ISSI provides an opportunity to showcase CADRE to an international community of Scientometrics and Informetrics researchers, while also allowing us to receive essential feedback and use cases as we continue to develop a platform that suits the needs of every type of academic researcher. 
 
 ===
 

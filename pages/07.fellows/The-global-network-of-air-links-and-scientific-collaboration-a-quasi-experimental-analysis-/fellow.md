@@ -16,11 +16,11 @@ people:
         image: QuasiExp_Herr-round.png
 logos:
     -
-        name: 'Indiana University Bloomington'
-        image: IUB.2line.H_WEB-cropped.png
-    -
         name: 'University of Warsaw'
         image: PODSTAWOWY-cropped.png
+    -
+        name: 'Indiana University Bloomington'
+        image: IUB.2line.H_WEB-cropped.png
 ---
 
 Researchers plan to determine the impact of the introduction and availability of long-distance flights on international scientific collaboration. The team will measure collaboration through co-authorship and co-affiliation.
