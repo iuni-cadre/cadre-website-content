@@ -276,10 +276,9 @@ button.carousel-button
             <div class="row">
                 
                 <div class="news-widget col-lg-7">
-                    <div class="card">
                     
+                    <div class="card">
                     {% for item in pages.find("/news-and-events/news").collection('homepageitems') %}
-
                         <div class="news-item d-flex justify-content-start">
                             <div class="dateline">
                                 {{item.header.dateline | date("n/j")}}
@@ -290,12 +289,8 @@ button.carousel-button
                                 {{item.summary}}
                                 </a>
                             </div>
-
                         </div>
-
                     {% endfor %}
-
-
                     <div class="d-flex justify-content-start">
                             <div class="dateline">
                                 
@@ -305,10 +300,39 @@ button.carousel-button
                                 Browse All News
                             </a>
                             </div>
-
                         </div>
-
                     </div>
+
+
+                    <div class="card">
+                    {% for item in pages.find("/news-and-events/events").collection('homepageitems') %}
+                        <div class="news-item d-flex justify-content-start">
+                            <div class="dateline">
+                                {{item.header.date_from | date("n/j")}}
+                            </div>
+                            <div class="">
+                            <a href="{{url(item.url)}}">
+                                <h4>{{item.title}}</h4>
+                                {{item.summary}}
+                                </a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                    <div class="d-flex justify-content-start">
+                            <div class="dateline">
+                                
+                            </div>
+                            <div class="">
+                            <a href="{{url(pages.find("/news-and-events/events").url)}}">
+                                Browse All Events
+                            </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
                 </div>
                 <div class="twitter-widget col">
                     <div class="card">
