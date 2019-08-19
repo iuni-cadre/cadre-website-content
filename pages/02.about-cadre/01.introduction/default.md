@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: 'Introduction to CADRE'
 ---
 
 The Collaborative Archive & Data Research Environment (CADRE) addresses the IMLS “National Digital Platform” priority by addressing a critical emergent issue faced by academic libraries: providing sustainable, affordable, and standardized text- and data-mining services for licensed, big datasets, as well as open and non-consumptive datasets too large or unwieldy to work within existing research library environments or with no commercially viable data-mining interface. The project team, led by Indiana University, will provide member institutions with a cloud-based solution for making such data available to members with the appropriate security, stewardship, and storage at a fraction of what it would cost them to do so alone. By sharing the cost of this solution across a large number of academic libraries, we will be able to provide a superior solution at a lower cost to members. 
