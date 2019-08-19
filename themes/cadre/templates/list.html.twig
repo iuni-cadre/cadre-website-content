@@ -31,6 +31,14 @@
 
         background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
     }
+
+    .default-page > .container > p
+    {
+        margin-left: 1.25rem;
+        margin-bottom: 2.5rem;
+        color: #646c81;
+    }
+
 </style>
 <section class="default-page">
     <div class="container">
@@ -48,7 +56,11 @@
             {% include 'partials/breadcrumbs.html.twig' %}
         {% endif %}
         </header>
-        
+
+        {% if page.content %}
+            {{page.content | raw}}
+        {% endif %}
+
         <ul class="list-unstyled">
         {% for subpage in page.children() %}
             <li>

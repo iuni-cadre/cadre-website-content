@@ -1,0 +1,207 @@
+{% extends 'partials/base.html.twig' %}
+{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
+
+{% block styles %}
+<style>
+.pages-homepage
+{
+    padding-top: 0;
+}
+.pages-homepage header h2
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
+
+    border-radius: 0 0 1rem 1rem;
+    padding: 3rem;
+    text-align: left;
+    font-size: 2.5rem;
+    margin: 0;
+    color: white;
+}
+.pages-homepage > .container > p
+{
+    margin-left: 1.25rem;
+    margin-bottom: 2.5rem;
+    color: #646c81;
+}
+.pages-homepage h3
+{
+  font-family: Lato;
+  font-size: 1.25rem;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #edf8fb;
+
+  background-color: #5b72b7;
+  border-radius: .25rem;
+
+  display: inline-block;
+  padding: .5rem 1rem;
+  margin-bottom: 0;
+}
+
+.pages-homepage .page-card-content
+{
+    padding: 1rem 1.25rem;
+}
+
+.pages-homepage .page-card-image img
+{
+    {# visibility: hidden; #}
+    display: none;
+}
+
+.page-card-image
+{
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    {# width: 100%;
+    position: relative;
+    left: 0;
+    right: .5rem;
+    bottom: 0;
+    top: 0; #}
+}
+
+.pages-homepage h4
+{
+    font-family: Lato, sans-serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5b72b7;
+    margin-bottom: 1rem;
+}
+
+.pages-homepage .page-card-content > div
+{
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5b72b7;
+    margin-bottom: .5rem;
+}
+.pages-homepage .page-card-content > p
+{
+  font-family: Lato, sans-serif;
+  font-size: 0.875rem;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: left;
+  color: #838896;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+
+}
+
+.pages-homepage .details-button
+{
+    background-color: #5b72b7;
+    font-size: .875rem;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    border-radius: 1rem;
+    padding: .25rem 1rem;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: inline-block;
+}
+
+</style>
+{% endblock %}
+
+{% block content %}
+
+<section class="pages-homepage">
+    <div class="container">
+        <header>
+            <div class="header-title">
+                <h2>{{page.title}}</h2>
+            </div>
+
+        {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
+            {% include 'partials/breadcrumbs.html.twig' %}
+        {% endif %}
+        </header>
+        
+        {# {{ page.content|raw }} #}
+        
+        {# <h3>
+            Upcoming pages
+        </h3> #}
+
+        <div class="upcoming-pages">
+        {% for page in page.children() %}
+
+            {% set subpage = page.children() | first %}
+
+            {# {{subpage.title}} #}
+            <div class="d-flex align-items-end pb-3">
+            <a class="" href="{{url(page.url)}}"><h3 class="d-inline-block mr-3">{{page.title}}</h3></a>
+            <a class="" href="{{url(page.url)}}"><div class="d-inline-block">View More...</div></a>
+            </div>
+
+            <div class="card page-card mb-5">
+            <div class="row d-flex justify-content-between">
+                <div class="col">
+                    <div class="page-card-content">
+
+                        
+                        <h4>{{subpage.title}}</h4>
+
+                        {% if subpage.header.date_from %}<div class="dates">{{subpage.header.date_from | date("F j, Y")}} - {{subpage.header.date_to | date("F j, Y")}}</div>{% endif %}
+                        {% if subpage.header.dateline %}<div class="dates">{{subpage.header.dateline | date("F j, Y")}}</div>{% endif %}
+                        {% if subpage.header.place %}<div class="place">{{subpage.header.place}}</div>{% endif %}
+                        {% if subpage.header.website %}<div class="website">{{subpage.header.website}}</div>{% endif %}
+                        {{ subpage.summary | raw}}
+                        {# {{page.header | json_encode()}} #}
+
+                        <a class="details-button" href="{{url(subpage.url)}}">See Details</a>
+                    </div>
+                </div>
+                {% if subpage.header.image %}
+                    <div class="col-4 d-flex">
+                    <div class="page-card-image flex-fill" style="
+                        background-image: url({{ url(subpage.media[subpage.header.image].url) }}); 
+                        background-size: cover;
+                        " >
+                        &nbsp;
+                        <img class="btn" src="{{ url(subpage.media[subpage.header.image].url) }}">
+                    </div>
+                    </div>
+                {% endif %}
+            </div>
+            </div>
+        {% endfor %}
+
+        </div>
+
+
+    </div>
+</section>
+
+{% endblock %}

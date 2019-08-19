@@ -1,12 +1,12 @@
 ---
 title: News
-
 homepageitems:
     items: '@self.children'
-    order: 
+    order:
         by: header.dateline
         dir: desc
     limit: 5
     pagination: true
 ---
 
+The latest CADRE related news
