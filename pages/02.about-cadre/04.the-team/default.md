@@ -1,11 +1,11 @@
 ---
 title: 'The Team'
-media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRennes.jpg,WittenbergJ.jpg,IUB.CADRE Meeting at IUNI House_7192019-6.png,LG.jpg,SHM.jpg,IUB.CADRE Meeting at IUNI House_7192019-5 (1).jpg,Project Leads.jpg'
+media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRennes.jpg,WittenbergJ.jpg,IUB.CADRE Meeting at IUNI House_7192019-6.png,LG.jpg,SHM.jpg,IUB.CADRE Meeting at IUNI House_7192019-5 (1).jpg,PL1.jpg'
 ---
 
 #### CADRE Project Leads: ####
 
-![](Project%20Leads.jpg)
+![A collective photo of five headshots. There are two women on the left and three women on the right.](PL1.jpg)
 
 **Pictured left to right:**
 
