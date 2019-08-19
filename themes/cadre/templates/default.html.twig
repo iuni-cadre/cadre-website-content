@@ -40,7 +40,7 @@
         </header>
         
         
-        {{ page.content|raw }}
+        {% block subcontent %}{{ page.content|raw }}{% endblock %}
     </div>
 </section>
 

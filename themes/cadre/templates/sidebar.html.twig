@@ -1,0 +1,32 @@
+{% extends 'default.html.twig' %}
+
+{% block subcontent %}
+<style>
+.sidebar img
+{
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+</style>
+<aside class="sidebar card float-right ml-3 mb-3 p-0 col-md-3 col-12">
+
+            {% if page.header.sidebar_image %}
+            <img class="d-none d-md-block card-img-top" src="{{ url(page.media[page.header.sidebar_image].url) }}" />
+            {% endif %}
+
+
+    <nav class="py-3 card-body">
+        <strong class="card-title">{{page.title}}</strong>
+        <ul class="list-unstyled mb-0">
+
+        {% for subpage in page.children() %}
+            <li><a href="{{url(subpage.url)}}">{{subpage.title}}</a></li>
+        {% endfor %}
+        </ul>
+    </nav>
+</aside>
+<div>
+    {{ page.content|raw }}
+</div>
+
+{% endblock %}
