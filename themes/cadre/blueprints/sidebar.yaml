@@ -1,0 +1,21 @@
+title: Sidebar
+'@extends':
+    type: default
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            header.sidebar_image:
+              ordering@: 2
+              name: sidebar_image
+              type: pagemediaselect
+              label: Choose Image
+              style: vertical
+

@@ -1,5 +1,7 @@
 ---
 title: 'About CADRE'
+sidebar_image: illustration2-alt.min.png
+media_order: 'illustration2-alt.min.png,IU-Libraries-Lockup-Vert-Color-160620 (1).jpg'
 main: true
 ---
 
