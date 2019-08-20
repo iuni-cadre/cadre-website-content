@@ -250,10 +250,12 @@ section.blue h3 {
 }
 .default-page p img
 {
+    
+    border-radius: 1rem;
     margin-bottom: 1rem;
     padding: 1rem;
     background-color: white;
-    border: solid #302A6D 1px;
+    border: solid #7B85A3 1px;
     max-width: 100%;
 }
 .default-page p img.float-left

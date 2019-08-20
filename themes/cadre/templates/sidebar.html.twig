@@ -1,4 +1,6 @@
 {% extends 'default.html.twig' %}
+{% set crumbs = breadcrumbs.get() %}
+{% set top_level = array_values(crumbs)[1] %}
 
 {% block subcontent %}
 <style>
@@ -21,11 +23,48 @@
 
 
     <nav class="py-3 px-4 card-body">
-        <strong class="card-title">{{page.title}}</strong>
+    {# <pre>
+    {{ array_values(crumbs)[1].title}}
+    </pre> #}
+        <a href="{{url(top_level.url)}}"><strong class="card-title">{{top_level.title}}</strong></a>
         <ul class="list-unstyled mb-0">
+        {% for subpage in top_level.children() %}
+            <li>
+                <a href="{{url(subpage.url)}}">{{subpage.title}}</a>
 
-        {% for subpage in page.children() %}
-            <li><a href="{{url(subpage.url)}}">{{subpage.title}}</a></li>
+                {% if subpage.children() %}
+                    <ul class="list-unstyled mb-0 ml-3">
+                    {% for sub_subpage in subpage.children() %}
+                        <li>
+                            <a href="{{url(sub_subpage.url)}}">{{sub_subpage.title}}</a>
+
+                            {% if sub_subpage.children() %}
+                                <ul class="list-unstyled mb-0 ml-3">
+                                {% for sub_sub_subpage in sub_sub_page.children() %}
+                                    <li>
+                                        <a href="{{url(sub_sub_subpage.url)}}">{{sub_sub_subpage.title}}</a>
+
+                                        {% if sub_sub_subpage.children() %}
+                                            <ul class="list-unstyled mb-0 ml-3">
+                                            {% for sub_sub_sub_subpage in sub_sub_sub_page.children() %}
+                                                <li>
+                                                    <a href="{{url(sub_sub_sub_subpage.url)}}">{{sub_sub_sub_subpage.title}}</a>
+
+                                                    
+                                                </li>
+                                            {% endfor %}
+                                            </ul>
+                                        {% endif %}
+                                    </li>
+                                {% endfor %}
+                                </ul>
+                            {% endif %}
+                            
+                        </li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
         {% endfor %}
         </ul>
     </nav>
