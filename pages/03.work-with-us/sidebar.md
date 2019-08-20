@@ -2,7 +2,6 @@
 title: 'Work with Us'
 sidebar_image: logomark-colored-transparent.png
 media_order: logomark-colored-transparent.png
-main: true
 ---
 
 We are designing CADRE to be an agile, interdisciplinary tool for any academic researcher who performs text- and data-mining on large datasets. CADRE is built upon collaborative partnerships and shared resources. We are thankful to all of the partners that have a hand in CADRE. 
