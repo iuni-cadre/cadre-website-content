@@ -5,7 +5,7 @@ homepageitems:
     order:
         by: header.dateline
         dir: desc
-    limit: 5
+    limit: 2
     pagination: true
 ---
 

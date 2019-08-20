@@ -4,8 +4,8 @@ homepageitems:
     items: '@self.children'
     order:
         by: header.date_from
-        dir: desc
-    limit: 5
+        dir: asc
+    limit: 2
     pagination: true
 ---
 
