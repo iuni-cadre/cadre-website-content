@@ -1,14 +1,12 @@
 ---
 title: Events
-
-
 homepageitems:
     items: '@self.children'
-    order: 
+    order:
         by: header.date_from
         dir: desc
     limit: 5
     pagination: true
 ---
 
-Find information of upcoming and past events related to CADRE.
+All of CADRE's upcoming and past events. 

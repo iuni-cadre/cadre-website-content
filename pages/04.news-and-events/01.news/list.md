@@ -9,4 +9,4 @@ homepageitems:
     pagination: true
 ---
 
-The latest CADRE related news
+The latest CADRE news

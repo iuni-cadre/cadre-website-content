@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: 'Contact Us'
 main: true
 ---
 
@@ -10,7 +10,7 @@ If you have a request for datasets, data-analysis tools, other features&mdash;or
 To read more in-depth about the features our platform will provide, please visit the [introduction page](https://cadre.iu.edu/website/grav/about-cadre/introduction).
 
 If you want to stay updated on CADRE and remain informed on when our services will become available, follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and email **cadre@iu.edu** with a request to join our newsletter.
-
+<!--
 <style>
     #username_field
     {
@@ -38,8 +38,9 @@ If you want to stay updated on CADRE and remain informed on when our services wi
 </div>
 </div>
 <!-- <div class="form-group col-md-12"><div class="g-recaptcha" data-sitekey="6LdmbkYUAAAAAJV2FXGecb3ASlBH2zv6WRwky4ed"><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdmbkYUAAAAAJV2FXGecb3ASlBH2zv6WRwky4ed&amp;co=aHR0cDovL2l1bmkuaXUuZWR1Ojgw&amp;hl=en&amp;v=v1563777128698&amp;size=normal&amp;cb=o6ohatmpiksg" role="presentation" name="a-r3sbmr4pu53k" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" width="304" height="78" frameborder="0"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div> -->
-
+<!--
 <div class="form-group col">
 <input class="btn btn-primary" type="Submit" value="Submit Question or Comment">
 </div>
 </form>
+-->
