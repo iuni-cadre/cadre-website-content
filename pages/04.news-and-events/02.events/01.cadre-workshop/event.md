@@ -33,17 +33,17 @@ Director of Information Technolgoy at Indiana University Network Science Institu
 ---
 #### CADRE Fellow Presenters ####
 
-![](CitationImpact_ChaoMin.jpg) 
-##### Chao Min
-Research assistant professor in information management, Nanjing University in China  
-[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
-
-![](MaM_Park.jpg)
+![A man with brown hair and a tan sweater on.](MaM_Park.jpg)
 ##### Michael Park
 Ph.D. student in strategic management and entrepreneurship, University of Minnesota  
 [Fellowship research project](https://cadre.iu.edu/website/grav/fellows/measuring-and-modeling-the-dynamics-of-science-using-the-cadre-platform): "Measuring and Modeling the Dynamics of Science Using the CADRE Platform"
 
-![](UMich_Hansen.jpg)
+![A man with brown hair and a brown polo shirt on.](CitationImpact_ChaoMin.jpg) 
+##### Chao Min
+Research assistant professor in information management, Nanjing University in China  
+[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
+
+![A young person with blonder hair and a blue hat that says, "library."](UMich_Hansen.jpg)
 ##### Samuel Hansen
 Mathematics and statistics librarian, Shapiro Science Library, University of Michigan  
 [Fellowship research project](https://cadre.iu.edu/website/grav/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology): "Comparative analysis of legacy and emerging journals in mathematical biology"  
@@ -51,8 +51,7 @@ Mathematics and statistics librarian, Shapiro Science Library, University of Mic
 
 ---
 #### Workshop Program ####  
-Below is the workshop itinerary for Monday, Sept. 2. You can also view it [in a PDF](https://docs.wixstatic.com/ugd/aa54ce_f0b1bbe0afde45af82a134f280fe03b1.pdf).
-
+Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around after our workshop, as our tutorial will be held in the same room, starting at 16:30!
 
 <table class="table table-striped">
   <thead>
@@ -63,56 +62,47 @@ Below is the workshop itinerary for Monday, Sept. 2. You can also view it [in a 
   </thead>
   <tbody>
     <tr>
-      <th scope="row">16:30 - 16:35:</th>
-      <td>[Yan] Welcome and introduction to tutorial.</td>
+      <th scope="row">14:00 - 14:05:</th>
+      <td>[Mabry] Welcome and introduction to the team: Review of tutorial and preview of workshop’s program.</td>
     </tr>
     <tr>
-      <th scope="row">16:35 - 16:45:</th>
+      <th scope="row">14:05 - 14:15:</th>
       <td>[Pentchev] The Promise of CADRE: A brief introduction of the CADRE project, need for collaborative research platforms. Overview of the CADRE design and functionality.</td>
     </tr>
     <tr>
-      <th scope="row">16:45 - 16:50:</th>
-      <td>[Hutchinson] Walk through registration and set up profile: User registration and research commons.</td>
+      <th scope="row">14:15 - 14:35:</th>
+      <td>[Borner] How big data has changed science of science research. Need for platforms like CADRE.</td>
     </tr>
       <tr>
-      <th scope="row">16:50 - 17:00:</th>
-      <td>[Hutchinson] Example 1: simple query on the GUI-query builder (step by step using drop-down menus).</td>
+      <th scope="row">14:35 - 14:50:</th>
+      <td>[WoS] How WoS data has changed science of science research and beyond. Collaborations and plans with CADRE.</td>
     </tr>
     <tr>
-      <th scope="row">17:00 - 17:10:</th>
-      <td>[Hutchinson] Example 2: simple analysis by running a package, with illustrated use of research commons. The package should contain the query of example 1 + simple python plotting.</td>
+      <th scope="row">14:50 - 15:00:</th>
+      <td>[Yan] Describe the CADRE fellowship program. Introduce contributed projects teams.</td>
     </tr>
     <tr>
-      <th scope="row">17:10 - 17:25:</th>
-      <td>[Silva] Example 2 in notebook: Illustrate how we can interact with the code in Example 2 in a notebook environment. Add some more advanced visualizations.</td>
+      <th scope="row">15:00 - 15:15:</th>
+      <td>[Park (UMN)] Presentation 1.</td>
     </tr>
         <tr>
-      <th scope="row">17:25 - 17:30: </th>
-      <td>[Yan] Example 3: full reproducible pipeline in the notebook environment. https://github.com/iuni-cadre/ReproducibilityDemo</td>
+      <th scope="row">15:15 - 15:30:</th>
+      <td>[Min (NJU/IU)] Presentation 2.</td>
     </tr>
     <tr>
-      <th scope="row">17:30 - 17:40:</th>
-      <td>[Yan] Introduce CADRE Fellowships Program and contributed projects on MAG data.</td>
+      <th scope="row">15:30 - 15:45:</th>
+      <td>[Hansen (UMich)] Presentation 3.</td>
     </tr>
     <tr>
-      <th scope="row">17:40 - 17:55:</th>
-      <td>[Bu] Contributed demos with MAG data on CADRE. It will use a notebook environment on CADRE. Explain research background and technical challenges.</td>
+      <th scope="row">15:45 - 15:52:</th>
+      <td>[Pentchev] Shoutout for the tutorial, register for a CADRE test account, and how to give feedback and receive project updates.</td>
     </tr>
        <tr>
-      <th scope="row">17:55 - 18:10:</th>
-      <td>[Yan] Our solution. Demo it in the notebook environment (databricks backend). Optional demo with GUI interface to illustrate design.</td>
+      <th scope="row">15:52 - 16:00:</th>
+      <td>[Mabry] Q+A, closing summary, comments on work presented and how it fits in the big picture; briefly outline opportunities.</td>
     </tr>
-       <tr>
-      <th scope="row">18:10 - 18:25:</th>
-      <td>[Pentchev] Free exploration and Q+A. Sophisticated users can explore CADRE features with their own programming, others can explore their own queries with drop-down menus or individual discussions with the team or guest contributors.</td>
-    </tr>
-       <tr>
-      <th scope="row">18:25 - 18:30</th>
-      <td>[Yan] Regroup and conclude the tutorial. Follow CADRE and fellow events on GitHub and Twitter.</td>
-    </tr>      
   </tbody>
 </table>
-
 ---
 #### Find us at ISSI
 Both the CADRE Workshop and Tutorial will be located in the Calasso Room, which is location No. 5 on the map below, or [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) to open the map:
