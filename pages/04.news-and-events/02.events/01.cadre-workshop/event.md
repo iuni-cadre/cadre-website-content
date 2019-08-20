@@ -4,7 +4,7 @@ date_from: '02-09-2019 14:00'
 date_to: '02-09-2019 16:00'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,CitationImpact_ChaoMin.jpg,MaM_Park.jpg,UMich_Hansen.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,MaM_Park.jpg,UMich_Hansen.jpg,CitationImpact_ChaoMin.jpg'
 ---
 
 This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) on Moday, Sept. 2, from 2:00 to 4:00 p.m. in the Calasso Room at Sapienza University in Rome. It will provide an introduction to and rationale for CADRE, including how its use facilitates collaboration and reproducibility directed at science-of-science researchers using big bibliometric data. It will also feature case examples from researchers who have tested a preliminary version of CADRE to address SofS research questions.
@@ -15,7 +15,7 @@ For the full ISSI program, including a map of the venue, [click here](https://do
 
 ---
 #### Presenters ####
-![](PatriciaMabry1.jpg)
+![A woman with blonde hair and a black sweater.](PatriciaMabry1.jpg)
 ##### Patricia Mabry
 CADRE Project Co-Director
 Research Investigatior at XYZ
@@ -33,9 +33,21 @@ Director of Information Technolgoy at Indiana University Network Science Institu
 ---
 #### CADRE Fellow Presenters ####
 
-![](CitationImpact_ChaoMin.jpg)
+![](CitationImpact_ChaoMin.jpg) 
+##### Chao Min
+Research assistant professor in information management, Nanjing University in China  
+[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
+
 ![](MaM_Park.jpg)
+##### Michael Park
+Ph.D. student in strategic management and entrepreneurship, University of Minnesota  
+[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/measuring-and-modeling-the-dynamics-of-science-using-the-cadre-platform): "Measuring and Modeling the Dynamics of Science Using the CADRE Platform"
+
 ![](UMich_Hansen.jpg)
+##### Samuel Hansen
+Mathematics and statistics librarian, Shapiro Science Library, University of Michigan  
+[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology): "Comparative analysis of legacy and emerging journals in mathematical biology"  
+[Second research project](https://cadre.iu.edu/website/grav/fellows/systematic-over-time-study-of-the-similarities-and-differences-in-research-across-mathematics-and-the-sciences): "Systematic over-time study of the similarities and differences in research across mathematics and the sciences"
 
 ---
 #### Workshop Program ####  
