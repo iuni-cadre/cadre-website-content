@@ -6,22 +6,17 @@ The Collaborative Archive & Data Research Environment (CADRE) addresses the IMLS
 
 CADRE's cloud-based infrastructure will feature standardized data formats for text- and data-mining. Data will be available in multiple formats in our CADRE Query Builder, including relational and graph database formats, as well as flat table and native formats. Users can save all of their work in a personal profile, but they can also reproduce queries, alogorithms, derived data, research results, workflows, and visualizations in the CADRE Marketplace. Anything shared in the CADRE Marketplace can be utilized by other researchers.
 
-Our platform is currently seeded with a combination of open and licensed bibliometric datasets, including Microsoft Academic Graph and Web of Science.
+#### > Datasets ##### 
+Our platform is currently seeded with a combination of open and licensed bibliometric datasets, including Microsoft Academic Graph and Web of Science. You can learn more about these datasets by visiting the [Available Datasets](https://cadre.iu.edu/website/grav/about-cadre/available-datasets) page. You can also [review documentation](https://cadre.iu.edu/website/grav/resources/documentation) on the structure of both datsets, as well as our [CADRE Data Access Policy](https://cadre.iu.edu/website/grav/resources/data-access-policy).
 
-##### A collaborative project #####
-The CADRE platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible by [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/).
+#### > Demos & Instructions ####
+If you are a new user trying to learn more about how to work with the platform, visit our [Resources page](https://cadre.iu.edu/website/grav/resources) to watch informational videos and demos. You will also learn how you can access data as general user and submit stories that will improve the CADRE platfrom.
 
-Additional partners include:
-* Michigan State University Libraries
-* Microsoft Research 
-* Midwest Big Data Hub
-* Ohio State University Libraries
-* Penn State University Libraries
-* Purdue University Libraries
-* Rutgers University Libraries
-* South Big Data Hub
-* University of Iowa Libraries
-* University of Michigan Libraries
-* University of Minnesota Libraries
-* Web of Science Group
-* West Big Data Hub
+#### > CADRE Fellowship ####
+While we are not yet offering paid membership to access CADRE, you can receive early access to the platform and many other perks by becoming a CADRE Fellow. If you are interested in applying for a fellowship, visit our [CADRE Fellowship page](https://cadre.iu.edu/website/grav/work-with-us/cadre-fellowship) or [submit a proposal](https://iuni.iu.edu/resources/cadre/fellowship-proposal-form). 
+
+#### > Become a Partner ####
+The CADRE platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible by [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/). You can learn more about [our partners](https://cadre.iu.edu/website/grav/work-with-us) or how to become one by visting the [Work with Us](https://cadre.iu.edu/website/grav/work-with-us) page. 
+
+#### > Stay Updated #####
+CADRE is moving fast and changing each day. To stay in the loop&mdash;including hearing about when fellowship slots officially open or when you can begin accessing our platform&mdash;[fill out a form](https://cadre.iu.edu/website/grav/contact-us) with a request to join our newsletter and follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project). 
