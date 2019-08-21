@@ -14,27 +14,37 @@ This tutorial will be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_
 For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
 
 ---
+
+#### CADRE Fellow Presenter ####
+
+![](CitationImpact_YiBu.jpg)
+##### Yi Bu
+Ph.D. candidate in informatics, Indiana University Bloomington  
+[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
+
+---
+
 #### CADRE Project Team Presenters ####
 
 
 <div class="row">
 
 
-<div class="col-6" markdown="1">
+<div class="col-4" markdown="1">
 ![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
 ##### Xiaoran Yan
 CADRE Project Co-Director  
 Research Scientist at Indiana University Network Science Institute. 
 </div>
 
-<div class="col-6" markdown="1">
+<div class="col-4" markdown="1">
 ![Photo of a man with a beard and ponytail in black suit jacket.](ValentinPentchev.jpg)
 ##### Valentin Pentchev
 CADRE Project Co-Director  
 Director of Information Technolgoy at Indiana University Network Science Institute
 </div>
 
-<div class="col-6" markdown="1">
+<div class="col-4" markdown="1">
 ![Photo of a man with brown hair and a black suit jacket.](MattHutchinson_300x375.jpg)
 ##### Matthew Hutchinson
 Data Manager at Indiana University Network Science Institute
@@ -50,17 +60,8 @@ Research Scientist at Indiana University Network Science Institute
 </div>
 
 
-
-
 ---
-#### CADRE Fellow Presenter ####
 
-![](CitationImpact_YiBu.jpg)
-##### Yi Bu
-Ph.D. candidate in informatics, Indiana University Bloomington  
-[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
-
----
 #### Tutorial Program ####  
 Below is the tutorial itinerary for Monday, Sept. 2. You can also view it [on Github](https://github.com/iuni-cadre/cadre/wiki/CADRE-ISSI-2019-tutorial).  
 

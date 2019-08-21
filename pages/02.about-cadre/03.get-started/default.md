@@ -15,4 +15,4 @@ You can also read more about our datasets and our data access policy below.
 
 Documentation on the structure of these datasets is [available here](https://cadre.iu.edu/website/grav/resources/documentation). You can also read our [CADRE Data Access Policy](https://cadre.iu.edu/website/grav/resources/data-access-policy) and request access through the [CADRE General Data User Application](https://iuni.iu.edu/resources/cadre/general-data-user).
 
-If you want to stay updated on CADRE and remain informed on when our services will become available, follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and fill out [a contact form](https://cadre.iu.edu/website/grav/contact-us) with a requst to join our newsletter.
+If you want to stay updated on CADRE and remain informed on when our services will become available, follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [email us](https://cadre.iu.edu/website/grav/contact-us) with a requst to join our newsletter.

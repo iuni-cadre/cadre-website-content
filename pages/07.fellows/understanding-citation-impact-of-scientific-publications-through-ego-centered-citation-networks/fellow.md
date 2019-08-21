@@ -13,11 +13,11 @@ people:
         image: CitationImpact_YingDing-round.png
 logos:
     -
-        name: 'Nanjing University'
-        image: 'nanjing university logo.png'
-    -
         name: 'Indiana University Bloomington'
         image: IUB.2line.H_WEB.png
+    -
+        name: 'Nanjing University'
+        image: 'nanjing university logo.png'
 ---
 
 The research team seeks to find the “deeper” and “broader” impact of network-based citation measurements in the scientific community. This project will determine the citation impact of scientific publications using an ego-centered citation network.
