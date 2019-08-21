@@ -4,7 +4,7 @@ date_from: '02-09-2019 14:00'
 date_to: '02-09-2019 16:00'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,MaM_Park.jpg,UMich_Hansen.jpg,CitationImpact_ChaoMin.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,MaM_Park.jpg,UMich_Hansen.jpg,CitationImpact_ChaoMin.jpg,QuasiExp_Borner.jpg'
 ---
 
 This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) on Moday, Sept. 2, from 2:00 to 4:00 p.m. in the Calasso Room at Sapienza University in Rome. It will provide an introduction to and rationale for CADRE, including how its use facilitates collaboration and reproducibility directed at science-of-science researchers using big bibliometric data. It will also feature case examples from researchers who have tested a preliminary version of CADRE to address SofS research questions.
@@ -14,7 +14,7 @@ This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f
 For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
 
 ---
-#### Presenters ####
+#### CADRE Project Team Presenters ####
 ![A woman with blonde hair and a black sweater.](PatriciaMabry1.jpg)
 ##### Patricia Mabry
 CADRE Project Co-Director
@@ -31,6 +31,14 @@ CADRE Project Co-Director
 Director of Information Technolgoy at Indiana University Network Science Institute
 
 ---
+#### Keynote Speaker ####
+
+![A woman with blonder hair and a red shirt; the background is blue.](QuasiExp_Borner.jpg)
+##### Katy Börner
+Victor H. Yngve Professor of Engineering & Information Science at Indiana University Bloomington
+
+---
+
 #### CADRE Fellow Presenters ####
 
 ![A man with brown hair and a tan sweater on.](MaM_Park.jpg)
@@ -63,7 +71,7 @@ Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around 
   <tbody>
     <tr>
       <th scope="row">14:00 - 14:05:</th>
-      <td>[Mabry] Welcome and introduction to the team: Review of tutorial and preview of workshop’s program.</td>
+      <td>[Mabry] Welcome and introduction to the team: review of tutorial and preview of workshop’s program.</td>
     </tr>
     <tr>
       <th scope="row">14:05 - 14:15:</th>
@@ -71,7 +79,7 @@ Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around 
     </tr>
     <tr>
       <th scope="row">14:15 - 14:35:</th>
-      <td>[Borner] How big data has changed science of science research. Need for platforms like CADRE.</td>
+      <td>[Börner] How big data has changed science of science research. Need for platforms like CADRE.</td>
     </tr>
       <tr>
       <th scope="row">14:35 - 14:50:</th>
@@ -79,7 +87,7 @@ Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around 
     </tr>
     <tr>
       <th scope="row">14:50 - 15:00:</th>
-      <td>[Yan] Describe the CADRE fellowship program. Introduce contributed projects teams.</td>
+      <td>[Yan] Describe the CADRE Fellowship Program. Introduce contributed projects teams.</td>
     </tr>
     <tr>
       <th scope="row">15:00 - 15:15:</th>

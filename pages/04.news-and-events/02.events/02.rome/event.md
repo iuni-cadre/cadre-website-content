@@ -14,7 +14,7 @@ This tutorial will be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_
 For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
 
 ---
-#### Presenters ####
+#### CADRE Project Team Presenters ####
 ![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
 ##### Xiaoran Yan
 CADRE Project Co-Director  
