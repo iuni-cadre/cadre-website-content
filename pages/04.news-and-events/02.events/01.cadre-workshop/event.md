@@ -4,7 +4,7 @@ date_from: '02-09-2019 14:00'
 date_to: '02-09-2019 16:00'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,MaM_Park.jpg,UMich_Hansen.jpg,CitationImpact_ChaoMin.jpg,QuasiExp_Borner.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,MaM_Park.jpg,UMich_Hansen.jpg,CitationImpact_ChaoMin.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg'
 ---
 
 This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) on Moday, Sept. 2, from 2:00 to 4:00 p.m. in the Calasso Room at Sapienza University in Rome. It will provide an introduction to and rationale for CADRE, including how its use facilitates collaboration and reproducibility directed at science-of-science researchers using big bibliometric data. It will also feature case examples from researchers who have tested a preliminary version of CADRE to address SofS research questions.
@@ -15,6 +15,7 @@ For the full ISSI program, including a map of the venue, [click here](https://do
 
 ---
 #### CADRE Project Team Presenters ####
+
 ![A woman with blonde hair and a black sweater.](PatriciaMabry1.jpg)
 ##### Patricia Mabry
 CADRE Project Co-Director
