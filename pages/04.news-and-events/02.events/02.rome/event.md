@@ -15,23 +15,42 @@ For the full ISSI program, including a map of the venue, [click here](https://do
 
 ---
 #### CADRE Project Team Presenters ####
+
+
+<div class="row">
+
+
+<div class="col-6" markdown="1">
 ![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
 ##### Xiaoran Yan
 CADRE Project Co-Director  
 Research Scientist at Indiana University Network Science Institute. 
+</div>
 
+<div class="col-6" markdown="1">
 ![Photo of a man with a beard and ponytail in black suit jacket.](ValentinPentchev.jpg)
 ##### Valentin Pentchev
 CADRE Project Co-Director  
 Director of Information Technolgoy at Indiana University Network Science Institute
+</div>
 
+<div class="col-6" markdown="1">
 ![Photo of a man with brown hair and a black suit jacket.](MattHutchinson_300x375.jpg)
 ##### Matthew Hutchinson
 Data Manager at Indiana University Network Science Institute
+</div>
 
+
+<div class="col-6" markdown="1">
 ![Photo of a man with glasses and a white dress shirt.](1560458500_Filipi2.jpg)
 ##### Filipi Silva
 Research Scientist at Indiana University Network Science Institute
+</div>
+
+</div>
+
+
+
 
 ---
 #### CADRE Fellow Presenter ####
