@@ -4,7 +4,7 @@ date_from: '02-09-2019 14:00'
 date_to: '02-09-2019 16:00'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,MaM_Park.jpg,UMich_Hansen.jpg,CitationImpact_ChaoMin.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,UMich_Hansen.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg,MaM_Park.jpg,CitationImpact_ChaoMin.jpg'
 ---
 
 This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) on Moday, Sept. 2, from 2:00 to 4:00 p.m. in the Calasso Room at Sapienza University in Rome. It will provide an introduction to and rationale for CADRE, including how its use facilitates collaboration and reproducibility directed at science-of-science researchers using big bibliometric data. It will also feature case examples from researchers who have tested a preliminary version of CADRE to address SofS research questions.
@@ -14,24 +14,7 @@ This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f
 For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
 
 ---
-#### CADRE Project Team Presenters ####
 
-![A woman with blonde hair and a black sweater.](PatriciaMabry1.jpg)
-##### Patricia Mabry
-CADRE Project Co-Director
-Research Investigatior at XYZ
-
-![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
-##### Xiaoran Yan
-CADRE Project Co-Director  
-Research Scientist at Indiana University Network Science Institute. 
-
-![Photo of a man with a beard and ponytail in black suit jacket.](ValentinPentchev.jpg)
-##### Valentin Pentchev
-CADRE Project Co-Director  
-Director of Information Technolgoy at Indiana University Network Science Institute
-
----
 #### Keynote Speaker ####
 
 ![A woman with blonder hair and a red shirt; the background is blue.](QuasiExp_Borner.jpg)
@@ -42,21 +25,60 @@ Victor H. Yngve Professor of Engineering & Information Science at Indiana Univer
 
 #### CADRE Fellow Presenters ####
 
-![A man with brown hair and a tan sweater on.](MaM_Park.jpg)
+<div class="row">
+
+<div class="col-6" markdown="1">
+![](MaM_Park.jpg)
 ##### Michael Park
 Ph.D. student in strategic management and entrepreneurship, University of Minnesota  
 [Fellowship research project](https://cadre.iu.edu/website/grav/fellows/measuring-and-modeling-the-dynamics-of-science-using-the-cadre-platform): "Measuring and Modeling the Dynamics of Science Using the CADRE Platform"
+</div>
 
-![A man with brown hair and a brown polo shirt on.](CitationImpact_ChaoMin.jpg) 
+<div class="col-6" markdown="1">
+![](CitationImpact_ChaoMin.jpg)
 ##### Chao Min
 Research assistant professor in information management, Nanjing University in China  
 [Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
+</div>
 
+<div class="col-6" markdown="1">
 ![A young person with blonder hair and a blue hat that says, "library."](UMich_Hansen.jpg)
 ##### Samuel Hansen
 Mathematics and statistics librarian, Shapiro Science Library, University of Michigan  
 [Fellowship research project](https://cadre.iu.edu/website/grav/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology): "Comparative analysis of legacy and emerging journals in mathematical biology"  
-[Second research project](https://cadre.iu.edu/website/grav/fellows/systematic-over-time-study-of-the-similarities-and-differences-in-research-across-mathematics-and-the-sciences): "Systematic over-time study of the similarities and differences in research across mathematics and the sciences"
+    [Second research project](https://cadre.iu.edu/website/grav/fellows/systematic-over-time-study-of-the-similarities-and-differences-in-research-across-mathematics-and-the-sciences): "Systematic over-time study of the similarities and differences in research across mathematics and the sciences"
+</div>
+
+</div>
+
+---
+
+#### CADRE Project Team Presenters ####
+
+<div class="row">
+
+<div class="col-4" markdown="1">
+![A woman with blonde hair and a black sweater.](PatriciaMabry1.jpg)
+##### Patricia Mabry
+CADRE Project Co-Director
+Research Investigator at Health Partners Institute
+</div>
+
+<div class="col-4" markdown="1">
+![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
+##### Xiaoran Yan
+CADRE Project Co-Director  
+Research Scientist at Indiana University Network Science Institute
+</div>
+
+<div class="col-4" markdown="1">
+![Photo of a man with a beard and ponytail in black suit jacket.](ValentinPentchev.jpg)
+##### Valentin Pentchev
+CADRE Project Co-Director  
+Director of Information Technolgoy at Indiana University Network Science Institute
+</div>
+
+</div>
 
 ---
 #### Workshop Program ####  
@@ -140,5 +162,4 @@ The workshop will be CADRE’s formal international debut and we are eager to co
 ---
 #### Sponsors 
 
-![A red and white logo that reads "ISSI"](issi-og-graph_web.png)  
-![A black and white logo that simply reads: "Web of Science Group."](woslogo.png)
+![A red and white logo that reads "ISSI"](issi-og-graph_web.png)  ![A black and white logo that simply reads: "Web of Science Group."](woslogo.png)
