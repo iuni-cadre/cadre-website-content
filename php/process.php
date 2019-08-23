@@ -340,7 +340,7 @@ if(!empty($_POST))
     // $body_text = str_replace("<", "&lt;", $body_text);
 
     // //ob_start();
-    // $message = "";
+     $message = "";
     // $message .= "--PHP-mixed-".$random_hash."\r\n";
     // $message .= "Content-Type: multipart/alternative; boundary=PHP-alt-". $random_hash ."\r\n";
     // $message .= "\r\n";
@@ -348,7 +348,7 @@ if(!empty($_POST))
     // $message .= "Content-Type: text/plain; charset=utf-8\r\n";
     // $message .= "Content-Transfer-Encoding: 7bit\r\n";
     // $message .= "\r\n";
-    // $message .= "".$body_text."\r\n";
+     $message .= "".$body_text."\r\n";
     // $message .= "\r\n";
     // $message .= "--PHP-alt-". $random_hash."\r\n";
     // $message .= "Content-Type: text/html; charset=utf-8\r\n";
