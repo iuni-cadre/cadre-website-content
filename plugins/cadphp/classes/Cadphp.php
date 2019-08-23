@@ -149,9 +149,10 @@ class Cadphp
 		$out = '';
 		ob_start();
 			// Execution of code without consequences
-			eval('if(false){' . $code . '}');
-
-			// include_once($path);
+			//eval('if(false){' . $code . '}');
+			$path = realpath($path);
+//return $path;
+//			include_once($path);
 
 			$out = ob_get_contents();
 		ob_end_clean();
