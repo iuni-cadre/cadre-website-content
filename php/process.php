@@ -1,6 +1,14 @@
 <?php
 
 
+require '/var/www/vendor/autoload.php';
+
+use Aws\Credentials\CredentialProvider;
+use Aws\Ses\SesClient;
+use Aws\Exception\AwsException;
+
+//die(print_r(get_included_files(), true));
+
 function sendEmail($recipient, $subject, $plaintext_body)
 {
     $profile = 'bserrett';
