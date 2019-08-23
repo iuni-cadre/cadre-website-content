@@ -113,6 +113,9 @@ class Cadphp
 	
 	public function safeEval($path)
 	{
+
+		//ALL THIS CODE DOES IS CHECK IF THE INCLUDED FILE WILL THROW AN ERROR.
+
 		if (!is_file($path))
 		{
 			$this->gravLog->warning('The path ' . $path . ' is not a file');
@@ -151,8 +154,8 @@ class Cadphp
 			// Execution of code without consequences
 			//eval('if(false){' . $code . '}');
 			$path = realpath($path);
-//return $path;
-//			include_once($path);
+			//return $path;
+			//			include_once($path);
 
 			$out = ob_get_contents();
 		ob_end_clean();

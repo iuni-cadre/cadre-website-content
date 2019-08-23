@@ -127,8 +127,8 @@ $wos_forms = array();
 $db_forms = array();
 
 $all_forms = array(
-    "general_contact" => "Contact Us",
-    "newsletter" => "Newsletter Subscription",
+    "general_contact" => "CADRE Contact Us",
+    "newsletter" => "CADRE Newsletter Subscription",
 );
 
 $visible_forms = array(
@@ -316,79 +316,79 @@ if(!empty($_POST))
         }
     }
 
-    if(count($_FILES))
-    {
+    // if(count($_FILES))
+    // {
 
-        $body_text .="\n\n Attachments:\n";
-        foreach($_FILES as $k => $v)
-        {
-            if($v["name"] == "")
-            {
-                continue;
-            }
-            $pinfo = pathinfo($v["name"]);
-            $ext = strtolower($pinfo['extension']);
-            if($v["error"] || !($ext == "pdf" || $ext == "doc" || $ext == "docx" || $ext == "png" || $ext == "jpg" || $ext == "jpeg"))
-            {
-                $body_text .= "INVALID: ";
-            }
+    //     $body_text .="\n\n Attachments:\n";
+    //     foreach($_FILES as $k => $v)
+    //     {
+    //         if($v["name"] == "")
+    //         {
+    //             continue;
+    //         }
+    //         $pinfo = pathinfo($v["name"]);
+    //         $ext = strtolower($pinfo['extension']);
+    //         if($v["error"] || !($ext == "pdf" || $ext == "doc" || $ext == "docx" || $ext == "png" || $ext == "jpg" || $ext == "jpeg"))
+    //         {
+    //             $body_text .= "INVALID: ";
+    //         }
 
-            $body_text .= $v["name"] . "\n";
-        }
-    }
+    //         $body_text .= $v["name"] . "\n";
+    //     }
+    // }
 
-    $body_text = str_replace("<", "&lt;", $body_text);
+    // $body_text = str_replace("<", "&lt;", $body_text);
 
-    //ob_start();
-    $message = "";
-    $message .= "--PHP-mixed-".$random_hash."\r\n";
-    $message .= "Content-Type: multipart/alternative; boundary=PHP-alt-". $random_hash ."\r\n";
-    $message .= "\r\n";
-    $message .= "--PHP-alt-".$random_hash."\r\n";
-    $message .= "Content-Type: text/plain; charset=utf-8\r\n";
-    $message .= "Content-Transfer-Encoding: 7bit\r\n";
-    $message .= "\r\n";
-    $message .= "".$body_text."\r\n";
-    $message .= "\r\n";
-    $message .= "--PHP-alt-". $random_hash."\r\n";
-    $message .= "Content-Type: text/html; charset=utf-8\r\n";
-    $message .= "Content-Transfer-Encoding: 7bit\r\n";
-    $message .= "\r\n";
-    $message .=  str_replace("  ", "&nbsp;&nbsp;&nbsp;", nl2br($body_text)) ."\r\n";
-    $message .= "\r\n";
-    $message .= "--PHP-alt-". $random_hash."--\r\n";
+    // //ob_start();
+    // $message = "";
+    // $message .= "--PHP-mixed-".$random_hash."\r\n";
+    // $message .= "Content-Type: multipart/alternative; boundary=PHP-alt-". $random_hash ."\r\n";
+    // $message .= "\r\n";
+    // $message .= "--PHP-alt-".$random_hash."\r\n";
+    // $message .= "Content-Type: text/plain; charset=utf-8\r\n";
+    // $message .= "Content-Transfer-Encoding: 7bit\r\n";
+    // $message .= "\r\n";
+    // $message .= "".$body_text."\r\n";
+    // $message .= "\r\n";
+    // $message .= "--PHP-alt-". $random_hash."\r\n";
+    // $message .= "Content-Type: text/html; charset=utf-8\r\n";
+    // $message .= "Content-Transfer-Encoding: 7bit\r\n";
+    // $message .= "\r\n";
+    // $message .=  str_replace("  ", "&nbsp;&nbsp;&nbsp;", nl2br($body_text)) ."\r\n";
+    // $message .= "\r\n";
+    // $message .= "--PHP-alt-". $random_hash."--\r\n";
 
-    foreach($_FILES as $k => $v)
-    {
-        $finfo = finfo_open(FILEINFO_MIME_TYPE);
-        if(empty($v["tmp_name"]) || $v["error"])
-        {
-            continue;
-        }
-        $type = finfo_file($finfo, $v["tmp_name"] );
+    // foreach($_FILES as $k => $v)
+    // {
+    //     $finfo = finfo_open(FILEINFO_MIME_TYPE);
+    //     if(empty($v["tmp_name"]) || $v["error"])
+    //     {
+    //         continue;
+    //     }
+    //     $type = finfo_file($finfo, $v["tmp_name"] );
 
-        finfo_close($finfo);
-        $pinfo = pathinfo($v["name"]);
-        $ext = strtolower($pinfo['extension']);
-        if(!($ext == "pdf" || $ext == "doc" || $ext == "docx" || $ext == "png" || $ext == "jpg" || $ext == "jpeg"))
-        {
-            continue;
-        }
+    //     finfo_close($finfo);
+    //     $pinfo = pathinfo($v["name"]);
+    //     $ext = strtolower($pinfo['extension']);
+    //     if(!($ext == "pdf" || $ext == "doc" || $ext == "docx" || $ext == "png" || $ext == "jpg" || $ext == "jpeg"))
+    //     {
+    //         continue;
+    //     }
 
 
-        $message .= "\r\n";
-        $message .= "--PHP-mixed-". $random_hash . "\r\n";
-        $message .= "Content-Type: ". $type . "\r\n";
-        $message .= "Content-Transfer-Encoding: base64\r\n";
-        $message .= "Content-Disposition: attachment; filename=" . $v["name"] . "\r\n";
-        $message .= "\r\n";
-        $message .= chunk_split(base64_encode(file_get_contents($v["tmp_name"]))) . "\r\n";
+    //     $message .= "\r\n";
+    //     $message .= "--PHP-mixed-". $random_hash . "\r\n";
+    //     $message .= "Content-Type: ". $type . "\r\n";
+    //     $message .= "Content-Transfer-Encoding: base64\r\n";
+    //     $message .= "Content-Disposition: attachment; filename=" . $v["name"] . "\r\n";
+    //     $message .= "\r\n";
+    //     $message .= chunk_split(base64_encode(file_get_contents($v["tmp_name"]))) . "\r\n";
 
-    }
+    // }
 
-    $message .= "\r\n";
-    $message .= "--PHP-mixed-". $random_hash."--\r\n";
-    $message .= "\r\n";
+    // $message .= "\r\n";
+    // $message .= "--PHP-mixed-". $random_hash."--\r\n";
+    // $message .= "\r\n";
 
 
 
