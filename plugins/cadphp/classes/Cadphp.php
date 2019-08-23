@@ -7,6 +7,14 @@
  */
 namespace Grav\Plugin\Cadphp;
 
+
+
+require '/var/www/vendor/autoload.php';
+
+use Aws\Credentials\CredentialProvider;
+use Aws\Ses\SesClient;
+use Aws\Exception\AwsException;
+
 use Grav\Common\Grav;
 
 class Cadphp
@@ -141,9 +149,9 @@ class Cadphp
 		$out = '';
 		ob_start();
 			// Execution of code without consequences
-			// eval('if(false){' . $code . '}');
+			eval('if(false){' . $code . '}');
 
-			include_once($path);
+			// include_once($path);
 
 			$out = ob_get_contents();
 		ob_end_clean();
