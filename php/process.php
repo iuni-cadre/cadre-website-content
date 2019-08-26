@@ -83,8 +83,8 @@ function get_emails($form_name)
     );
 
     $all_forms = array(
-        "general_contact" => array("ben"),
-        // "general_contact" => array("ben", "stephanie"),
+        // "general_contact" => array("ben"),
+        "general_contact" => array("ben", "stephanie"),
     );
     
     if(!isset($all_forms[$form_name]))
