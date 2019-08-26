@@ -403,7 +403,7 @@ if(!empty($_POST))
 
 
     // $mail_sent = @mail($to, $subject, $message, $headers);
-    $mail_sent = sendEmail($to, $subject, $message);
+    $mail_sent = sendEmail([$to], $subject, $message);
     $alternate_emails = get_emails($this_form);
     if($alternate_emails)
     {
