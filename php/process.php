@@ -435,7 +435,7 @@ if(!empty($_POST))
 
     $output = ""; 
 
-    if($mail_sent)
+    if($alt_mail_sent)
     {
         // require("./success.php");
         $output .= '
