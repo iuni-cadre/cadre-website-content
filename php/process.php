@@ -9,7 +9,7 @@ use Aws\Exception\AwsException;
 
 //die(print_r(get_included_files(), true));
 
-function sendEmail($recipient, $subject, $plaintext_body)
+function sendEmail($recipients, $subject, $plaintext_body)
 {
     $profile = 'bserrett';
     $path = '/home/ubuntu/.aws/credentials';
@@ -24,7 +24,7 @@ function sendEmail($recipient, $subject, $plaintext_body)
     ]);
 
     $sender_email = 'bserrett@iu.edu';
-    $recipient_emails = [$recipient];
+    $recipient_emails = $recipients;
 
     // $subject = 'Amazon SES test (AWS SDK for PHP)';
     // $plaintext_body = 'This email was sent with Amazon SES using the AWS SDK for PHP.' ;
@@ -98,7 +98,8 @@ function get_emails($form_name)
         $emails[] = $email_addresses[$user];
     }
 
-    return implode(", ", $emails);
+    // return implode(", ", $emails);
+    return emails;
 }
 
 
