@@ -99,7 +99,7 @@ function get_emails($form_name)
     }
 
     // return implode(", ", $emails);
-    return emails;
+    return $emails;
 }
 
 
