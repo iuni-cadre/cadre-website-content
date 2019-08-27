@@ -275,24 +275,46 @@ section.blue h3 {
 {
     border-color: #5b72b7;
 }
+.newsletter-section .btn-outline-primary
+{
+    /* border-color: white; */
+    border-width: 2px;
+    /* color: white; */
+}
+.newsletter-section h3
+{
+    /* border-color: white; */
+    /* color: white; */
+    font-weight: normal;
+    font-size: 1.25rem;
+}
+.newsletter-section h2
+{
+    /* border-color: white; */
+    /* color: white; */
+    font-weight: bold;
+    font-size: 2.25rem;
+    text-transform: uppercase;
+}
+
 .newsletter-section.blue .btn-outline-primary
 {
     border-color: white;
-    border-width: 2px;
+    /* border-width: 2px; */
     color: white;
 }
 .newsletter-section.blue h3
 {
     /* border-color: white; */
     color: white;
-    font-weight: normal;
+    /* font-weight: normal; */
     font-size: 1.25rem;
 }
 .newsletter-section.blue h2
 {
     /* border-color: white; */
     color: white;
-    font-weight: bold;
-    font-size: 2.25rem;
-    text-transform: uppercase;
+    /* font-weight: bold; */
+    /* font-size: 2.25rem; */
+    /* text-transform: uppercase; */
 }

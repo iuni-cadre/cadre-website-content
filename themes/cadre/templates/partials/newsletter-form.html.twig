@@ -1,0 +1,19 @@
+
+            <style>
+                .newsletter-section #username_field
+                {
+                    position: absolute;
+                    left: -2000px;
+                    visibility: hidden;
+                }
+            </style>
+            <h2>Subscribe to Our Newsletter</h2>
+            <h3>We only email you every three months and we never spam.</h3>
+            <form class="form-inline d-flex justify-content-center" id="the_form" action="./process-form" method="POST" enctype="multipart/form-data">
+                <input type="text" id="username_field" name="username" placeholder="username">
+                <input type="hidden" value="newsletter_subscribe" name="form_name">
+                <label for="newsletter-email">Enter your Email</label>
+                <input id="newsletter-email" type="email" placeholder="Enter your email" 
+                    class="form-control mr-md-3 col-md-4" />
+                <input type="submit" class="btn btn-outline-primary" value="SUBSCRIBE" />
+            </form>

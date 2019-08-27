@@ -27,7 +27,7 @@
     margin-bottom: 2.5rem;
     color: #646c81;
 }
-.pages-homepage h3
+.pages-homepage .upcoming-pages h3
 {
   font-family: Lato;
   font-size: 1.25rem;
@@ -136,6 +136,7 @@
 
 {% block content %}
 
+
 <section class="pages-homepage">
     <div class="container">
         <header>
@@ -152,10 +153,14 @@
         
         {# <h3>
             Upcoming pages
-        </h3> #}
-
+        </h3> #}   
+        <div class="newsletter-section">
+                {% include 'partials/newsletter-form.html.twig' %}
+        </div>
+        <hr />
+        
         <div class="upcoming-pages">
-        {% for page in page.children() %}
+        {% for page in page.children() if page.header.hidden != true %}
 
             {% set subpage = page.children() | first %}
 
