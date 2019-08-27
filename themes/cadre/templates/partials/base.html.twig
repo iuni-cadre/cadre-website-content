@@ -68,6 +68,8 @@
 {% block scripts deferred %}
 {% endblock %}
 
+
+    <script src="{{url('theme://js/vendor/vue.min.js')}}"></script>
 </head>
 <body id="top" class="{% block body_classes %}{{ body_classes }}{% endblock %}">
     <div class="iu-header-wrapper">
@@ -77,14 +79,14 @@
     <header id="main-header">
         <nav class="container navbar navbar-expand-lg">
             <a class="navbar-brand" href="{{url(base_url_absolute)}}"><img src="{{url('theme://assets/img/logo/logo-and-type.svg')}}" alt="CADRE" /><span class="d-none">CADRE</span></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+            <button @click="toggleMenu" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                &#9776;
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse" :class="{'show': display_menu}" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     {% for page in pages.children if page.header.main == true %}
-                        <li class="nav-item">
+                        <li class="nav-item p-3 p-md-0">
                             <a href="{{url(page.url)}}">{{page.title}}</a>
                         </li>
                     {% endfor %}
@@ -93,10 +95,26 @@
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                 </form> #}
-                <a href="{{url(pages.find('/about-cadre/get-started').url)}}" class="btn get-started-button">Get Started</a>
+                <a href="{{url(pages.find('/about-cadre/get-started').url)}}" class="btn get-started-button  mt-3 mt-md-0"><span class="p-3 p-md-0 d-inline-block">Get Started</span></a>
             </div>
         </nav>
     </header>
+<script>
+    var main_menu_display = new Vue({
+    el: '#main-header',
+    data: function(){
+        return {
+            display_menu: false
+        }
+    },
+    methods: {
+        toggleMenu: function(){
+            this.display_menu = !this.display_menu;
+        }
+    }
+});
+
+</script>
 
 
 
@@ -111,7 +129,7 @@
     <footer id="main-footer">
         <div class="container">
         <div class="row">
-            <div class="col">
+            <div class="col-12 col-md">
                 <a class="cadre-logo" href="{{url(base_url_absolute)}}"><img src="{{url('theme://assets/img/logo/logo-and-type.svg')}}" alt="CADRE" /><span class="d-none">CADRE</span></a>
                 <div class="d-flex justify-content-between social-icons">
                     {# <a href=""><i class="fab fa-facebook-square"></i></a> #}
@@ -121,10 +139,10 @@
             </div>
 
             {% for page in pages.children if page.header.main == true %}
-            <div class="col">
+            <div class="col-4 col-md">
                 <a href="{{url(page.url)}}"><strong>{{page.title}}</strong></a>
                 <ul class="list-unstyled">
-                    {% for subpage in page.children %}
+                    {% for subpage in page.children if subpage.header.hidden != true %}
                     <li class="list-item">
                         <a href="{{url(subpage.url)}}">{{subpage.title}}</a>
                     </li>
