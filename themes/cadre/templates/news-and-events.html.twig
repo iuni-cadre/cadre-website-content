@@ -154,11 +154,12 @@
         {# <h3>
             Upcoming pages
         </h3> #}   
+        <hr />
         <div class="newsletter-section">
                 {% include 'partials/newsletter-form.html.twig' %}
         </div>
         <hr />
-        
+
         <div class="upcoming-pages">
         {% for page in page.children() if page.header.hidden != true %}
 
