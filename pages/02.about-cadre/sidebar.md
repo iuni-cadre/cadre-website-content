@@ -12,7 +12,7 @@ CADRE is an IMLS-funded project that provides sustainable, affordable, and stand
 * Private profile: store query outputs, data-analysis tools, and research results in a profile
 * CADRE Query Builder: where users can use a graphical user interface to make data available in both relational and graph database formats
 * CADRE Notebook: where proficient coders can build their own data-analysis tools 
-* CADRE Marketplace: where researchers can reproduce queries, tools, derived data, research results, workflows, and visualizations&mdash;and utilize what others share
+* RAC Marketplace: where researchers can reproduce queries, tools, derived data, research results, workflows, and visualizations&mdash;and utilize what others share
 
 [plugin:youtube](https://www.youtube.com/watch?v=33ev6Rzhd0A)
 
