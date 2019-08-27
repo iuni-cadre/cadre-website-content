@@ -85,6 +85,7 @@ function get_emails($form_name)
     $all_forms = array(
         // "general_contact" => array("ben"),
         "general_contact" => array("ben", "stephanie"),
+        "newsletter_subscribe" => array("ben", "stephanie"),
     );
     
     if(!isset($all_forms[$form_name]))
@@ -129,12 +130,12 @@ $db_forms = array();
 
 $all_forms = array(
     "general_contact" => "CADRE Contact Us",
-    "newsletter" => "CADRE Newsletter Subscription",
+    "newsletter_subscribe" => "CADRE Newsletter Subscription Request",
 );
 
 $visible_forms = array(
     "general_contact",
-    "newsletter"
+    "newsletter_subscribe"
 );
 
 $captcha_forms = array(
