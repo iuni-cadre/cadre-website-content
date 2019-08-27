@@ -267,3 +267,32 @@ section.blue h3 {
     margin-left: 1rem;
 }
 
+.newsletter-section label
+{
+    display: none;
+}
+.newsletter-section input[type=email]
+{
+    border-color: #5b72b7;
+}
+.newsletter-section.blue .btn-outline-primary
+{
+    border-color: white;
+    border-width: 2px;
+    color: white;
+}
+.newsletter-section.blue h3
+{
+    /* border-color: white; */
+    color: white;
+    font-weight: normal;
+    font-size: 1.25rem;
+}
+.newsletter-section.blue h2
+{
+    /* border-color: white; */
+    color: white;
+    font-weight: bold;
+    font-size: 2.25rem;
+    text-transform: uppercase;
+}
