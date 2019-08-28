@@ -31,4 +31,4 @@ To request data access, please first read the CADRE Data Access Policy. You can 
 We rely heavily on user stories and use cases to create a platform that is helpful to every type of academic researcher. To tell us what you want to see in our platform, share your user story.
 *  [User Story Form](http://iuni.iu.edu/resources/cadre/user-stories).
 
-For information on becoming a CADRE Fellow, please visit our [fellowship page](https://cadre.iu.edu/website/grav/fellows).
+For information on becoming a CADRE Fellow, please visit our [fellowship page](https://cadre.iu.edu/website/grav/work-with-us/cadre-fellowship).
