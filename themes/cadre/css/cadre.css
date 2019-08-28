@@ -134,6 +134,14 @@ section.blue h3 {
     color: #e4e8f3;
 }
 
+
+#username_field
+{
+    position: absolute;
+    left: -2000px;
+    visibility: hidden;
+}
+
 /* 
 ######## ######## ##       ##        #######  ##      ## 
 ##       ##       ##       ##       ##     ## ##  ##  ## 
@@ -318,3 +326,5 @@ section.blue h3 {
     /* font-size: 2.25rem; */
     /* text-transform: uppercase; */
 }
+
+

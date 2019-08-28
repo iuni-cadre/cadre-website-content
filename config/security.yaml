@@ -30,6 +30,7 @@ xss_dangerous_tags:
   - bgsound
   - title
   - base
+  - style
 uploads_dangerous_extensions:
   - php
   - html
