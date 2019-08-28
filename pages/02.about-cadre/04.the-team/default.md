@@ -1,6 +1,6 @@
 ---
 title: 'The Team'
-media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRennes.jpg,WittenbergJ.jpg,IUB.CADRE Meeting at IUNI House_7192019-6.png,LG.jpg,SHM.jpg,IUB.CADRE Meeting at IUNI House_7192019-5 (1).jpg,PL1.jpg'
+media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRennes.jpg,WittenbergJ.jpg,IUB.CADRE Meeting at IUNI House_7192019-6.png,LG.jpg,SHM.jpg,IUB.CADRE Meeting at IUNI House_7192019-5 (1).jpg,PL1.jpg,SL.jpg'
 ---
 
 #### CADRE Project Leads: ####
@@ -53,12 +53,10 @@ UI/UX Designer at Indiana University Network Science Institute
 
 #### CADRE Administrative/Outreach Team ####
 
-![A photo of a woman with red hair and glasses.](LG.jpg)
+![A collective headshot with a woman on the left with red hair and glasses and a woman on the right with brown hair.](SL.jpg)
 
 ##### Lourdes Gonzalez  
 Adminsitrative Coordinator at Indiana University Network Science Institute
-
-![A woman of a woman with brown hair. She's adorable. But she's also the one writing this Alt Text.](SHM.jpg)
 
 ##### Stephanie Hernandez McGavin  
 Outreach Coordinator at Indiana University Network Science Institute
