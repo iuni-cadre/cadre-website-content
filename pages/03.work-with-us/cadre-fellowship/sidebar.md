@@ -7,9 +7,9 @@ While CADRE is not yet offering paid memberships to use our platform, we invite 
 CADRE Fellowship Program applicants can form research teams consisting of graduate students, staff, and faculty from any U.S. or non-U.S. university—and teams can span any discipline and institution. You may also submit a research proposal without a team. You do not need to have extensive programming experience to apply.
 
 **Our previous fellows received:** 
-* Travel support to present their work at ISSI 2019 in Rome,
-* Free and early access to CADRE's cloud-computing resources,
-* Access to big bibliometric datasets Web of Science and Microsoft Academic Graph,
-* And training and technical support from our IT team for the CADRE platform and for their research projects.
+* Travel support to present their work at ISSI 2019 in Rome
+* Free and early access to CADRE's cloud-computing resources
+* Access to big bibliometric datasets Web of Science and Microsoft Academic Graph
+* Training and technical support from our IT team for the CADRE platform and for their research projects
 
-Our call for CADRE Fellows remains open, and we select new fellows as opening become available. If you are interested in becoming a CADRE Fellow, email us at **cadre@iu.edu** or fill out [a proposal form](https://iuni.iu.edu/resources/cadre/fellowship-proposal-form). You can also be the first to know when we are accepting new fellows by following us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and emailing us with a request to join our newsletter.
+Our call for CADRE Fellows remains open, and we select new fellows as opening become available. If you are interested in becoming a CADRE Fellow, email us at <a href = "mailto: cadre@iu.edu"> c a d r e @ i u . e d u.</a> or fill out [a proposal form](https://iuni.iu.edu/resources/cadre/fellowship-proposal-form). You can also be the first to know when we are accepting new fellows by following us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [subscribing](https://cadre.iu.edu/website/grav/news-and-events) to our newsletter.
