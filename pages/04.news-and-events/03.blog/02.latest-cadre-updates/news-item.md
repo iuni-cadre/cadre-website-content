@@ -8,7 +8,7 @@ media_order: 'ITBoard1.jpg,WebsitePreview1.png'
 
 The CADRE team is hard at work developing a platform that will do what academic libraries have long been trying to achieve. 
 
-We are gearing up for [ISSI 2019](https://www.issi2019.org/) in September, where CADRE will hold a workshop and tutorial. Our hands-on [CADRE tutorial](https://cadre.iu.edu/website/grav/news-and-events/events) at ISSI will offer an option to use assisted programming to access Microsoft Academic Graph (MAG), as well as a second option that will allow access to the dataset using the CADRE Query Builder, which uses a graphical user interface.![A photo of a bulletin board with post-it notes and pictures that is mapping out CADRE infrastructure. Photo by Abigail Godwin.](ITBoard1.jpg?classes=float-right)
+We are gearing up for [ISSI 2019](https://www.issi2019.org/) in September, where CADRE will hold a workshop and tutorial. Our hands-on [CADRE tutorial](https://cadre.iu.edu/news-and-events/events) at ISSI will offer an option to use assisted programming to access Microsoft Academic Graph (MAG), as well as a second option that will allow access to the dataset using the CADRE Query Builder, which uses a graphical user interface.![A photo of a bulletin board with post-it notes and pictures that is mapping out CADRE infrastructure. Photo by Abigail Godwin.](ITBoard1.jpg?classes=float-right)
 
 But building a platform that allows novice coders to easily query massive datasets with a GUI is a lengthy process of trial and error—and that is only one component of CADRE.
 

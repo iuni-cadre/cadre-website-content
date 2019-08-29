@@ -25,6 +25,6 @@ No user story is too trivial to share, and you can submit as many stories as you
 
 Simply visit our[ User Story Collection page](https://iuni.iu.edu/resources/cadre/user-stories) and tell us about who you are. Explain your project goals and what CADRE functionalities could help you achieve those goals.
 
-If you are also interested in taking advantage of CADRE’s current resources and capabilities, consider applying to the [CADRE Fellowship Program](https://cadre.iu.edu/website/grav/work-with-us/cadre-fellowship). The deadline for the first round of CADRE Fellows is June 25. Similar to User Stories, this fellowship will help CADRE better understand the needs of its researchers.
+If you are also interested in taking advantage of CADRE’s current resources and capabilities, consider applying to the [CADRE Fellowship Program](https://cadre.iu.edu/work-with-us/cadre-fellowship). The deadline for the first round of CADRE Fellows is June 25. Similar to User Stories, this fellowship will help CADRE better understand the needs of its researchers.
 
 How will CADRE advance your research? [Tell us your story today.](http://iuni.iu.edu/resources/cadre/fellowship-proposal-form)

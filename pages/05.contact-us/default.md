@@ -7,9 +7,9 @@ We are designing CADRE to be an agile, interdisciplinary tool for any academic r
 
 If you have a request for datasets, data-analysis tools, other features&mdash;or if you are interested in partnering with CADRE&mdash; please fill out the form below.
 
-To read more in-depth about the features our platform will provide, please visit the [introduction page](https://cadre.iu.edu/website/grav/about-cadre/introduction).
+To read more in-depth about the features our platform will provide, please visit the [introduction page](https://cadre.iu.edu/about-cadre/introduction).
 
-If you want to stay updated on CADRE and remain informed on when our services will become available, follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [subscribe](https://cadre.iu.edu/website/grav/news-and-events) to our newsletter.
+If you want to stay updated on CADRE and remain informed on when our services will become available, follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [subscribe](https://cadre.iu.edu/news-and-events) to our newsletter.
 
 
 <form  id="the_form" action="./contact-us/process" method="POST" enctype="multipart/form-data">

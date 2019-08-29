@@ -17,4 +17,4 @@ MAG documentation, including a repository of sample code, to help you begin your
 * [Microsoft Academic Graph ERD](https://iuni.iu.edu/files/cadre/ER_Diagram_For_MAG.pdf)
 * [GitHub: Academic Kowledge Analytics Visualization](https://github.com/Azure-Samples/academic-knowledge-analytics-visualization)
 
-For information about data access, please visit the [Resources page](https://cadre.iu.edu/website/grav/resources). 
+For information about data access, please visit the [Resources page](https://cadre.iu.edu/resources). 

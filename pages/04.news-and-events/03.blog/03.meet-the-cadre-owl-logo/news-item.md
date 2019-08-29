@@ -8,7 +8,7 @@ media_order: 'complete-colored-transparent (1).png,OwlHeads2.png,cadre-logo-draf
 
 ![A purple and blue logo that reads "CADRE" with an owl attached to it](complete-colored-transparent%20%281%29.png)
 
-You met the [CADRE Fellows](https://cadre.iu.edu/website/grav/news-and-events/news/meet-cadres-first-class-of-fellows). Now, meet the CADRE Owl! That’s right, CADRE has a logo. More than a picture, our logo represents who we are.
+You met the [CADRE Fellows](https://cadre.iu.edu/news-and-events/news/meet-cadres-first-class-of-fellows). Now, meet the CADRE Owl! That’s right, CADRE has a logo. More than a picture, our logo represents who we are.
 
 ===
 

@@ -1,17 +1,20 @@
 ---
-title: 'ISSI 2019: CADRE Workshop'
+title: 'ISSI 2019: CADRE Workshop | 14:00 - 16:00'
 date_from: '02-09-2019 14:00'
 date_to: '02-09-2019 16:00'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,UMich_Hansen.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg,MaM_Park.jpg,CitationImpact_ChaoMin.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,UMich_Hansen.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg,MaM_Park.jpg,CitationImpact_ChaoMin.jpg,TimOtto.jpg'
 ---
 
-This workshop be held at [ISSI 2019](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) on Moday, Sept. 2, from 2:00 to 4:00 p.m. in the Calasso Room at Sapienza University in Rome. It will provide an introduction to and rationale for CADRE, including how its use facilitates collaboration and reproducibility directed at science-of-science researchers using big bibliometric data. It will also feature case examples from researchers who have tested a preliminary version of CADRE to address SofS research questions.
+This workshop will introduce CADRE and show SoS researchers how the platform can facilitate collaboration and reproducibility. Attendees will also hear from CADRE Fellows, who will use the platform for their fellowship research projects. 
 
 ===
 
-For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
+**When:** Monday, Sept. 2, from 14:00 to 16:00  
+**Where:** Calasso Room at Sapienza University in Rome, ISSI 2019
+
+**If you are looking for information on the tutorial, [click here](https://cadre.iu.edu/news-and-events/events/rome).**  For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
 
 ---
 
@@ -23,6 +26,15 @@ Victor H. Yngve Professor of Engineering & Information Science at Indiana Univer
 
 ---
 
+#### Web of Science Group Presenter 
+
+![A man in a suit jacket with a flower in his pocket.](TimOtto.jpg)
+##### Tim Otto
+Senior Business Development Director at Web of Science Group
+
+
+---
+
 #### CADRE Fellow Presenters ####
 
 <div class="row">
@@ -31,22 +43,22 @@ Victor H. Yngve Professor of Engineering & Information Science at Indiana Univer
 ![](MaM_Park.jpg)
 ##### Michael Park
 Ph.D. student in strategic management and entrepreneurship, University of Minnesota  
-[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/measuring-and-modeling-the-dynamics-of-science-using-the-cadre-platform): "Measuring and Modeling the Dynamics of Science Using the CADRE Platform"
+[Fellowship research project](https://cadre.iu.edu/fellows/measuring-and-modeling-the-dynamics-of-science-using-the-cadre-platform): "Measuring and Modeling the Dynamics of Science Using the CADRE Platform"
 </div>
 
 <div class="col-6" markdown="1">
 ![](CitationImpact_ChaoMin.jpg)
 ##### Chao Min
 Research assistant professor in information management, Nanjing University in China  
-[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
+[Fellowship research project](https://cadre.iu.edu/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
 </div>
 
 <div class="col-6" markdown="1">
 ![A young person with blonder hair and a blue hat that says, "library."](UMich_Hansen.jpg)
 ##### Samuel Hansen
 Mathematics and statistics librarian, Shapiro Science Library, University of Michigan  
-[Fellowship research project](https://cadre.iu.edu/website/grav/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology): "Comparative analysis of legacy and emerging journals in mathematical biology"  
-    [Second research project](https://cadre.iu.edu/website/grav/fellows/systematic-over-time-study-of-the-similarities-and-differences-in-research-across-mathematics-and-the-sciences): "Systematic over-time study of the similarities and differences in research across mathematics and the sciences"
+[Fellowship research project](https://cadre.iu.edu/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology): "Comparative analysis of legacy and emerging journals in mathematical biology"  
+    [Second research project](https://cadre.iu.edu/fellows/systematic-over-time-study-of-the-similarities-and-differences-in-research-across-mathematics-and-the-sciences): "Systematic over-time study of the similarities and differences in research across mathematics and the sciences"
 </div>
 
 </div>
@@ -93,58 +105,57 @@ Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around 
   </thead>
   <tbody>
     <tr>
-      <th scope="row">14:00 - 14:05:</th>
+      <th scope="row">14:00 - 14:10:</th>
       <td>[Mabry] Welcome and introduction to the team: review of tutorial and preview of workshop’s program.</td>
     </tr>
     <tr>
-      <th scope="row">14:05 - 14:15:</th>
-      <td>[Pentchev] The Promise of CADRE: A brief introduction of the CADRE project, need for collaborative research platforms. Overview of the CADRE design and functionality.</td>
+      <th scope="row">14:10 - 14:20:</th>
+      <td>[Pentchev] The Promise of CADRE: A brief introduction of the CADRE project, need for collaborative research platforms.</td>
     </tr>
     <tr>
-      <th scope="row">14:15 - 14:35:</th>
-      <td>[Börner] How big data has changed science of science research. Need for platforms like CADRE.</td>
+      <th scope="row">14:20 - 14:40:</th>
+      <td>[Börner] How big data has changed science of science research. Need for platforms like CADRE. Includes Q+A.</td>
     </tr>
       <tr>
-      <th scope="row">14:35 - 14:50:</th>
-      <td>[WoS] How WoS data has changed science of science research and beyond. Collaborations and plans with CADRE.</td>
+      <th scope="row">14:40 - 14:55:</th>
+      <td>[Otto] Web Of Science on CADRE.</td>
     </tr>
     <tr>
-      <th scope="row">14:50 - 15:00:</th>
-      <td>[Yan] Describe the CADRE Fellowship Program. Introduce contributed projects teams.</td>
+      <th scope="row">14:55 - 15:05:</th>
+      <td>[Yan] The CADRE Fellowship Program. Introduce contributed projects teams.</td>
     </tr>
     <tr>
-      <th scope="row">15:00 - 15:15:</th>
-      <td>[Park (UMN)] Presentation 1.</td>
+      <th scope="row">15:05 - 15:20:</th>
+      <td>[Park (UMN)] Presentation 1: CD index over time in science: A first look into the WOS archive.</td>
     </tr>
         <tr>
-      <th scope="row">15:15 - 15:30:</th>
-      <td>[Min (NJU/IU)] Presentation 2.</td>
+      <th scope="row">15:20 - 15:35:</th>
+      <td>[Min (NJU/IU)] Presentation 2: Identifying citation patterns of scientific breakthroughs</td>
     </tr>
     <tr>
-      <th scope="row">15:30 - 15:45:</th>
-      <td>[Hansen (UMich)] Presentation 3.</td>
-    </tr>
-    <tr>
-      <th scope="row">15:45 - 15:52:</th>
-      <td>[Pentchev] Shoutout for the tutorial, register for a CADRE test account, and how to give feedback and receive project updates.</td>
+      <th scope="row">15:35 - 15:50:</th>
+      <td>[Hansen (UMich)] Presentation 3: Mathematical Biology and Systematic Mathematical Research Analysis.</td>
     </tr>
        <tr>
-      <th scope="row">15:52 - 16:00:</th>
+      <th scope="row">15:50 - 16:00:</th>
       <td>[Mabry] Q+A, closing summary, comments on work presented and how it fits in the big picture; briefly outline opportunities.</td>
     </tr>
   </tbody>
 </table>
----
-#### Find us at ISSI
-Both the CADRE Workshop and Tutorial will be located in the Calasso Room, which is location No. 5 on the map below, or [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf) to open the map:
-![A map of the ISSI conference venue. The CADRE tutorial is in room five, in the middle of the map](ISSI%20Conf.jpg)
 
 ---
+
 #### Follow along online
 
-CADRE will be Tweeting about the event and th IU Network Science Institute (IUNI) will be recording it. To follow our ISSI 2019 CADRE Tutorial online:
+CADRE will be Tweeting about our presnentation and recording it (to publish in the coming days). To follow our ISSI 2019 CADRE Workshop online:
 * Follow us on Twitter: [@CADRE_Project](https://twitter.com/CADRE_Project)
 * Like IUNI on Facebook: [IU Network Science Institute](https://www.facebook.com/iunetsci/)
+
+---
+
+#### Find us at ISSI
+Both the CADRE Workshop and Tutorial will be located in the Calasso Room, which is location No. 5 on the map below, or [click here](https://www.issi2019.org/detailed-venue-map) to open the map:
+![A map of the ISSI conference venue. The CADRE tutorial is in room five, in the middle of the map](ISSI%20Conf.jpg)
 
 ---
 #### Background and Rationale ####
