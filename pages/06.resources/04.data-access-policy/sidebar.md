@@ -57,7 +57,7 @@ The goal of the data access policy is to maximize accessibility while simultaneo
 
 **2.5.** Any work that uses with any data from the MAG must include the following citation:
 
-Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, and Kuansan Wang. 2015. An Overview of Microsoft Academic Service (MA) and Applications. In Proceedings of the 24th International Conference on World Wide Web (WWW '15 Companion). ACM, New York, NY, USA, 243-246. DOI=(http://dx.doi.org/10.1145/2740908.2742839)
+Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, and Kuansan Wang. 2015. An Overview of Microsoft Academic Service (MA) and Applications. In Proceedings of the 24th International Conference on World Wide Web (WWW '15 Companion). ACM, New York, NY, USA, 243-246. DOI=[http://dx.doi.org/10.1145/2740908.2742839](http://dx.doi.org/10.1145/2740908.2742839)
 
 ---
 
@@ -68,7 +68,7 @@ Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, a
 * Web of Science or WoS: The dataset and all future updates that have been provided to IUNI by Clarivate Analytics.
 * Microsoft Academic Graph or MAG: The dataset and all future updates that have been provided to IUNI by Microsoft Research.
 * Data Enclave or ‘The enclave’: A dedicated data intensive node in the Karst network that stores the WoS and MAG dataset and is maintained by UITS on behalf of IUNI.
-* Data Manager: An employee of IUNI who conducts day-to-day administration of the WoS and MAG dataset and supports researchers in accessing the data. The Data Manager serves as the single point of contact for all issues regarding the enclave and the WoS data (See (https://datamgmt.iu.edu/governance/structure.php) for more details).
+* Data Manager: An employee of IUNI who conducts day-to-day administration of the WoS and MAG dataset and supports researchers in accessing the data. The Data Manager serves as the single point of contact for all issues regarding the enclave and the WoS data (See [https://datamgmt.iu.edu/governance/structure.php](http://iuni.iu.edu/resources/cadre/general-data-user) for more details).
 
 ---
 
@@ -82,14 +82,14 @@ Failure to comply with Indiana University information technology policies may re
 #### Additional Contacts ####
 Subject	Contact
 
-Web of Science:	Matthew Hutchinson | (812) 855-1404	| <A HREF="maahutch@iu.edu">m a a h u t c h @ i u . e d u</A>
+Web of Science:	Matthew Hutchinson | (812) 855-1404	| <a href="mailto:maahutch@iu.edu">m a a h u t c h @ i u . e d u</a>
 
-Microsoft Academic Graph: Matthew Hutchinson | (812) 855-1404 | <A HREF="maahutch@iu.edu">m a a h u t c h @ i u . e d u</A>
+Microsoft Academic Graph: Matthew Hutchinson | (812) 855-1404 | <a href="mailto:maahutch@iu.edu">m a a h u t c h @ i u . e d u</a>
 
 ---
 
 #### Forms ####
-If you are interested in accessing the data enclave, please complete the application form at the following address: http://iuni.iu.edu/resources/cadre/general-data-user
+If you are interested in accessing the data enclave, please complete the application form at the following address: [http://iuni.iu.edu/resources/cadre/general-data-user](http://iuni.iu.edu/resources/cadre/general-data-user)
 
 ---
 

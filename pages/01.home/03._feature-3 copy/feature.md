@@ -1,5 +1,5 @@
 ---
-title: 'Reproduce research & leverage analysis tools'
+title: 'Reproduce research & leverage tools'
 an_example_text_field: 5
 media_order: illustration3.min.png
 ---
