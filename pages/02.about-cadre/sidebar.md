@@ -19,4 +19,4 @@ CADRE is an IMLS-funded project that provides sustainable, affordable, and stand
 #### Partners ####
 This platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible by [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/). To lear about CADRE partnerships, visit the Work with Us page. 
 
-If you want to stay updated on CADRE and remain informed on when our services will become available, [subscribe](https://cadre.iu.edu/website/grav/news-and-events) to our newsletter.
+If you want to stay updated on CADRE and remain informed on when our services will become available, [subscribe](https://cadre.iu.edu/news-and-events) to our newsletter.

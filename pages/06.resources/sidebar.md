@@ -22,7 +22,7 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 
 #### Data Access/General User Application: ####
 To request data access, please first read the CADRE Data Access Policy. You can then complete the CADRE General Data User Application. Upon approval, data enclave access is provided by IUNI Data Manager Matthew Hutchinson.
-* [CADRE Data Access Policy](https://cadre.iu.edu/website/grav/resources/data-access-policy)
+* [CADRE Data Access Policy](https://cadre.iu.edu/resources/data-access-policy)
 * [CADRE General Data User Application Form](https://iuni.iu.edu/resources/cadre/general-data-user)
 
 ---
@@ -31,4 +31,4 @@ To request data access, please first read the CADRE Data Access Policy. You can 
 We rely heavily on user stories and use cases to create a platform that is helpful to every type of academic researcher. To tell us what you want to see in our platform, share your user story.
 *  [User Story Form](http://iuni.iu.edu/resources/cadre/user-stories).
 
-For information on becoming a CADRE Fellow, please visit our [fellowship page](https://cadre.iu.edu/website/grav/work-with-us/cadre-fellowship).
+For information on becoming a CADRE Fellow, please visit our [fellowship page](https://cadre.iu.edu/work-with-us/cadre-fellowship).

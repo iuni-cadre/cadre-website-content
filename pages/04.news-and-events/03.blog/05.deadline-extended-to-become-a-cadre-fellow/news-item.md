@@ -5,7 +5,7 @@ media_order: Datasets-1.jpg
 ---
 
 **6/5/19**  
-The Collaborative Archive & Data Research Environment (CADRE) is extending the deadline to apply for the [CADRE Fellowship Program](https://cadre.iu.edu/website/grav/work-with-us/cadre-fellowship) to June 25. Academic researchers and librarians from any institution are invited to apply.
+The Collaborative Archive & Data Research Environment (CADRE) is extending the deadline to apply for the [CADRE Fellowship Program](https://cadre.iu.edu/work-with-us/cadre-fellowship) to June 25. Academic researchers and librarians from any institution are invited to apply.
 
 If you are not familiar with CADRE, we are an IMLS-funded project that provides sustainable, affordable, and standardized data- and text-mining services for licensed big datasets, as well as open and non-consumptive datasets too large or unwieldy to work with in existing research library environments. CADRE offers academic researchers access to these data in a secure cloud-based platform.
 
@@ -23,6 +23,6 @@ Applicants can form research teams consisting of graduate students, staff, and f
 
 Sound interesting? Submit your CADRE Fellowship [proposal here](http://iuni.iu.edu/resources/cadre/fellowship-proposal-form) by June 25.
 
-You can find more information about the [CADRE Fellowship Program here](https://cadre.iu.edu/website/grav/work-with-us/cadre-fellowship). Fellows will be selected the first week of July.
+You can find more information about the [CADRE Fellowship Program here](https://cadre.iu.edu/work-with-us/cadre-fellowship). Fellows will be selected the first week of July.
 
 Contact us at <a href = "mailto: cadre@iu.edu">c a d r e @ i u . e d u</a> with any questions and follow us at [@CADRE_Project](https://twitter.com/CADRE_Project) for the latest news.
