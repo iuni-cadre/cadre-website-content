@@ -1,6 +1,6 @@
 ---
 title: 'Works in Progress Webinar: Democratizing Access to Large Datasets through Shared Infrastructure'
-date_from: '08-08-2019 11:00'
+date: '08-08-2019 11:00'
 date_to: '08-08-2019 12:00'
 place: 'OCLC Research Online'
 website: 'https://www.oclc.org/research/home.html'

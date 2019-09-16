@@ -12,7 +12,7 @@ form:
       fields:
         content:
           fields:
-            header.date_from:
+            header.date:
               ordering@: 2
               type: datetime
               label: From

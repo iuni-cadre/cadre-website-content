@@ -1,6 +1,6 @@
 ---
 title: 'ISSI 2019: CADRE Tutorial | 16:30 - 18:30'
-date_from: '02-09-2019 16:30'
+date: '02-09-2019 16:30'
 date_to: '02-09-2019 18:30'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org

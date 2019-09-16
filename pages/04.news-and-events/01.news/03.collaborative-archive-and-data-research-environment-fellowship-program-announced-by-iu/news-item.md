@@ -1,6 +1,6 @@
 ---
 title: 'Collaborative Archive & Data Research Environment Fellowship Program Announced by IU'
-dateline: '06-05-2019 14:07'
+date: '06-05-2019 14:07'
 ---
 
 Indiana University’s Network Science Institute has recently announced its CADRE Fellowship Program.

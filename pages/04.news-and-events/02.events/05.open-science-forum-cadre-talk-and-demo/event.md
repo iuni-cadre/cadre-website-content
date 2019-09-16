@@ -1,6 +1,6 @@
 ---
 title: 'Open Science Forum: CADRE Talk and Demo'
-date_from: '24-04-2019 04:00'
+date: '24-04-2019 04:00'
 date_to: '24-04-2019 06:00'
 place: 'SSRC, Woodburn Hall 200, Indiana University '
 website: 'https://iuni.iu.edu/news/event/39'
