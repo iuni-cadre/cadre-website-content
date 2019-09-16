@@ -161,7 +161,7 @@
                 <div class="col-8">
                     <div class="event-card-content">
                         <h4>{{event.title}}</h4>
-                        <div class="dates">{{event.header.date_from | date("F j, Y")}} - {{event.header.date_to | date("F j, Y")}}</div>
+                        <div class="dates">{{event.header.date | date("F j, Y")}} - {{event.header.date_to | date("F j, Y")}}</div>
                         <div class="place">{{event.header.place}}</div>
                         <div class="website">{{event.header.website}}</div>
                         {{ event.summary | raw}}

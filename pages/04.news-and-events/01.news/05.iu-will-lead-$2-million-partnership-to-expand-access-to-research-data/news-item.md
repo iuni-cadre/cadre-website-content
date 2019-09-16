@@ -1,6 +1,6 @@
 ---
 title: 'IU will lead $2 million partnership to expand access to research data'
-dateline: '18-10-2018 15:17'
+date: '18-10-2018 15:17'
 media_order: 'owlhead-compare.png,OldOwl.jpg,complete-colored-transparent.png'
 ---
 

@@ -283,8 +283,8 @@ button.carousel-button
                     {% for item in pages.find("/news-and-events/news").collection('homepageitems') %}
                         <div class="news-item d-flex justify-content-start">
                             <div>
-                            <div class="dateline">
-                                {{item.header.dateline | date("n/j")}}
+                            <div class="dateline" title="{{item.header.date}}">
+                                {{item.header.date | date("n/j")}}
                             </div>
                             </div>
                             <div class="">
@@ -315,10 +315,10 @@ button.carousel-button
                     {% for item in pages.find("/news-and-events/events").collection('homepageitems') %}
                         <div class="news-item d-flex justify-content-start">
                             <div>
-                                <div class="dateline">
-                                    {{item.header.date_from | date("n/j")}}
+                                <div class="dateline"  title="{{item.header.date}}">
+                                    {{item.header.date | date("n/j")}}
                                     <br />
-                                    {{item.header.date_from | date("Y")}}
+                                    {{item.header.date | date("Y")}}
                                 </div>
                             </div>
                             <div class="">

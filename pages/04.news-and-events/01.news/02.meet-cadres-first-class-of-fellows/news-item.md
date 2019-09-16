@@ -1,6 +1,6 @@
 ---
 title: 'Meet CADRE’s first class of fellows'
-dateline: '18-07-2019 15:17'
+date: '18-07-2019 15:17'
 media_order: 'PurdueFellows (1).jpg,MSUFellows (1).jpg,MaM_Fellows (large 2) (1).jpg,MaM_Fellows (large 1) (1).jpg,CitationFellows (1).jpg,UMich_Hansen (1).jpg,UMichFellows (1).jpg,QuasiExpFellows (1).jpg'
 ---
 

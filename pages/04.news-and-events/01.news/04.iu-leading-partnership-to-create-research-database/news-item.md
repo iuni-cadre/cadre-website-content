@@ -1,6 +1,6 @@
 ---
 title: 'IU Leading Partnership to Create Research Database'
-dateline: '19-10-2018 14:03'
+date: '19-10-2018 14:03'
 ---
 
 BLOOMINGTON&mdash;An effort to create a secure online database for academic resources has received a boost after being awarded nearly $850,000 from the Institute of Museum and Library Sciences.

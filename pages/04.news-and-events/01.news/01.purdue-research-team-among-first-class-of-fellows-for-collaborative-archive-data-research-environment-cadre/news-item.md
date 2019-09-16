@@ -1,6 +1,6 @@
 ---
 title: 'Purdue Research Team Among First Class of Fellows for Collaborative Archive Data Research Environment (CADRE)'
-dateline: '18-07-2019 12:44'
+date: '18-07-2019 12:44'
 ---
 
 A team of Purdue University researchers is among the seven fellowship teams selected for the first class of the Collaborative Archive Data Research Environment (CADRE) Fellows.

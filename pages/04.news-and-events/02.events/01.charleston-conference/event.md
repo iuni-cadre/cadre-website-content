@@ -1,6 +1,6 @@
 ---
 title: 'Charleston Conference'
-date_from: '06-11-2019 18:20'
+date: '06-11-2019 18:20'
 date_to: '06-11-2019 19:00'
 place: 'Charleston, S.C.'
 media_order: CLC-2019_header_small.jpg
