@@ -8,7 +8,14 @@ main: true
 In addition to providing sustainable, affordable, and standardized text- and data-mining services for large datasets, CADRE will offer extensive tutorials on how to work with our platform and datasets. Take a look at some preliminary resources for taking full advantage of CADRE. Please note, some of these resources currently take you to the IU Network Science Institute website. 
 
 #### Informatonal Videos and Demos: ####
-You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for more videos.
+You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for more videos.  
+
+* ISSI 2019: CADRE Workshop
+[plugin:youtube](https://www.youtube.com/watch?v=SORK_OZYjcE)
+
+* ISSI 2019: CADRE Tutorial
+[plugin:youtube](https://www.youtube.com/watch?v=uRpNaqHYgxY) 
+
 * Open Science Forum: CADRE Talk and Demo
 [plugin:youtube](https://youtu.be/8NjmOvkqDAw)
 

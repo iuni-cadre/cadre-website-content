@@ -19,7 +19,6 @@ xss_dangerous_tags:
   - xml
   - blink
   - link
-  - script
   - embed
   - object
   - iframe
@@ -31,6 +30,7 @@ xss_dangerous_tags:
   - title
   - base
   - style
+  - script
 uploads_dangerous_extensions:
   - php
   - html

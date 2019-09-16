@@ -4,17 +4,34 @@ date_from: '02-09-2019 16:30'
 date_to: '02-09-2019 18:30'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,CitationImpact_YiBu.jpg,microsoft_research_logo.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,PatriciaMabry1.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,CitationImpact_YiBu.jpg,microsoft_research_logo.jpg,VP Workshop-slides-01.pdf,Tutorial-slides.pdf,ISSI_Group.jpg,ISSI CADRE workshop Sept 2019 (002).jpg,20190902BY-CADRE-tutorial-shared.pdf'
 ---
 
 This tutorial will walk users through how to work with the CADRE platform. We will show researchers how to create an account, query Microsoft Academic Graph with our GUI query builder, reproduce work, and more. **Please bring your laptop.**
 
 ===
 
-**When:** Monday, Sept. 2, from 16:30 to 18:30  
-**Where:** Calasso Room at Sapienza University in Rome, ISSI 2019
+#### Thank you for attending!
 
-For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
+![A group photo at ISSI](ISSI%20CADRE%20workshop%20Sept%202019%20%28002%29.jpg)
+
+---
+
+##### Tutorial recording:
+
+[plugin:youtube](https://youtu.be/uRpNaqHYgxY)
+
+---
+
+##### Tutorial slides:
+
+* **Xiaoran Yan, Matthew Hutchinson, Filipi Silva, Valentin Pentchev:** [Hands-on Tutorial](Tutorial-slides.pdf)
+* **Valentin Penthcev:** [The promise of CADRE.](VP%20Workshop-slides-01.pdf)
+* **Yi Bu, fellow:** [Contributed demos from research.](20190902BY-CADRE-tutorial-shared.pdf)
+
+If you need materials for the workshop, [click here](https://cadre.iu.edu/news-and-events/events/cadre-workshop). 
+
+Check out CADRE-ISSI Github: [CADRE ISSI 2019 tutorial](https://github.com/iuni-cadre/ISSI-tutorial)
 
 ---
 
@@ -141,7 +158,7 @@ Below is the tutorial itinerary for Monday, Sept. 2. For our workshp program, [c
 #### Follow along online
 
 CADRE will be Tweeting about our presentation and recording it (to publish in the coming days). To follow our ISSI 2019 CADRE Tutorial online:
-* Check out CADRE-ISSI Github: [CADRE ISSI 2019 tutorial](https://github.com/iuni-cadre/cadre/wiki/CADRE-ISSI-2019-tutorial)
+* Check out CADRE-ISSI Github: [CADRE ISSI 2019 tutorial](https://github.com/iuni-cadre/ISSI-tutorial)
 * Follow us on Twitter: [@CADRE_Project](https://twitter.com/CADRE_Project)
 * Like IUNI on Facebook: [IU Network Science Institute](https://www.facebook.com/iunetsci/)
 

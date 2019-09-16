@@ -4,17 +4,36 @@ date_from: '02-09-2019 14:00'
 date_to: '02-09-2019 16:00'
 place: 'Sapienza University of Rome; CALASSO Room'
 website: www.issi2019.org
-media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,UMich_Hansen.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg,MaM_Park.jpg,CitationImpact_ChaoMin.jpg,TimOtto.jpg'
+media_order: 'rome1.jpg,XiaoranYan.jpg,ValentinPentchev.jpg,MattHutchinson_300x375.jpg,1560458500_Filipi2.jpg,issi-og-graph_web.png,ISSI Conf.jpg,woslogo.png,UMich_Hansen.jpg,QuasiExp_Borner.jpg,PatriciaMabry1.jpg,MaM_Park.jpg,CitationImpact_ChaoMin.jpg,TimOtto.jpg,ISSI_Group.jpg,issiCADRE (004) Hansen.pdf,Patty and Xiaoran slides.pdf,VP Workshop-slides-01.pdf,presentation_MP_20190829v2.pdf,ISSI CADRE workshop Chao Min.pdf,ISSI CADRE workshop Sept 2019 (002).jpg'
 ---
 
 This workshop will introduce CADRE and show SoS researchers how the platform can facilitate collaboration and reproducibility. Attendees will also hear from CADRE Fellows, who will use the platform for their fellowship research projects. 
 
 ===
+#### Thank you for attending!
 
-**When:** Monday, Sept. 2, from 14:00 to 16:00  
-**Where:** Calasso Room at Sapienza University in Rome, ISSI 2019
+![A group photo of presenters at ISSI](ISSI%20CADRE%20workshop%20Sept%202019%20%28002%29.jpg)
 
-**If you are looking for information on the tutorial, [click here](https://cadre.iu.edu/news-and-events/events/rome).**  For the full ISSI program, including a map of the venue, [click here](https://docs.wixstatic.com/ugd/aa54ce_bcc5f1cb4cc44885985b462e7605333f.pdf).
+---
+
+##### Workshop recording:
+
+[plugin:youtube](https://youtu.be/SORK_OZYjcE)  
+
+---
+
+##### Workshop slides:
+
+* **Patricia Mabry and Xiaoran Yan:** [Welcome and introduction to the team: review of tutorial and preview of workshop’s program.](Patty%20and%20Xiaoran%20slides.pdf)
+*  **Valentin Pentchev:** [The Promise of CADRE.](VP%20Workshop-slides-01.pdf)
+* **Tim Otto:** Web of Science and CADRE (coming soon).
+* **Katy Börner, keynote:** [BIG data for BIG science of science research. The need for CADRE.](https://cadre-website-files.s3.amazonaws.com/19-Borner-ISSI-CADRE.pdf)
+* **Michael Park, fellow:** [Changin Characteristics of Innovation.](presentation_MP_20190829v2.pdf)
+* **Chao Min, fellow:** [Identifying Citation Patterns of Scientific Breakthroughs.](ISSI%20CADRE%20workshop%20Chao%20Min.pdf)
+* **Samuel Hansen, fellow:** [Mathematical Biology and Systematic Mathematical Research Analysis.](issiCADRE%20%28004%29%20Hansen.pdf)
+
+
+If you need materials for the tutorial, [click here](https://cadre.iu.edu/news-and-events/events/rome).
 
 ---
 
@@ -113,12 +132,12 @@ Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around 
       <td>[Pentchev] The Promise of CADRE: A brief introduction of the CADRE project, need for collaborative research platforms.</td>
     </tr>
     <tr>
-      <th scope="row">14:20 - 14:40:</th>
-      <td>[Börner] How big data has changed science of science research. Need for platforms like CADRE. Includes Q+A.</td>
+      <th scope="row">14:20 - 14:35:</th>
+      <td>[Otto] Web Of Science on CADRE.</td>
     </tr>
       <tr>
-      <th scope="row">14:40 - 14:55:</th>
-      <td>[Otto] Web Of Science on CADRE.</td>
+      <th scope="row">14:35 - 14:55:</th>
+      <td>[Börner] BIG data for BIG science of science research. The need for CADRE. Includes Q+A.</td>
     </tr>
     <tr>
       <th scope="row">14:55 - 15:05:</th>
@@ -126,7 +145,7 @@ Below is the workshop itinerary for Monday, Sept. 2. Make sure you stick around 
     </tr>
     <tr>
       <th scope="row">15:05 - 15:20:</th>
-      <td>[Park (UMN)] Presentation 1: CD index over time in science: A first look into the WOS archive.</td>
+      <td>[Park (UMN)] Presentation 1: Changing Characteristics of Innovation.</td>
     </tr>
         <tr>
       <th scope="row">15:20 - 15:35:</th>

@@ -2,7 +2,7 @@
 title: 'CADRE Fellowship'
 ---
 
-While CADRE is not yet offering paid memberships to use our platform, we invite you to collaborate with our team of experts and use our state-of-the-art big bibliometric data and cloud-computing environment for your next research project as a CADRE Fellow. You will gain free access to CADRE as a fellow and provide a valuable use case to the development of the platform.
+While CADRE is currently under development, we invite you to collaborate with our team of experts and use our state-of-the-art big bibliometric data and cloud-computing environment for your next research project as a CADRE Fellow. You will gain free access to CADRE as a fellow and provide a valuable use case to the development of the platform.
 
 CADRE Fellowship Program applicants can form research teams consisting of graduate students, staff, and faculty from any U.S. or non-U.S. university—and teams can span any discipline and institution. You may also submit a research proposal without a team. You do not need to have extensive programming experience to apply.
 
