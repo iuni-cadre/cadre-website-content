@@ -3,7 +3,7 @@ title: 'Get Started'
 media_order: illustration1.png
 ---
 
- ![An illustration of map of different datasets, including Web of Science, USPTO and Microsoft Academic Graph.](illustration1.png?classes=float-right) CADRE, which will meet the text- and data-mining needs of academic researchers across any discipline, is currently under development. Instructions on accessing CADRE will be available soon. In the meantime, you can view demos on how the platform will work on our [Resources page](https://cadre.iu.edu/resources). And while we are not yet offering paid memberships to access our platform, you can gain early access and other perks by becoming a [CADRE Fellow](https://cadre.iu.edu/work-with-us/cadre-fellowship).
+ ![Map of different datasets, including Web of Science, USPTO and Microsoft Academic Graph. Illustration.](illustration1.png?classes=float-right) CADRE, which will meet the text- and data-mining needs of academic researchers across any discipline, is currently under development. Instructions on accessing CADRE will be available soon. In the meantime, you can view demos on how the platform will work on our [Resources page](https://cadre.iu.edu/resources). And while we are not yet offering paid memberships to access our platform, you can gain early access and other perks by becoming a [CADRE Fellow](https://cadre.iu.edu/work-with-us/cadre-fellowship).
 
 You can also read more about our datasets and our data access policy below. 
 

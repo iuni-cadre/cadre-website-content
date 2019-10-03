@@ -13,7 +13,7 @@ This tutorial will walk users through how to work with the CADRE platform. We wi
 
 #### Thank you for attending!
 
-![A group photo at ISSI](ISSI%20CADRE%20workshop%20Sept%202019%20%28002%29.jpg)
+![A group photo of the presenters listed below.](ISSI%20CADRE%20workshop%20Sept%202019%20%28002%29.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ Check out CADRE-ISSI Github: [CADRE ISSI 2019 tutorial](https://github.com/iuni-
 
 #### CADRE Fellow Presenter ####
 
-![A photo of a man with glasses and a suit jacket.](CitationImpact_YiBu.jpg)
+![Yi Bu's headshot.](CitationImpact_YiBu.jpg)
 ##### Yi Bu
 Ph.D. candidate in informatics, Indiana University Bloomington  
 [Fellowship research project](https://cadre.iu.edu/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
@@ -51,28 +51,28 @@ Ph.D. candidate in informatics, Indiana University Bloomington
 
 
 <div class="col-4" markdown="1">
-![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
+![Xiaoran Yan's headshot.](XiaoranYan.jpg)
 ##### Xiaoran Yan
 CADRE Project Co-Director  
 Research Scientist at Indiana University Network Science Institute. 
 </div>
 
 <div class="col-4" markdown="1">
-![Photo of a man with a beard and ponytail in black suit jacket.](ValentinPentchev.jpg)
+![Valentin Pentchev's headshot.](ValentinPentchev.jpg)
 ##### Valentin Pentchev
 CADRE Project Co-Director  
 Director of Information Technolgoy at Indiana University Network Science Institute
 </div>
 
 <div class="col-4" markdown="1">
-![Photo of a man with brown hair and a black suit jacket.](MattHutchinson_300x375.jpg)
+![Matthew Hutchison's headshot.](MattHutchinson_300x375.jpg)
 ##### Matthew Hutchinson
 Data Manager at Indiana University Network Science Institute
 </div>
 
 
 <div class="col-6" markdown="1">
-![Photo of a man with glasses and a white dress shirt.](1560458500_Filipi2.jpg)
+![Filipi Silva's headshot.](1560458500_Filipi2.jpg)
 ##### Filipi Silva
 Research Scientist at Indiana University Network Science Institute
 </div>
@@ -166,7 +166,7 @@ CADRE will be Tweeting about our presentation and recording it (to publish in th
 
 #### Find us at ISSI
 Both the CADRE Workshop and Tutorial will be located in the Calasso Room, which is location No. 5 on the map below, or [click here](https://www.issi2019.org/detailed-venue-map) to open the map:
-![A map of the ISSI conference venue. The CADRE tutorial is in room five, in the middle of the map](ISSI%20Conf.jpg)
+![A map of the ISSI conference venue. The CADRE tutorial is in room five in the middle of the map.](ISSI%20Conf.jpg)
 
 ---
 
@@ -187,4 +187,4 @@ Several months in advance of the tutorial, we will issue a call for SofS researc
 ---
 #### Sponsors 
 
-![A red and white logo that reads "ISSI"](issi-og-graph_web.png) ![A black and white logo that simply reads: "Microsoft Research."](microsoft_research_logo.jpg)
+![A red and white logo that reads ISSI.](issi-og-graph_web.png) ![A black-and-white logo that reads: Microsoft Research.](microsoft_research_logo.jpg)

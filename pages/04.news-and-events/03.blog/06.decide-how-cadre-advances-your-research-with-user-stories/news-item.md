@@ -1,13 +1,13 @@
 ---
 title: 'Decide how CADRE advances your research with User Stories'
-dateline: '19-06-2019 12:24'
 media_order: 'GraphonLaptop (1).jpg'
+dateline: '19-06-2019 12:24'
 ---
 
 **6/19/19**  
 Research needs are varied and dynamic. While CADRE can ease the many technical and financial obstacles researchers face when working with large data resources, our platform also has the flexibility to fit more specific research needs. To better understand those needs, we collect [User Stories](https://iuni.iu.edu/resources/cadre/user-stories).
 
-Whether you are an academic researcher, librarian, or technical provider, CADRE’s ongoing call for User Stories allows you to tell us what you want from CADRE.![](GraphonLaptop%20%281%29.jpg?classes=float-right)
+Whether you are an academic researcher, librarian, or technical provider, CADRE’s ongoing call for User Stories allows you to tell us what you want from CADRE.![The corner of a laptop screen with graphs on the screen.](GraphonLaptop%20%281%29.jpg?classes=float-right)
 
 Maybe you are a researcher who requires the CADRE platform to apply multiple graph visualization tools, such as Gephi or VoS, to the same query result so you can explore your data more easily.  
 

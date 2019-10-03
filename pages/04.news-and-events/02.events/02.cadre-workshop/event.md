@@ -12,7 +12,7 @@ This workshop will introduce CADRE and show SoS researchers how the platform can
 ===
 #### Thank you for attending!
 
-![A group photo of presenters at ISSI](ISSI%20CADRE%20workshop%20Sept%202019%20%28002%29.jpg)
+![A group photo of presenters listed on this page.](ISSI%20CADRE%20workshop%20Sept%202019%20%28002%29.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ If you need materials for the tutorial, [click here](https://cadre.iu.edu/news-a
 
 #### Keynote Speaker ####
 
-![A woman with blonder hair and a red shirt; the background is blue.](QuasiExp_Borner.jpg)
+![Katy Borner's headshot.](QuasiExp_Borner.jpg)
 ##### Katy Börner
 Victor H. Yngve Professor of Engineering & Information Science at Indiana University Bloomington
 
@@ -47,7 +47,7 @@ Victor H. Yngve Professor of Engineering & Information Science at Indiana Univer
 
 #### Web of Science Group Presenter 
 
-![A man in a suit jacket with a flower in his pocket.](TimOtto.jpg)
+![Tim Otto's headshot.](TimOtto.jpg)
 ##### Tim Otto
 Senior Business Development Director at Web of Science Group
 
@@ -59,21 +59,21 @@ Senior Business Development Director at Web of Science Group
 <div class="row">
 
 <div class="col-6" markdown="1">
-![](MaM_Park.jpg)
+![Michael Park's headshot.](MaM_Park.jpg)
 ##### Michael Park
 Ph.D. student in strategic management and entrepreneurship, University of Minnesota  
 [Fellowship research project](https://cadre.iu.edu/fellows/measuring-and-modeling-the-dynamics-of-science-using-the-cadre-platform): "Measuring and Modeling the Dynamics of Science Using the CADRE Platform"
 </div>
 
 <div class="col-6" markdown="1">
-![](CitationImpact_ChaoMin.jpg)
+![Chao Min's Headshot.](CitationImpact_ChaoMin.jpg)
 ##### Chao Min
 Research assistant professor in information management, Nanjing University in China  
 [Fellowship research project](https://cadre.iu.edu/fellows/understanding-citation-impact-of-scientific-publications-through-ego-centered-citation-networks): "Understanding citation impact of scientific publications through ego-centered citation networks"
 </div>
 
 <div class="col-6" markdown="1">
-![A young person with blonder hair and a blue hat that says, "library."](UMich_Hansen.jpg)
+![Samuel Hansen's headshot.](UMich_Hansen.jpg)
 ##### Samuel Hansen
 Mathematics and statistics librarian, Shapiro Science Library, University of Michigan  
 [Fellowship research project](https://cadre.iu.edu/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology): "Comparative analysis of legacy and emerging journals in mathematical biology"  
@@ -89,21 +89,21 @@ Mathematics and statistics librarian, Shapiro Science Library, University of Mic
 <div class="row">
 
 <div class="col-4" markdown="1">
-![A woman with blonde hair and a black sweater.](PatriciaMabry1.jpg)
+![Patricia Mabry's headshot.](PatriciaMabry1.jpg)
 ##### Patricia Mabry
 CADRE Project Co-Director
 Research Investigator at Health Partners Institute
 </div>
 
 <div class="col-4" markdown="1">
-![Photo of a man with glasses in a black sweater.](XiaoranYan.jpg)
+![Xiaoran Yan's headshot.](XiaoranYan.jpg)
 ##### Xiaoran Yan
 CADRE Project Co-Director  
 Research Scientist at Indiana University Network Science Institute
 </div>
 
 <div class="col-4" markdown="1">
-![Photo of a man with a beard and ponytail in black suit jacket.](ValentinPentchev.jpg)
+![Valentin Penthcev's headshot.](ValentinPentchev.jpg)
 ##### Valentin Pentchev
 CADRE Project Co-Director  
 Director of Information Technolgoy at Indiana University Network Science Institute
@@ -192,4 +192,4 @@ The workshop will be CADRE’s formal international debut and we are eager to co
 ---
 #### Sponsors 
 
-![A red and white logo that reads "ISSI"](issi-og-graph_web.png)  ![A black and white logo that simply reads: "Web of Science Group."](woslogo.png)
+![A red and white logo that reads: ISSI.](issi-og-graph_web.png)  ![A black-and-white logo that reads: Web of Science Group.](woslogo.png)
