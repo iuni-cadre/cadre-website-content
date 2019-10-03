@@ -270,7 +270,21 @@ button.carousel-button
     </section>
 
 
-    <section id="news-and-highlights" class="">
+
+    <section id="features" class="">
+        <div class="container">
+            <h2>Features</h2>
+            <h3>All of these to offer, and more</h3>
+
+            <div class="d-flex row">
+            {% for module in page.collection() if module.template == "modular/feature"%}
+                <div class="col d-flex">{{ module.content|raw }}</div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <section id="news-and-highlights" class="blue">
         <div class="container">
             <h2>News &amp; Highlights</h2>
             <h3>Latest CADRE updates</h3>
@@ -358,19 +372,6 @@ button.carousel-button
         </div>
     </section>
 
-
-    <section id="features" class="blue">
-        <div class="container">
-            <h2>Features</h2>
-            <h3>All of these to offer, and more</h3>
-
-            <div class="d-flex row">
-            {% for module in page.collection() if module.template == "modular/feature"%}
-                <div class="col d-flex">{{ module.content|raw }}</div>
-            {% endfor %}
-            </div>
-        </div>
-    </section>
 
 
 
