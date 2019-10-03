@@ -1,7 +1,7 @@
 ---
 title: 'Deadline extended to become a CADRE Fellow'
-dateline: '05-06-2019 12:16'
 media_order: Datasets-1.jpg
+dateline: '05-06-2019 12:16'
 ---
 
 **6/5/19**  
@@ -9,7 +9,7 @@ The Collaborative Archive & Data Research Environment (CADRE) is extending the d
 
 If you are not familiar with CADRE, we are an IMLS-funded project that provides sustainable, affordable, and standardized data- and text-mining services for licensed big datasets, as well as open and non-consumptive datasets too large or unwieldy to work with in existing research library environments. CADRE offers academic researchers access to these data in a secure cloud-based platform.
 
-The benefits of being a CADRE Fellow include: ![A graph that shows the Web of Science and Microsoft Academic Graph as two high rectangles next to each other.](Datasets-1.jpg?classes=float-right)
+The benefits of being a CADRE Fellow include: ![A bar graph that compares Web of Science (lower) and Microsoft Academic Graph (higher). Illustration.](Datasets-1.jpg?classes=float-right)
 
 * Full travel support to present your work at ISSI 2019 in Rome this fall,
 * Free and early access to our cloud-computing resources,

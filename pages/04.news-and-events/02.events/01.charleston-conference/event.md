@@ -10,6 +10,6 @@ CADRE will be [presenting a poster](https://2019charlestonlibraryconference.sche
 
 ===
 
-![A logo fo the Charleston Conference that is black and white and reads "November 4-8, 2019. Charleston Conference Issues in Book and Serial Acquisition.](CLC-2019_header_small.jpg?classes=float-left)**About the conference:** The Charleston Conference is an informal annual gathering of librarians, publishers, electronic resource managers, consultants, and vendors of library materials to discuss important issues. You can view the [full conference schedule here](https://charlestonlibraryconference.com/full-schedule/). 
+![A black-and-white logo of a gate and palm tree that reads: November 4 - 8, 2019. Charleston Conference, Issues in Book and Serial Acquistion. Illustration.](CLC-2019_header_small.jpg?classes=float-left)**About the conference:** The Charleston Conference is an informal annual gathering of librarians, publishers, electronic resource managers, consultants, and vendors of library materials to discuss important issues. You can view the [full conference schedule here](https://charlestonlibraryconference.com/full-schedule/). 
 
 Are you planning to go? Swing by our poster to learn more about what CADRE can offer academic researchers and libraries. 

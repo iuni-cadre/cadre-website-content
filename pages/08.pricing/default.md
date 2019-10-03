@@ -2,7 +2,7 @@
 title: Pricing
 ---
 
-While CADRE is not yet offering paid memberships to use our platform, our tiered-pricing model will create an affordable solution for all researchers and institutions. 
+While CADRE is currently under development, the tiered-pricing model we plan to offer will create an affordable solution for all researchers and institutions. 
 
 In the meantime, we invite you to collaborate with our team of experts and use our state-of-the-art big bibliometric data and cloud-computing environment for your next research project as a [CADRE Fellow](https://cadre.iu.edu/work-with-us/cadre-fellowship). You will gain free access to CADRE as a fellow and provide a valuable use case to the development of the platform.
 

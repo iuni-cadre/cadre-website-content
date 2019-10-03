@@ -5,7 +5,7 @@ media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRenne
 
 #### CADRE Project Leads: ####
 
-![A collective photo of five headshots. There are two women on the left and three women on the right.](PL1.jpg)
+![A collection of five headshots in the order of the project leads listed below.](PL1.jpg)
 
 ##### Jamie Wittenberg  
 Project Director; Research Data Management Librarian and Head of Scholarly Communication at IU Libraries
@@ -26,7 +26,7 @@ Project Co-Director; Assistant Director of Library Initiatives at Big Ten Academ
 
 #### CADRE IT Team ####
 
-![A group photo with a row of five men standing in the back and two women sitting front.](IUB.CADRE%20Meeting%20at%20IUNI%20House_7192019-6.png)
+![A group picture in the order of the IT team mebmers listed below.](IUB.CADRE%20Meeting%20at%20IUNI%20House_7192019-6.png)
 
 ##### Valentin Pentchev  
 Project Co-Director; Director of Information Technolgoy at Indiana University Network Science Institute 
@@ -53,7 +53,7 @@ UI/UX Designer at Indiana University Network Science Institute
 
 #### CADRE Administrative/Outreach Team ####
 
-![A collective headshot with a woman on the left with red hair and glasses and a woman on the right with brown hair.](SL.jpg)
+![A collection of two headshots in the order of the employees listed below.](SL.jpg)
 
 ##### Lourdes Gonzalez  
 Adminsitrative Coordinator at Indiana University Network Science Institute
@@ -65,4 +65,4 @@ Outreach Coordinator at Indiana University Network Science Institute
 
 #### Our team! #### 
 
-![A large group of men and women standing in two rows. They are the team that works on CADRE.](IUB.CADRE%20Meeting%20at%20IUNI%20House_7192019-5%20%281%29.jpg)
+![A large group photo of the employees listed on this page. They stand in two rows.](IUB.CADRE%20Meeting%20at%20IUNI%20House_7192019-5%20%281%29.jpg)

@@ -1,14 +1,14 @@
 ---
 title: 'Latest CADRE updates'
-dateline: '15-08-2019 15:22'
 media_order: 'ITBoard1.jpg,WebsitePreview1.png'
+dateline: '15-08-2019 15:22'
 ---
 
 **8/15/19** 
 
 The CADRE team is hard at work developing a platform that will do what academic libraries have long been trying to achieve. 
 
-We are gearing up for [ISSI 2019](https://www.issi2019.org/) in September, where CADRE will hold a workshop and tutorial. Our hands-on [CADRE tutorial](https://cadre.iu.edu/news-and-events/events) at ISSI will offer an option to use assisted programming to access Microsoft Academic Graph (MAG), as well as a second option that will allow access to the dataset using the CADRE Query Builder, which uses a graphical user interface.![A photo of a bulletin board with post-it notes and pictures that is mapping out CADRE infrastructure. Photo by Abigail Godwin.](ITBoard1.jpg?classes=float-right)
+We are gearing up for [ISSI 2019](https://www.issi2019.org/) in September, where CADRE will hold a workshop and tutorial. Our hands-on [CADRE tutorial](https://cadre.iu.edu/news-and-events/events) at ISSI will offer an option to use assisted programming to access Microsoft Academic Graph (MAG), as well as a second option that will allow access to the dataset using the CADRE Query Builder, which uses a graphical user interface.![A bulletin board mapping next web development steps with photos, post-it notes and string.](ITBoard1.jpg?classes=float-right)
 
 But building a platform that allows novice coders to easily query massive datasets with a GUI is a lengthy process of trial and error—and that is only one component of CADRE.
 
@@ -26,7 +26,7 @@ Find out how they’re doing it below. 
 * Testing the query builder: One service essential to CADRE is the GUI users can use to easily query massive datasets. The IT team is testing the combined powers of a relational database and various graph databases with MAG data to create a more efficient query-builder. 
 * Building CADRE’s website: The IT team is finishing the front-end of some pages of the CADRE website, including the homepage and the event page for ISSI 2019. They are preparing to make the website live in a couple weeks.
 
-![A screenshot of the CADRE website that shows a few of the CADRE Fellows.](WebsitePreview1.png)
+![Decorative screenshot of website showing three CADRE Fellows and two school logos.](WebsitePreview1.png)
 
 If you want to stay updated on what CADRE is doing, be sure to [follow us on Twitter](https://twitter.com/CADRE_Project).
 

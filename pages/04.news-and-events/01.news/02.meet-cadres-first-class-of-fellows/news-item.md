@@ -22,7 +22,7 @@ Now, let’s meet the research teams!
 ##### **Utilizing Data Citation for Aggregating, Contextualizing, and Engaging with Research Data in STEM Education Research** from Purdue University
 #####
 
-![A photo of three researchers: One man and two women.](PurdueFellows%20%281%29.jpg)
+![Collection of three headshots in the order of researchers listed below.](PurdueFellows%20%281%29.jpg)
 
 Researchers: 
 
@@ -36,7 +36,7 @@ Researchers will characterize citation of data from the literature in the field 
 ##### **Understanding citation impact of scientific publications through ego-centered citation networks** from Indiana University Bloomington, Nanjing University
 ##### 
 
-![A photo of three researchers: Two men and one women.](CitationFellows%20%281%29.jpg)
+![Collection of three headshots in the order of researchers listed below.](CitationFellows%20%281%29.jpg)
 
 Researchers:
 
@@ -50,7 +50,7 @@ The research team seeks to find the “deeper” and “broader” impact of net
 ##### **MCAP: Mapping Collaborations and Partnerships in SDG Research** from Michigan State University 
 ##### 
 
-![A photo of four researchers: Two women and two men.](MSUFellows%20%281%29.jpg)
+![Collection of four headshots in the order of researchers listed below.](MSUFellows%20%281%29.jpg)
 
 Researchers:
 
@@ -65,7 +65,7 @@ This project will build on the WoS report “Navigating the Structure of Researc
 ##### **The global network of air links and scientific collaboration – a quasi-experimental analysis** from Indiana University Bloomington and University of Warsaw 
 ##### 
 
-![A photo of four researchers: Two men and two women.](QuasiExpFellows%20%281%29.jpg)
+![Collection of four headshots in the order of researchers listed below.](QuasiExpFellows%20%281%29.jpg)
 
 Researchers:
 
@@ -80,18 +80,18 @@ Researchers plan to determine the impact of the introduction and availability of
 ##### **Measuring and Modeling the Dynamics of Science Using the CADRE Platform** from University of Minnesota, New York University, Boston University, University of Pennsylvania, University of Arizona
 ##### 
 
-![A photo of five researchers: Three men and two women.](MaM_Fellows%20%28large%201%29%20%281%29.jpg)
-![A photo of four researchers: Two men and two women.](MaM_Fellows%20%28large%202%29%20%281%29.jpg)
+![Collection of five headshots in the order of the first five researchers listed below.](MaM_Fellows%20%28large%201%29%20%281%29.jpg)
+![Collection of four headshots in the order of the last four researchers listed below.](MaM_Fellows%20%28large%202%29%20%281%29.jpg)
 
 Researchers:
 
 * Russell Funk, assistant professor of strategic management & entrepreneurship, University of Minnesota
-* Thomas Gebhart, Ph.D. student in computer science and engineering, University of Minnesota 
 * Michael Park, Ph.D. student in strategic management and entrepreneurship, University of Minnesota
+* Thomas Gebhart, Ph.D. student in computer science and engineering, University of Minnesota 
+* Britta Glennon, assistant professor at Wharton School, University of Pennsylvania
 * Julia Lane, professor at Wagner Graduate School of Public Service, New York University 
 * Raviv Murciano-Goroff, assistant professor at Questrom School of Business, Boston University 
 * Matthew Ross, research assistant professor at Wagner Graduate School of Public Service, New York University 
-* Britta Glennon, assistant professor at Wharton School, University of Pennsylvania
 * Erin Leahey, professor and director of sociology, University of Arizona 
 * Jina Lee, Ph.D. student in sociology, University of Arizona
 
@@ -101,7 +101,7 @@ This research team wants to better characterize scientific influence of papers, 
 ##### **Comparative analysis of legacy and emerging journals in mathematical biology** from University of Michigan and University of Michigan Medical School
 ##### 
 
-![A photo of four researchers: Two men, one woman and person who prefers to go by "they."](UMichFellows%20%281%29.jpg)
+![Collection of four headshots in the order of the researchers listed below.](UMichFellows%20%281%29.jpg)
 
 Researchers:
 
@@ -116,7 +116,7 @@ Researchers will perform a comparative analysis on papers published in four math
 ##### **Systematic over-time study of the similarities and differences in research across mathematics and the sciences** from University of Michigan
 ##### 
 
-![A photo of one researcher, who prefers to use "they" pronouns.](UMich_Hansen%20%281%29.jpg)
+![Headshot of the researcher listed below.](UMich_Hansen%20%281%29.jpg)
 
 Researcher:
 

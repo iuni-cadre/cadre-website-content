@@ -1,8 +1,8 @@
 ---
 title: 'CADRE team heads to ISSI 2019'
-dateline: '29-08-2019 16:16'
 media_order: 'issi-og-graph_web.jpg,CADREHome.jpg'
 published: true
+dateline: '29-08-2019 16:16'
 ---
 
 **8/29/19**  
@@ -10,7 +10,7 @@ The CADRE team is heading to the [2019 International Conference on Scientometric
 
 ===
 
-Both events will take place on Monday, Sept. 2, in the [Calasso Room](https://www.issi2019.org/detailed-venue-map) at Sapienza University in Rome. ![Red and white ISSI logo that reads: "ISSI"](issi-og-graph_web.jpg?classes=float-right)
+Both events will take place on Monday, Sept. 2, in the [Calasso Room](https://www.issi2019.org/detailed-venue-map) at Sapienza University in Rome. ![Red and white logo that reads: ISSI.](issi-og-graph_web.jpg?classes=float-right)
 
 These presentations will serve as CADRE’s introduction to an international community of researchers, who will be able to learn about and test the platform throughout the conference. 
 
