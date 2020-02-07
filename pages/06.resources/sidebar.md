@@ -5,7 +5,7 @@ media_order: 'logomark-colored-transparent.png,logo small.png'
 main: true
 ---
 
-In addition to providing sustainable, affordable, and standardized text- and data-mining services for large datasets, CADRE will offer extensive tutorials on how to work with our platform and datasets. Take a look at some preliminary resources for taking full advantage of CADRE.
+In addition to providing sustainable, affordable, and standardized text- and data-mining services for large datasets, CADRE will offer extensive tutorials on how to work with our platform and datasets. Take a look at some resources for how to take full advantage of CADRE.
 
 #### Informatonal Videos and Demos: ####
 You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for more videos.  
