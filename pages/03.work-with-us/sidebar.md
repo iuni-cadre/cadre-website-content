@@ -9,9 +9,6 @@ We are designing CADRE to be an agile, interdisciplinary tool for any academic r
 
 Whether you are a researcher, an institution, or a data publisher, you can learn more about how to work with us below. [Contact us](https://cadre.iu.edu/contact-us) with any questions or requests.
 
-#### Become a CADRE Fellow ####
-While CADRE is under development, we invite you to collaborate with our team of experts and use our state-of-the-art big bibliometric data and cloud-computing environment for your next research project as a CADRE Fellow. Visit our [fellowship page](https://cadre.iu.edu/work-with-us/cadre-fellowship) to learn more.
-
 #### Contribute to CADRE ####
 This platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible through [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/).
 

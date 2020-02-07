@@ -1,6 +1,6 @@
 ---
 title: Documentation
-media_order: 'wos_core_erd (1).pdf,mag_core_erd (1).pdf,mag_core_erd (1).pdf'
+media_order: 'wos_core_erd (1).pdf,mag_core_erd (1).pdf,uspto_core_erd (3).pdf'
 main: true
 ---
 
@@ -20,6 +20,6 @@ MAG documentation, including a repository of sample code, to help you begin your
 
 ##### U.S. Patent and Trademark Office #####
 USPTO documentation is available here:
-* [USPTO Entity Relationship Diagram](mag_core_erd%20%281%29.pdf)
+* [USPTO Entity Relationship Diagram](uspto_core_erd%20%283%29.pdf)
 
 For information about data access, please visit the [Resources page](https://cadre.iu.edu/resources). 
