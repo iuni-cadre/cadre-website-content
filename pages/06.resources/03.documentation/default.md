@@ -4,7 +4,7 @@ media_order: 'wos_core_erd (1).pdf,mag_core_erd (1).pdf,uspto_core_erd (3).pdf'
 main: true
 ---
 
-CADRE is seeded with the Web of Science and Microsoft Academic Graph. Below is documentation that will help users begin to work with each. 
+Below is documentation that will help users begin to work with each of our datasets.
 
 ##### Web of Science #####
 If you'd like to start investigating the WoS dataset, check out the following:

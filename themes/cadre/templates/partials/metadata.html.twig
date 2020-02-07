@@ -1,0 +1,10 @@
+<!--
+-->
+
+{% for key, value in page.metadata %}
+    <meta {% if value["name"] %} name="{{ value["name"] }}" {% endif %}
+{% if value["property"] %} property="{{ value["property"] }}" {% endif %}
+{% if value["content"] %} content="{{ value["content"] }}" {% endif %}
+ />
+{% endfor %}
+
