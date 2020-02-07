@@ -1,7 +1,7 @@
 ---
 title: 'Meet CADRE’s first class of fellows'
 date: '18-07-2019 15:17'
-media_order: 'PurdueFellows (1).jpg,MSUFellows (1).jpg,MaM_Fellows (large 2) (1).jpg,MaM_Fellows (large 1) (1).jpg,CitationFellows (1).jpg,UMich_Hansen (1).jpg,UMichFellows (1).jpg,QuasiExpFellows (1).jpg'
+media_order: 'PurdueFellows (1).jpg,MSUFellows (1).jpg,MaM_Fellows (large 2) (1).jpg,MaM_Fellows (large 1) (1).jpg,CitationFellows (1).jpg,UMich_Hansen (1).jpg,UMichFellows (1).jpg,QuasiExpFellows (1).jpg,CarolineXiaojing.png'
 ---
 
 The Collaborative Archive & Data Research Environment (CADRE) accepted its first class of CADRE Fellows. 
@@ -13,8 +13,6 @@ These seven fellowship teams span across disciplines and offer compelling resear
 Our fellows will present their research at the International Society for Scientometrics and Informetrics (ISSI) [2019 Conference](https://www.issi2019.org) in Rome at either the workshop or tutorial that CADRE is hosting on Sept. 2.
 
 Not only will these fellows show how CADRE helped advance their work, they will serve as integral use cases for how we develop our platform to suit the needs of every type of academic researcher. 
-
-We plan to accept fellows on a rolling basis in the future, as spots become available. If you are interested in applying, email us at **cadre@iu.edu**.
 
 Now, let’s meet the research teams!
 

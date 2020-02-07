@@ -31,9 +31,6 @@ Project Co-Director; Assistant Director of Library Initiatives at Big Ten Academ
 ##### Valentin Pentchev  
 Project Co-Director; Director of Information Technolgoy at Indiana University Network Science Institute 
 
-##### Aditya Gupta  
-Full Stack Developer at Indiana University Network Science Institute 
-
 ##### Ben Serrette  
 Lead Software Engineer at Web Application Developer at Indiana University Network Science Institute 
 

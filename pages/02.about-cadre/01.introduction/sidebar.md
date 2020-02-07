@@ -13,7 +13,7 @@ Our platform is currently seeded with a combination of open and licensed bibliom
 If you are a new user trying to learn more about how to work with the platform, visit our [Resources page](https://cadre.iu.edu/resources) to watch informational videos and demos. You will also learn how you can access data as general user and submit stories that will improve the CADRE platfrom.
 
 #### > CADRE Fellowship ####
-While we are not yet offering paid membership to access CADRE, you can receive early access to the platform and many other perks by becoming a CADRE Fellow. If you are interested in applying for a fellowship, visit our [CADRE Fellowship page](https://cadre.iu.edu/work-with-us/cadre-fellowship) or [submit a proposal](https://iuni.iu.edu/resources/cadre/fellowship-proposal-form). 
+While we are not yet offering paid membership to access CADRE, we did take on seven CADRE Fellowship teams who used our platform for their research. To read about our current fellows, visit our [CADRE Fellowship page](https://cadre.iu.edu/work-with-us/cadre-fellowship).
 
 #### > Become a Partner ####
 The CADRE platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible by [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/). You can learn more about [our partners](https://cadre.iu.edu/work-with-us) or how to become one by visting the [Work with Us](https://cadre.iu.edu/work-with-us) page. 
