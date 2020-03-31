@@ -2,13 +2,9 @@
 title: 'CADRE Fellowship'
 ---
 
-To better understand what researchers will require from our platform, CADRE is running a fellowship program while the platform is under development. 
+Currently, our fellowship program is **closed** and we will not be taking on any new fellows in the coming months. Instead, we invite you to test CADRE, which is in alpha. Learn how to access the platform [here](https://cadre.iu.edu/about-cadre/get-started).
 
-Those in the [CADRE Fellowship Program](https://cadre.iu.edu/news-and-events/news/meet-cadres-first-class-of-fellows) collaborate with our team of experts and use our state-of-the-art big bibliometric data and cloud-computing environment for their research projects. These fellows gain free access to CADRE while providing a valuable use case to the platform's development. 
-
-Currently, our fellowship program is **closed** and we will not be taking on any new fellows in the coming months. Instead, we will begin allowing users to test the platform in alpha on Feb. 10.
-
-However, you can be the first to know when our fellows will be presenting their work by following us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [subscribing](https://cadre.iu.edu/news-and-events) to our newsletter.
+We have an exciting upcoming line up of webinars in our fellows webinars series, where you can learn more about each of our fellows' research. You can see who's presenting next by visiting our [events page](https://cadre.iu.edu/news-and-events/events) -- and be the first to know when fellows will present by following us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [subscribing](https://cadre.iu.edu/news-and-events) to our newsletter.
 
 ##### Our fellows
 Our eight fellowship teams span across disciplines and offer compelling research that incorporates big data and bibliometrics. These fellows traveled with the CADRE team to the 2019 [International Conference on Scientometrics and Informetrics](https://cadre.iu.edu/news-and-events/events/cadre-workshop) in Rome and will present their work in webinars in 2020.
@@ -31,6 +27,7 @@ Researchers:
 * Devin Higgins, digital library programmer, MSU Libraries, Michigan State University
 * Scout Calvert, data librarian, MSU Libraries, Michigan State University
 * Guangming He, information management analyst, MSU Innovation Center, Michigan State University
+* Anusha Manjunatha, data research analyst, MSU AgBioResearch, Michigan State University
 
 **4. The global network of air links and scientific collaboration – a quasi-experimental analysis** from Indiana University Bloomington and University of Warsaw
 * Katy Börner, Victor H. Yngve distinguished professor of engineering & information science, Indiana University Bloomington

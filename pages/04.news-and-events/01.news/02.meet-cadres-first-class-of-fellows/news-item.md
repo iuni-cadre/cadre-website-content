@@ -4,6 +4,7 @@ date: '18-07-2019 15:17'
 media_order: 'PurdueFellows (1).jpg,MSUFellows (1).jpg,MaM_Fellows (large 2) (1).jpg,MaM_Fellows (large 1) (1).jpg,CitationFellows (1).jpg,UMich_Hansen (1).jpg,UMichFellows (1).jpg,QuasiExpFellows (1).jpg,CarolineXiaojing.png'
 ---
 
+**July 18, 2019**  
 The Collaborative Archive & Data Research Environment (CADRE) accepted its first class of CADRE Fellows. 
 
 ===

@@ -10,6 +10,9 @@ In addition to providing sustainable, affordable, and standardized text- and dat
 #### Informatonal Videos and Demos: ####
 You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for more videos.  
 
+* CADRE: A one-stop shop for scholarly data access, sharing, and reproducible computation
+[plugin:youtube](https://youtu.be/BZOqWYmzeD8)
+
 * ISSI 2019: CADRE Workshop
 [plugin:youtube](https://www.youtube.com/watch?v=SORK_OZYjcE)
 

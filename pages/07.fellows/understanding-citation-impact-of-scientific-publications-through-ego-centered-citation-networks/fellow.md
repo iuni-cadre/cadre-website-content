@@ -25,3 +25,8 @@ The research team seeks to find the “deeper” and “broader” impact of net
 ===
 
 Ego-centered citation networks contain the citing relationships between a publication and its citing publications, as well as the relationships within its citing publications. Researchers will use the entirety of the WoS and MAG data to establish empirical evidence in this project. 
+
+**More about the researchers:**
+* Yi Bu, Ph.D. candidate in informatics, Indiana University Bloomington
+* Chao Min, research assistant professor in information management, Nanjing University in China
+* Ying Ding, professor of informatics, Indiana University 
