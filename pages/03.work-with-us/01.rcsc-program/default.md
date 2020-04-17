@@ -19,7 +19,7 @@ All of this can be done in [CADRE's cloud-based platform](https://cadre.iu.edu/a
 ##### Additional details
 Applicants can form research teams consisting of graduate students, staff, and faculty from any U.S. or non-U.S. university—and teams can span any discipline and institution. You may also submit a research proposal without a team.
 
-Currently, there is no deadline for proposal submissions, as we believe researchers who want access to this program are hoping to begin their work immediately. We plan to accept RCSC research teams as we are able to provide support.
+We will begin reviewing proposals on May 1 and will respond to applicants about our decisions no later than May 15. We plan to continue to accept RCSC research teams as we are able to provide support.
 
 Please [submit your proposal here](https://iuni.iu.edu/resources/datasets/cadre/research-cohort-proposal-form).
 

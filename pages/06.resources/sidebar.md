@@ -28,6 +28,10 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 * IMLS presentation: Brief overview of CADRE
 [plugin:youtube](https://www.youtube.com/watch?v=33ev6Rzhd0A)
 
+**From our CADRE Fellows Webinar Series**:
+* Assessing the Rise of China as a Scientific Nation
+[plugin:youtube](https://www.youtube.com/watch?v=Ylhq7JpZAXI)
+
 ---
 
 #### Data Access/General User Application: ####
