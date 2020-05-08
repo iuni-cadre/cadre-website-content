@@ -10,6 +10,9 @@ In addition to providing sustainable, affordable, and standardized text- and dat
 #### Informatonal Videos and Demos: ####
 You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for more videos.  
 
+* Empowering Data-Driven Research through an Open, Accessible Data Infrastructure 
+[plugin:youtube](https://youtu.be/svf0zD438n0)
+
 * CADRE: A one-stop shop for scholarly data access, sharing, and reproducible computation
 [plugin:youtube](https://youtu.be/BZOqWYmzeD8)
 
@@ -28,7 +31,12 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 * IMLS presentation: Brief overview of CADRE
 [plugin:youtube](https://www.youtube.com/watch?v=33ev6Rzhd0A)
 
-**From our CADRE Fellows Webinar Series**:
+--- 
+
+#### CADRE Fellows Webinar Series: #### 
+* MCAP: Mapping Collaborations and Partnerships in SDG Research
+[plugin:youtube](https://youtu.be/NtECdJYD51w)
+
 * Assessing the Rise of China as a Scientific Nation
 [plugin:youtube](https://www.youtube.com/watch?v=Ylhq7JpZAXI)
 

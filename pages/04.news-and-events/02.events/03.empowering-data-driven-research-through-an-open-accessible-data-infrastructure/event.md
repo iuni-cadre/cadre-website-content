@@ -8,6 +8,12 @@ Join CADRE at the Coalition for Networked Information (CNI) conference at 3:30 p
 
 ===
 
+##### Watch the Recording:
+
+[plugin:youtube](https://youtu.be/svf0zD438n0)
+
+##### Event details:
+
 CADRE's [Jamie Wittenberg](https://libraries.indiana.edu/jamie-wittenberg) (IU Libraries) will present a project briefing about CADRE called "Empowering Data-Driven Research through an Open, Accessible Data Infrastructure." She will talk about the important issues the CADRE project solves for bibliometric researchers and academic libraries working with research data -- her talk will be recorded. 
 
 While the in-person CNI meeting [was cancelled](https://www.cni.org/news/cancelling-san-diego-member-meeting-march-30-31-virtual-spring-meeting-launched), project briefings will be held virtually.

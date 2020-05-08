@@ -17,10 +17,14 @@ Researchers:
 * Loran Carleton Parker, associate director & senior evaluation and research associate, Evaluation Learning Research Center, Purdue University
 * Ann Bessenbacher, research associate and data scientist, STEMEd HUB, Purdue University
 
+Researchers will characterize citation of data from the literature in the field of STEM education research. A sample of relevant publication venues in the field will be identified from WoS and MAG. Digital Object Identifiers (DOIs) of datasets registered with DataCite will be used to query and associate datasets with publications. The team will assess rates of citation for datasets that are cited using DataCite DOIs for each publication venue and analyze a sample of data citations and publications to determine suitability for providing an initial context to help a researcher who is unfamiliar with the data determine whether to use the dataset.
+
 **2. Understanding citation impact of scientific publications through ego-centered citation networks** from Indiana University Bloomington, Nanjing University
 * Yi Bu, Ph.D. candidate in informatics, Indiana University Bloomington
 * Chao Min, research assistant professor in information management, Nanjing University in China
 * Ying Ding, professor of informatics, Indiana University
+
+The research team seeks to find the “deeper” and “broader” impact of network-based citation measurements in the scientific community. This project will determine the citation impact of scientific publications using an ego-centered citation network, which contains the citing relationships between a publication and its citing publications, as well as the relationships within its citing publications. Researchers will use the entirety of the WoS and MAG data to establish empirical evidence in this project.
 
 **3. MCAP: Mapping Collaborations and Partnerships in SDG Research** from Michigan State University
 * Jane Payumo, academic specialist and research and data evaluation manager, MSU AgBioResearch, Michigan State University
@@ -29,11 +33,15 @@ Researchers:
 * Guangming He, information management analyst, MSU Innovation Center, Michigan State University
 * Anusha Manjunatha, data research analyst, MSU AgBioResearch, Michigan State University
 
+This project will build on the WoS report “Navigating the Structure of Research on Sustainable Development Goals (SDG),” as the researchers search for patterns of global collaboration and support the United Nations’ SDG call for action. Researchers will design a prototype to analyze and visualize the input-output of partnerships over time in SDG-supportive research. They also plan to create a scoring measure or partnership index that defines and conducts partnership analytics for SDGs by using data sourced from WoS and MAG.
+
 **4. The global network of air links and scientific collaboration – a quasi-experimental analysis** from Indiana University Bloomington and University of Warsaw
 * Katy Börner, Victor H. Yngve distinguished professor of engineering & information science, Indiana University Bloomington
 * Adam Ploszaj, assistant professor at the Centre for European Regional and Local Studies, University of Warsaw
 * Lisel Record, associate director, Cyberinfrastructure for Network Science Center
 * Bruce Herr II, senior system architect and project manager, Cyberinfrastructure for Network Science Center
+
+Researchers plan to determine the impact of the introduction and availability of long-distance flights on international scientific collaboration. The team will measure collaboration through co-authorship and co-affiliation. They will also geocode publication affiliations from WoS and MAG from 1998 through 2017. This quasi-experimental research will apply state-of-the-art causal modeling techniques and explore how data-driven causality can enhance science of science policy relevance.
 
 **5. Measuring and Modeling the Dynamics of Science Using the CADRE Platform** from University of Minnesota, New York University, Boston University, University of Pennsylvania, University of Arizona
 * Russell Funk, assistant professor of strategic management & entrepreneurship, University of Minnesota
@@ -46,15 +54,23 @@ Researchers:
 * Erin Leahey, professor and director of sociology, University of Arizona
 * Jina Lee, Ph.D. student in sociology, University of Arizona
 
+This research team wants to better characterize scientific influence of papers, typically measured by how many times papers are cited, by distinguishing between papers that destabilize existing knowledge with novel concepts and papers that consolidate existing knowledge. In a separate but closely related aim, the researchers also plan to create a novel unsupervised machine learning technique for author-name disambiguation by pulling abstract, title, and citation data from WoS and MAG. For both aims, the CADRE platform will provide essential infrastructure in terms of large-scale data storage and high performance computational resources.
+
 **6. Comparative analysis of legacy and emerging journals in mathematical biology** from University of Michigan and University of Michigan Medical School
 * Marisa Conte, assistant director of research & informatics, Taubman Health Sciences Library, University of Michigan
 * Samuel Hansen, mathematics and statistics librarian, Shapiro Science Library, University of Michigan
 * Scott Martin, biological sciences librarian, Shapiro Science Library, University of Michigan
 * Santiago Schnell, John A. Jacquez collegiate professor of physiology, University of Michigan Medical School
 
+Researchers will perform a comparative analysis on papers published in four mathematical biology legacy journals and on newer journals with different publication models and disciplinary scope. The team will use the CADRE datasets to develop methodologies for comparative bibliometrics and content analyses; provide insight into publication trends in theoretical and applied domains; give authors new factors to consider when trying to publish; and help editors in similar disciplines use informatics to distinguish their journals.
+
 **7. Systematic over-time study of the similarities and differences in research across mathematics and the sciences** from University of Michigan
 * Samuel Hansen, mathematics and statistics librarian, Shapiro Science Library, University of Michigan
+
+Samuel’s project uses reference and citation aging, bibliographic coupling, and network breadth and depth to find similarities and differences between research fields in mathematics and the sciences. Specifically, they will find how information ages differently across disciplines, generate data about changes in the development of these research fields, and study how actively collaborative the disciplines are. Samuel will use WoS data from 1900 to 2017 to perform these analyses, which have typically only been done on a smaller scale in a single discipline.
 
 **8. Assessing the rise of China as a scientific nation** from The Ohio State University
 * Caroline Wagner, associate professor, Milton & Roslyn Wolf Chair in International Affiars, John Glenn College of Public Affairs, The Ohio State University
 * Xiaojing Cai, visiting fellow, John Glenn College of Public Affairs, The Ohio State University
+
+This project is part of a series of studies in which researchers are assessing the rise of China in scholarship. In particular, the project aims to provide a comprehensive assessment of the nature of China's publications in science and engineering over the past 20 years. One part of the study will be to examine the published scholarship from China and by Chinese nationals abroad. This will include case studies of specific fields, as well as macro overviews of the output, its impact, and the collaborations involved in China's rise. The team will use Web of Science and Microsoft Academic Graph to perform this research.
