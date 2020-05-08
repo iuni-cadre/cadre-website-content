@@ -2,7 +2,6 @@
 title: 'Fellows Webinar: Understanding Citation Impact of Scientific Publications Through Ego-Centered Citation Networks'
 date: '17-06-2020 10:00'
 date_to: '17-06-2020 11:30'
-place: 'Social Science Research Commons, Grand Hall'
 media_order: 'IUB.logo.png,nanjing university logo.png'
 ---
 
@@ -11,7 +10,7 @@ Our fellowship team from Indiana University Bloomington and Nanjing University w
 ===
 
 **When:** June 17, 10 a.m.  
-**Where**: Online and Social Science Research Commons  
+**Where**: Online 
 **Livestream link:** [https://iu.zoom.us/j/376407036](https://iu.zoom.us/j/376407036)
 
 **About the research:**
