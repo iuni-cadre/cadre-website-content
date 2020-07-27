@@ -10,9 +10,9 @@
             <h2>Subscribe to Our Newsletter</h2>
             <h3>Be the first to know about all of the important CADRE news and updates.</h3>
             <form class="form-inline d-flex justify-content-center" id="the_form" action="./process-form" method="POST" enctype="multipart/form-data">
-                <input type="text" id="username_field" name="username" placeholder="username">
+                <label aria-hidden="true" id="username_field" >Username: <input type="text" name="username" placeholder="username"></label>
                 <input type="hidden" value="newsletter_subscribe" name="form_name">
-                <label for="newsletter-email">Enter your Email</label>
+                <label for="newsletter-email" for="newsletter-email">Enter your Email</label>
                 <input id="newsletter-email" type="email" placeholder="Enter your email" 
                     class="form-control mr-md-3 col-md-4" name="Subscriber_Email_Address"/>
                 <input type="submit" class="btn btn-outline-primary" value="Stay Informed" />
