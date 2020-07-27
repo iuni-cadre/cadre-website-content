@@ -1,14 +1,17 @@
 ---
 title: 'The Team'
-media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRennes.jpg,WittenbergJ.jpg,IUB.CADRE Meeting at IUNI House_7192019-6.png,LG.jpg,SHM.jpg,IUB.CADRE Meeting at IUNI House_7192019-5 (1).jpg,PL1.jpg,SL.jpg'
+media_order: 'PatriciaMabry1.jpg,ValentinPentchev.jpg,XiaoranYan.jpg,RobVanRennes.jpg,WittenbergJ.jpg,IUB.CADRE Meeting at IUNI House_7192019-6.png,LG.jpg,SHM.jpg,IUB.CADRE Meeting at IUNI House_7192019-5 (1).jpg,PL1.jpg,SL.jpg,CADREProject leads.png'
 ---
 
 #### CADRE Project Leads: ####
 
-![A collection of five headshots in the order of the project leads listed below.](PL1.jpg)
+![A collection of five headshots in the order of the project leads listed below.](CADREProject%20leads.png)
+
+##### Jaci Wilkinson  
+Project Director; Head, Discovery and User Experience at Indiana University Libraries
 
 ##### Jamie Wittenberg  
-Project Director; Research Data Management Librarian and Head of Scholarly Communication at IU Libraries
+Project Co-Director; Assistant Dean for Digital Strategy and Information Technology Services at the University of Colorado Boulder
 
 ##### Patricia Mabry  
 Project Co-Director; Research Investigator at Health Partners Institute 

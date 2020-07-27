@@ -1,6 +1,6 @@
 ---
 title: 'Understanding Citation Impact of Scientific Publications Through Ego-Centered Citation Networks'
-media_order: 'nanjing university logo.png,IUB.2line.H_WEB.png,CitationImpact_ChaoMin-round.png,CitationImpact_YingDing-round.png,CitationImpact_YiBu-round.png'
+media_order: 'nanjing university logo.png,IUB.2line.H_WEB.png,CitationImpact_ChaoMin-round.png,CitationImpact_YingDing-round.png,CitationImpact_YiBu-round.png,UTAustin-small.png,PekingUniversity-small.png'
 people:
     -
         name: 'Yi Bu'
@@ -13,11 +13,14 @@ people:
         image: CitationImpact_YingDing-round.png
 logos:
     -
-        name: 'Indiana University Bloomington'
-        image: IUB.2line.H_WEB.png
+        name: 'Peking University '
+        image: PekingUniversity-small.png
     -
         name: 'Nanjing University'
         image: 'nanjing university logo.png'
+    -
+        name: 'University of Texas at Austin'
+        image: UTAustin-small.png
 ---
 
 The research team seeks to find the “deeper” and “broader” impact of network-based citation measurements in the scientific community. This project will determine the citation impact of scientific publications using an ego-centered citation network.
@@ -27,6 +30,6 @@ The research team seeks to find the “deeper” and “broader” impact of net
 Ego-centered citation networks contain the citing relationships between a publication and its citing publications, as well as the relationships within its citing publications. Researchers will use the entirety of the WoS and MAG data to establish empirical evidence in this project. 
 
 **More about the researchers:**
-* Yi Bu, Ph.D. candidate in informatics, Indiana University Bloomington
-* Chao Min, research assistant professor in information management, Nanjing University in China
-* Ying Ding, professor of informatics, Indiana University 
+* Yi Bu, Assistant Professor at the Department of Information Management, Peking University, China
+* Chao Min, research assistant professor in information management, Nanjing University, China
+* Ying Ding, Bill & Lewis Suit Professor at School of Information, University of Texas at Austin

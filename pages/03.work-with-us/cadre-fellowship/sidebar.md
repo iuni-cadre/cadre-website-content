@@ -19,10 +19,10 @@ Researchers:
 
 Researchers will characterize citation of data from the literature in the field of STEM education research. A sample of relevant publication venues in the field will be identified from WoS and MAG. Digital Object Identifiers (DOIs) of datasets registered with DataCite will be used to query and associate datasets with publications. The team will assess rates of citation for datasets that are cited using DataCite DOIs for each publication venue and analyze a sample of data citations and publications to determine suitability for providing an initial context to help a researcher who is unfamiliar with the data determine whether to use the dataset.
 
-**2. Understanding citation impact of scientific publications through ego-centered citation networks** from Indiana University Bloomington, Nanjing University
-* Yi Bu, Ph.D. candidate in informatics, Indiana University Bloomington
+**2. Understanding citation impact of scientific publications through ego-centered citation networks** from Peking University, Nanjing University, and University of Texas at Austin
+* Yi Bu, Assistant Professor at the Department of Information Management, Peking University, China
 * Chao Min, research assistant professor in information management, Nanjing University in China
-* Ying Ding, professor of informatics, Indiana University
+* Ying Ding, Bill & Lewis Suit Professor at School of Information, University of Texas at Austin
 
 The research team seeks to find the “deeper” and “broader” impact of network-based citation measurements in the scientific community. This project will determine the citation impact of scientific publications using an ego-centered citation network, which contains the citing relationships between a publication and its citing publications, as well as the relationships within its citing publications. Researchers will use the entirety of the WoS and MAG data to establish empirical evidence in this project.
 

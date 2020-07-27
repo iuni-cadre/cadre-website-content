@@ -3,7 +3,7 @@ title: 'Purdue Research Team Among First Class of Fellows for Collaborative Arch
 date: '18-07-2019 12:44'
 ---
 
-**July 18, 2019**  
+**July 18, 2019** | **Source:** [Purdue University Libraries](http://blogs.lib.purdue.edu/news/2019/07/18/cadre-fellows-purdue/?utm_source=delivra&utm_medium=email&utm_campaign=VOLUMe%20July%202019&utm_id=37745369&dlv-ga-memberid=888511727&utm_term=Purdue+Research+Team+Among+First+Class+of+Fellows+for+Collaborative+Archive+Data+Research+Environment+(CADRE))  
 A team of Purdue University researchers is among the seven fellowship teams selected for the first class of the Collaborative Archive Data Research Environment (CADRE) Fellows.
 
 ===
@@ -31,5 +31,3 @@ Not only will these fellows show how CADRE helped advance their work, but they w
 The Shared BigData Gateway for Research Libraries (SBD-G) is a two-year Institute of Museum and Library Services-funded project to develop, seed, and maintain a cloud-based, extendable cyberinfrastructure for sharing large academic library data resources with a growing community of scholars.
 
 SBD-G will achieve this through its platform, the Collaborative Archive & Data Research Environment (CADRE).
-
-**Source:** [Purdue University Libraries](http://blogs.lib.purdue.edu/news/2019/07/18/cadre-fellows-purdue/?utm_source=delivra&utm_medium=email&utm_campaign=VOLUMe%20July%202019&utm_id=37745369&dlv-ga-memberid=888511727&utm_term=Purdue+Research+Team+Among+First+Class+of+Fellows+for+Collaborative+Archive+Data+Research+Environment+(CADRE))

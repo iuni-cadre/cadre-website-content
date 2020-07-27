@@ -34,6 +34,9 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 --- 
 
 #### CADRE Fellows Webinar Series: #### 
+* Understanding Citation Impact of Scientific Publications Through Ego-Centered Citation Networks
+[plugin:youtube](https://youtu.be/P4jEjFRCB3U)
+
 * MCAP: Mapping Collaborations and Partnerships in SDG Research
 [plugin:youtube](https://youtu.be/NtECdJYD51w)
 

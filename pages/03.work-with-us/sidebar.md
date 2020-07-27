@@ -14,8 +14,7 @@ This platform was built as part of the Shared BigData Gateway for Research Libra
 
 The[ Web of Science Group](https://clarivate.com/webofsciencegroup/) and [Microsoft Research](https://www.microsoft.com/en-us/research/project/academic/) generously donated datasets, training resources, and other resources to our team. These two partners also helped fund our [fellowship program](https://cadre.iu.edu/work-with-us/cadre-fellowship), including sending fellow teams to [ISSI 2019](https://cadre.iu.edu/news-and-events/events/rome). 
 
-If you are an organization interested in contributing datasets, resources, or partnering with us in any other way, please [contact us](https://cadre.iu.edu/contact-us) or email us at <a href = "mailto: cadre@iu.edu">c a d r e @ i u . e d u.</a>
-
+If you are an organization interested in contributing datasets, resources, or partnering with us in any other way, please [contact us](https://cadre.iu.edu/contact-us).
 
 #### Join our partner institutions ####
 ##### Data infrastructure partners:
@@ -27,7 +26,7 @@ If you are an organization interested in contributing datasets, resources, or pa
 * Microsoft Research 
 * Web of Science Group
  
-The following instutions have contributed resources to the CADRE platform and are each eligible for complete access to both CADRE and the WoS and MAG datasets. If you are an academic instution interested in partnering with CADRE or creating a membership to access services, [please let us know](https://cadre.iu.edu/contact-us).
+The following instutions have contributed resources to the CADRE platform and receive full access to CADRE and [WoS (2017), WoS (2019), and MAG datasets](https://cadre.iu.edu/about-cadre/available-datasets). If you are an academic instution interested in partnering with CADRE or creating a membership to access services, [please let us know](https://cadre.iu.edu/contact-us).
 
 ##### Big Ten Academic Alliance partners:
 * Michigan State University Libraries
@@ -36,6 +35,7 @@ The following instutions have contributed resources to the CADRE platform and ar
 * Purdue University Libraries
 * Rutgers University Libraries
 * University of Iowa Libraries
+* University of Maryland Libraries
 * University of Michigan Libraries
 * University of Minnesota Libraries
 

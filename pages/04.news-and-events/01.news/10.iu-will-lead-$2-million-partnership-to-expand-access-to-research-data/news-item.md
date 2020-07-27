@@ -4,7 +4,7 @@ date: '18-10-2018 15:17'
 media_order: 'owlhead-compare.png,OldOwl.jpg,complete-colored-transparent.png'
 ---
 
-**Oct. 18, 2018  **  
+**Oct. 18, 2018  **  | **Source:** [News at IU](https://news.iu.edu/stories/2018/10/iu/releases/18-shared-bigdata-gateway-for-research-networks.html?fbclid=IwAR0pCD-goSa8AXLx1Fny_ai6fpT-RZCzltOLYxBQz57wy94YrHqSoVBRU98)  
 IU Libraries and IU Network Science Institute are leading a public-private partnership to create the Shared BigData Gateway for Research Libraries.
 
 ===
@@ -42,5 +42,3 @@ Additional quotes
 "As centers of learning and catalysts of community change, libraries and museums connect people with programs, services, collections, information and new ideas in the arts, sciences and humanities," said Kathryn K. Matthew, director of the IMLS. "IMLS is proud to support their work through our grant-making as they inform and inspire all in their communities."
 
 "Co-investment in infrastructure accelerates our ability to recognize and support new forms of inquiry in scholarship," said Kimberly Armstrong, director of the libraries initiative at the Big Ten Academic Alliance. "Given faculty interest in text mining of the cooperatively purchased citation data, we are glad to support delivery of a tested access solution across the Alliance."
-
-**Source: **[News at IU](https://news.iu.edu/stories/2018/10/iu/releases/18-shared-bigdata-gateway-for-research-networks.html?fbclid=IwAR0pCD-goSa8AXLx1Fny_ai6fpT-RZCzltOLYxBQz57wy94YrHqSoVBRU98) 

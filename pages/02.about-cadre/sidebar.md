@@ -1,11 +1,11 @@
 ---
 title: 'About CADRE'
 sidebar_image: logomark-colored-transparent.png
-media_order: 'illustration2-alt.min.png,IU-Libraries-Lockup-Vert-Color-160620 (1).jpg,logomark-colored-transparent.png,cadre-diagram_small.png'
+media_order: 'illustration2-alt.min.png,IU-Libraries-Lockup-Vert-Color-160620 (1).jpg,logomark-colored-transparent.png,diagram2.png'
 main: true
 ---
 
-CADRE addresses the IMLS' “National Digital Platform” priority area by addressing a critical emergent issue faced by academic libraries: providing sustainable, affordable, and standardized text- and data-mining services for licensed big datasets, as well as open and non-consumptive datasets, too large or unwieldy to work with in existing research library environments. By sharing costs across a large number of academic libraries, CADRE will create a cloud-based solution for making these data available to its member institutions--with appropriate security, stewardship, and storage--at a fraction of what it would cost them to do alone.
+CADRE addresses the IMLS' “National Digital Platform” priority area by addressing a critical emergent issue faced by academic libraries: providing sustainable, affordable, and standardized text- and data-mining services for licensed big datasets, as well as open and non-consumptive datasets too large or unwieldy to work with in existing research library environments. By sharing costs across a large number of academic libraries, CADRE will create a cloud-based solution for making these data available to its member institutions--with appropriate security, stewardship, and storage--at a fraction of what it would cost them to do alone.
 
 #### > Features ####
 * Access major datasets: access Web of Science, Microsoft Academic Graph, and U.S. Patent and Trademark Office data
@@ -26,5 +26,6 @@ If you are a new user trying to learn more about how to work with the platform, 
 #### > Stay Updated
 CADRE is moving fast and changing each day. To stay in the loop, subscribe to[ our newsletter](https://cadre.iu.edu/news-and-events) and follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project).
 
-#### > Diagram ####
-![A diagram that shows all of CADRE's features. Illustration.](cadre-diagram_small.png)
+#### > Diagram
+
+![Illustration. A schema that shows how CADRE works.](diagram2.png)
