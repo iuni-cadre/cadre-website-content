@@ -1,7 +1,7 @@
 ---
 title: 'CADRE: A one-stop shop for scholarly data access, sharing, and reproducible computation'
 date: '10-02-2020 15:00'
-date_to: '10-02-2019 16:00'
+date_to: '10-02-2020 16:00'
 place: 'Social Science Research Commons, Grand Hall'
 media_order: 'CADRE_SiteBanner (1).png'
 ---

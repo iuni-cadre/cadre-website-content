@@ -12,7 +12,6 @@ xss_invalid_protocols:
   - vbscript
   - mocha
   - feed
-  - data
 xss_dangerous_tags:
   - applet
   - meta

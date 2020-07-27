@@ -1,16 +1,16 @@
 ---
 title: 'CADRE welcomes researchers into its Research Cohort for the Study of Coronaviruses'
 date: '06-05-2020 10:02'
-media_order: 'ScienceMaps Fellows.png,CovidCollabs.jpg,skojaku-circle.png'
+media_order: 'ScienceMaps Fellows.png,CovidCollabs.jpg,skojaku-circle.png,Yulia Sevryugina 1 2019.png,yulia team 2.png'
 ---
 
-**May 6, 2020** -- The Collaborative Archive & Data Research Environment (CADRE) is welcoming three fellow teams to its Research Cohort for the Study of Coronaviruses (RCSC). 
+**UPDATED: May 11, 2020** -- The Collaborative Archive & Data Research Environment (CADRE) is welcoming four fellow teams to its Research Cohort for the Study of Coronaviruses (RCSC). 
 
 ===
 
 The [RCSC Program](https://cadre.iu.edu/work-with-us/rcsc-program) was created in response to the [White House's call to action](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) to help answer COVID-19 questions with the COVID-19 Open Research Dataset (CORD-19) of scholarly literature. CADRE’s RCSC fellows, who will be developing research related to COVID-19, will have access to the CORD-19 dataset on the platform, as well as to the [Web of Science and Microsoft Academic Graph](https://cadre.iu.edu/about-cadre/available-datasets) datasets. 
 
-Read more about the three new RCSC research teams below. You can learn more about the [RCSC Program here](https://cadre.iu.edu/work-with-us/rcsc-program).
+Read more about the four new RCSC research teams below. While CADRE wants to support as many RCSC research projects as possible, the tean has put a pause on accepting new fellows until it has the capacity to provide intensive support for new teams. You can learn more about the [RCSC Program here](https://cadre.iu.edu/work-with-us/rcsc-program). 
 
 ##### Meet the researchers
 
@@ -45,3 +45,13 @@ Researchers:
 * Yi Zhang, lecturer, Centre for Artificial Intelligence, Faculty of Engineering and Information Technology, University of Technology Sydney, Australia
 
 This research team plans to study the international collaborations that are forming to perform COVID-19 research. The researchers say the combination of an intense research focus and a demand for quick results provides a rare opportunity for social scientists who study collaboration, teaming, and science dynamics. The team added that the abundant informal communications and knowledge sharing among scientists to address COVID-19 is rare. All of these circumstances have created an opportunity for the researchers to study team formations in real-time with CADRE. They plan to take advantage of CADRE’s datasets and technical team for their research. Two team members (Wagner and Cai) are also currently using CADRE for another [CADRE Fellowship project](https://cadre.iu.edu/fellows/assessing-the-rise-of-china-as-a-scientific-nation). 
+
+#####**Study of Pandemic Publishing: How Scholarly Literature is Affected by COVID-19 Pandemic** from University of Michigan#####
+
+![](yulia%20team%202.png)
+
+Researchers:
+* Yulia Sevryugina, chemistry librarian, Shapiro Science Library, University of Michigan, Ann Arbor
+* Andrew Dicks, undergraduate student assistant, University of Michigan, Ann Arbor
+
+This project will address the quality of recently published COVID-19 publications. Sevryugina says COVID-19 related research is being performed and published hastily. She adds that turnaround times for medical journal publications have decreased by almost 50 percent. Speedy research and condensed publication timelines contribute to a lack of scientific rigor and increase the likelihood of corrections and retractions, leading to the spread of false information in trusted journals. The team will study the quality of COVID-19 related scholarly works by using CADRE’s datasets to identify signs of incoherency, irreproducibility, and haste. That includes analyzing COVID-19 published literature for incoherent writing, stylistic errors, plagiarism, speculative language, unreproducible experiments, and far-fetched conclusions based on poor quality data. Researchers will also examine retracted and corrected manuscripts and explore their citation maps to understand how errors propagate through scholarly literature. The fellows hope their research will help others find the balance between expediting publication timelines and maintaining research quality.

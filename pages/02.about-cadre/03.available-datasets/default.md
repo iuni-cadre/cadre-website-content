@@ -7,8 +7,9 @@ When you use CADRE, you receive access to millions of academic publications and 
 ![A map of three datasets that includes Web of Science, USPTO, and Microsoft Academic Graph](illustration1.png?classes=float-right)
 
 **Current datasets include:**
-* Web of Science: a leading commerical dataset that includes 73 million papers and 1.7 billion citations
+* Web of Science (covering 1900 through 2019): a leading commerical dataset that includes 73 million papers and 1.7 billion citations
+* Web of Science (covering 1900 through 2017)
 * Microsoft Academic Graph: an open bibliometric dataset that holds 208 million documents and 1.4 billion citations
 * U.S. Patent and Trademark Office: for access to 9 million patent application documents
 
-Interested in gaining access? First please read the [CADRE Data Access Policy](https://cadre.iu.edu/resources/data-access-policy). You can then complete the [CADRE General Data User Application](https://iuni.iu.edu/resources/cadre/general-data-user).
+Only users from [our BTAA partner insitutions](https://cadre.iu.edu/work-with-us) have access to the Web of Science datasets. Interested in using our open data? Please read the [CADRE Data Access Policy](https://cadre.iu.edu/resources/data-access-policy). You can then complete the [CADRE General Data User Application](https://iuni.iu.edu/resources/cadre/general-data-user).
