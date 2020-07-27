@@ -252,8 +252,8 @@ button.carousel-button
                 {{ module.content|raw }}
             {% endfor %}
 
-            <div class="pt-3"><img src="{{url('theme://assets/img/homepage-leaf.svg')}}" />&nbsp;&nbsp; No programming/data science experience required.</div>
-            <div class="pt-3"><img src="{{url('theme://assets/img/homepage-staircase.svg')}}" />&nbsp;&nbsp; Affordable tiered pricing. <a href="{{url(pages.find('/pricing').url)}}">Learn more</a></div>
+            <div class="pt-3"><img aria-hidden="true" alt="" src="{{url('theme://assets/img/homepage-leaf.svg')}}" />&nbsp;&nbsp; No programming/data science experience required.</div>
+            <div class="pt-3"><img aria-hidden="true" alt="" src="{{url('theme://assets/img/homepage-staircase.svg')}}" />&nbsp;&nbsp; Affordable tiered pricing. <a href="{{url(pages.find('/pricing').url)}}">Learn more</a></div>
 
             </div>
 
@@ -399,7 +399,7 @@ button.carousel-button
                                         </div>
                                         <div class="people-pictures row">
                                             <div v-for="person in fellow.people" class="d-flex align-items-center person col-4 mb-2">
-                                                <img class="mr-3" :src="person.image" :alt="person.name" />
+                                                <img class="mr-3" :src="person.image" :alt="person.name + `'s picture`" />
                                                 <strong v-text="person.name"></strong>
                                             </div>
                                         </div>
@@ -424,7 +424,7 @@ button.carousel-button
                                         </div>
                                         <div class="people-pictures row">
                                             <div v-for="person in fellow.people" class="d-flex align-items-center person col-4 mb-2">
-                                                <img class="mr-3" :src="person.image" :alt="person.name" />
+                                                <img class="mr-3" :src="person.image" :alt="person.name + `'s picture`" />
                                                 <strong v-text="person.name"></strong>
                                             </div>
                                         </div>
@@ -451,7 +451,7 @@ button.carousel-button
                                         </div>
                                         <div class="people-pictures row">
                                             <div v-for="person in fellow.people" class="d-flex align-items-center person col-4 mb-2">
-                                                <img class="mr-3" :src="person.image" :alt="person.name" />
+                                                <img class="mr-3" :src="person.image" :alt="person.name + `'s picture`" />
                                                 <strong v-text="person.name"></strong>
                                             </div>
                                         </div>
@@ -489,7 +489,7 @@ button.carousel-button
                                     </div>
                                     <div class="people-pictures row">
                                         <div v-for="person in fellows[current_index].people" class="d-flex align-items-center person col-4 mb-2">
-                                            <img class="mr-3" :src="person.image" :alt="person.name" />
+                                            <img class="mr-3" :src="person.image" :alt="person.name + `'s picture`" />
                                             <strong v-text="person.name"></strong>
                                         </div>
                                     </div>
@@ -530,7 +530,7 @@ button.carousel-button
                     <div class="people-pictures row">
                         {% for person in fellow.header.people %}
                         <div class="d-flex align-items-center person col">
-                            <img class="mr-3" src="{{ url(fellow.media[person.image].url) }}" alt="{{ person.name }}" />
+                            <img class="mr-3" src="{{ url(fellow.media[person.image].url) }}" alt="{{ person.name }}'s picture" />
                             <strong>{{person.name}}</strong>
                         </div>
                         {% endfor %}
