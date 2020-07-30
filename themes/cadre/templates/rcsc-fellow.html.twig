@@ -1,0 +1,112 @@
+{% extends 'partials/base.html.twig' %}
+{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
+
+{% block styles %}
+    <style>
+.default-page
+{
+    padding-top: 0;
+}
+.default-page header h2
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+    border-radius: 0 0 1rem 1rem;
+    padding: 3rem;
+    text-align: left;
+    font-size: 2.5rem;
+    margin: 0;
+    color: white;
+
+    background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
+}
+
+section h3
+{
+    color: rgb(33, 37, 41);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+    </style>
+{% endblock %}
+
+
+{% block content %}
+<section class="default-page">
+<div class="fellow container">
+
+        <header>
+            <div class="header-title">
+                <h2>RCSC Fellow</h2>
+            </div>
+
+        {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
+            {# {% include 'partials/breadcrumbs.html.twig' %} #}
+        {% endif %}
+        </header>
+
+    <h3 class="mt-5">
+    {{page.title}}
+    </h3>
+    
+    <div class="organization-logos row" :key="`placeholder_${current_index}`">
+
+        {% for logo in page.header.logos %}
+        <div class="d-flex align-items-center org-logo col-4">
+            <img src="{{ url(page.media[logo.image].url) }}" alt="{{logo.name}}" />
+        </div>
+
+        {% endfor %}
+    </div>
+
+    <div class="people-pictures row">
+
+        {% for person in page.header.people %}
+
+        <div class="d-flex align-items-center person col-4 mb-2">
+            <img src="{{ url(page.media[person.image].url) }}" alt="{{person.name}}'s picture" />
+            <strong >&nbsp;{{person.name}}</strong>
+        </div>
+
+        {% endfor %}
+    </div>
+    
+    <div class="summary">
+        {{ page.content }}
+    </div>
+
+
+
+
+<!--
+    <div class="organization-logos d-flex justify-content-start">
+        {% for logo in page.header.logos %}
+        <div class="d-flex align-items-center org-logo">
+            <img src="{{ url(page.media[logo.image].url) }}" alt="{{ logo.name }}" />
+            {# <strong>{{person.name}}</strong> #}
+        </div>
+        {% endfor %}
+    </div>
+
+
+    <div class="people-pictures row">
+        {% for person in page.header.people %}
+        <div class="d-flex align-items-center person col">
+            <img class="mr-3" src="{{ url(page.media[person.image].url) }}" alt="{{ person.name }}" />
+            <strong>{{person.name}}</strong>
+        </div>
+        {% endfor %}
+    </div>
+-->
+<!--
+    <div>
+    {{page.content}}
+    </div>
+-->
+</div>
+
+</section>
+
+{% endblock %}
