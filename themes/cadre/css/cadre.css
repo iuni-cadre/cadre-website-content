@@ -13,7 +13,8 @@ body {
 }
 
 body a {
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    color: #1451B3;
 }
 
 .iu-header-wrapper {
@@ -26,6 +27,11 @@ body a {
     border: 0;
     box-shadow: 0 8px 16px 0 rgba(91, 114, 183, 0.16);
     background-color: #ffffff;
+}
+
+ .card-title
+{
+    color: #1451B3;
 }
 
 header#main-header {
@@ -90,8 +96,16 @@ footer#main-footer {
     padding: 3rem 0;
 }
 #main-footer strong{
+    font-size: 1.2rem;
     font-weight: bold;
-    color: #5b72b7;
+    color: #1451B3;
+}
+#main-footer li a
+{
+    color: #1451b3;
+    font-size: 1rem;
+    margin-left: 0.2rem;
+    display: inline-block;
 }
 #main-footer .cadre-logo img
 {
@@ -119,7 +133,7 @@ section h3 {
     line-height: 1.625rem;
     font-weight: normal;
     text-align: center;
-    color: #7285a3;
+    color: #4D5575;
     margin-bottom: 2.5rem;
 }
 
@@ -211,16 +225,17 @@ section.blue h3 {
 
 .fellow.card p
 {
-    font-size: .75rem;
+    font-size: .8rem;
     line-height: 1.25;
     color: #455979;
     
 }
 .fellow.card .summary a
 {
-    font-size: .75rem;
+    font-size: .8rem;
     line-height: 1.25;
-    color: #3c80eb;
+    color: #455979;
+    font-weight: bold;
 }
 .fellow.card .summary p
 {
