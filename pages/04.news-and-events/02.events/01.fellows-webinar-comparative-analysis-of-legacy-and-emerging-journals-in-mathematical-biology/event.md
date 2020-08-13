@@ -1,16 +1,16 @@
 ---
-title: 'Postponed: Fellows Webinar: Comparative analysis of legacy and emerging journals in mathematical biology'
-date: '19-08-2020 15:00'
-date_to: '19-08-2020 16:00'
+title: 'Fellows Webinar: Comparative analysis of legacy and emerging journals in mathematical biology'
+date: '23-09-2020 15:00'
+date_to: '23-09-2020 16:00'
 ---
 
 Our fellowship team from the University of Michigan, Ann Arbor, will present their comparative analysis on papers published in mathematical biology legacy journals and newer journals.
 
 ===
 
-**When:** This event has been postponed, please check back for an updated time and date!  
+**When:** September 23 at 3 p.m. ET  
 **Where:** Online  
-**Livestream link:** A new registration link will be provided once the date of this webinar is confirmed.
+**Livestream link:** [Register for this meeting here](https://iu.zoom.us/meeting/register/tJAtf-6prjguGdNWF3YBuIBrue0zRgjnu3f_). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 **About the research**: Researchers will perform a comparative analysis on papers published in four mathematical biology legacy journals and on newer journals with different publication models and disciplinary scope.
 

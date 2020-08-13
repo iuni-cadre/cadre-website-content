@@ -7,7 +7,10 @@ date_to: '29-07-2020 16:00'
 This fellowship team will discuss how they used CADRE to find if novelty is always disruptive and, if not, which types are most disruptive.
 
 ===
+##### Watch the recording:
+[plugin:youtube](https://youtu.be/qxnwtzfz_3I)
 
+##### Event details:
 **When:** July 29, 3 p.m. ET  
 **Where:** Online  
 **Livestream link:**  [Register in advance for this meeting](https://iu.zoom.us/meeting/register/tJAuduiopzgiGtQAC_ylfQxdwlOlu0vDUzH5). After registering, you will receive a confirmation email containing information about joining the meeting.

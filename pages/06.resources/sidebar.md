@@ -34,6 +34,12 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 --- 
 
 #### CADRE Fellows Webinar Series: #### 
+* What types of novelty are most disruptive?
+[plugin:youtube](https://youtu.be/qxnwtzfz_3I)
+
+* All quiet on the endless frontier? Characterizing the changing nature of innovation in science and technology
+[plugin:youtube](https://youtu.be/T7Xgu9StoyI)
+
 * Understanding Citation Impact of Scientific Publications Through Ego-Centered Citation Networks
 [plugin:youtube](https://youtu.be/P4jEjFRCB3U)
 
