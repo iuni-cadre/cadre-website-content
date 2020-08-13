@@ -8,6 +8,12 @@ Our fellowship team will discuss the research they developed using CADRE, includ
 
 ===
 
+##### Watch the recording:
+
+[plugin:youtube](https://youtu.be/T7Xgu9StoyI)
+
+##### Event Details:
+
 **When:** July 22, 3 p.m. ET  
 **Where:** Online  
 **Livestream link:** [Register in advance for this meeting](https://iu.zoom.us/meeting/register/tJAoc-6upz4tHt07zv7k8Z7VQT6QnXfywtRb). After registering, you will receive a confirmation email containing information about joining the meeting.
