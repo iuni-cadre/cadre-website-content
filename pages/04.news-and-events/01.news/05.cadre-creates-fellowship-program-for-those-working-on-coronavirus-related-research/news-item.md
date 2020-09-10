@@ -3,12 +3,12 @@ title: 'CADRE creates fellowship program for those working on coronavirus-relate
 date: '06-04-2020 10:55'
 ---
 
+**April 6, 2020**  
 _UPDATE: We have received a lot of interest in this program and have recently taken on four new fellowship teams. While we want to support as many RCSC research projects as possible, we have put a pause on accepting new fellows until we have the capacity to provide intensive support for new teams. You are welcome to submit a prospoal to be considered at a future date, and you can contact us if you have questions._
 
 ===
 
-**For immediate release:**  
-**April 6, 2020** -- In response to the [White House's call to action](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) for the scientific community to help solve important COVID-19 questions, the CADRE project has created the [Research Cohort for the Study of Coronaviruses](https://cadre.iu.edu/work-with-us/rcsc-program) (RCSC) fellowship program.
+In response to the [White House's call to action](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/) for the scientific community to help solve important COVID-19 questions, the CADRE project has created the [Research Cohort for the Study of Coronaviruses](https://cadre.iu.edu/work-with-us/rcsc-program) (RCSC) fellowship program.
 
 The RCSC Program gives any researcher working on COVID-19 or coronavirus-related research the opportunity to work in CADRE’s cloud-based platform and take advantage of a special tier of service. Research teams can consist of graduate students, staff, and faculty from any U.S. or non-U.S. university—teams can span any discipline and institution.
 

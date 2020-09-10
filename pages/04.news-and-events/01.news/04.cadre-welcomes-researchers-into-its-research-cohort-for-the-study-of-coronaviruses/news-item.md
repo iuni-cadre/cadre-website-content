@@ -4,7 +4,8 @@ date: '06-05-2020 10:02'
 media_order: 'ScienceMaps Fellows.png,CovidCollabs.jpg,skojaku-circle.png,Yulia Sevryugina 1 2019.png,yulia team 2.png'
 ---
 
-**UPDATED: May 11, 2020** -- The Collaborative Archive & Data Research Environment (CADRE) is welcoming four fellow teams to its Research Cohort for the Study of Coronaviruses (RCSC). 
+**May 11, 2020**  
+The Collaborative Archive & Data Research Environment (CADRE) is welcoming four fellow teams to its Research Cohort for the Study of Coronaviruses (RCSC). 
 
 ===
 

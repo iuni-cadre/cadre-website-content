@@ -2,7 +2,7 @@
 title: 'CADRE Outreach'
 ---
 
-##### CADRE presentations
+#### CADRE presentations
 1. Wittenberg JV, Van Rennes R, Mabry PL, Pentchev V, & Yan X. “Elevating Open Data: Building Open Environments for Data Stewardship in Research Libraries with CADRE.” Accepted for presentation at the 15th International Open Repositories Conference, Stellenboscg, South Africa, May 31, 2021.
 2. Wittenberg JV, Van Rennes R, Pentchev V, Yan X, & Mabry PL. “CADRE Product Owner Council.” Presentation and meeting hosting to be delivered at the Product Owner Council Meeting 2020, Bloomington, Indiana, May 18, 2020. Via webcast.
 3. Wittenberg JV, Van Rennes R, Mabry PL, Pentchev V, & Yan X.  “Empowering Data-Driven Research through an Open, Accessible Data Infrastructure.” Project Briefing accepted for presentation at the Coalition for Networked Information (CNI) Spring 2020 Membership Meeting, Bloomington, Indiana, April 22, 2020. [https://youtu.be/svf0zD438n0](https://youtu.be/svf0zD438n0).

@@ -7,9 +7,9 @@ homepageitems:
         dir: asc
     dateRange:
         start: today
-        end: next year
+        end: 'next year'
     limit: 2
     pagination: true
 ---
 
-All of CADRE's upcoming and past events. 
+#### All of CADRE's upcoming and past events. 

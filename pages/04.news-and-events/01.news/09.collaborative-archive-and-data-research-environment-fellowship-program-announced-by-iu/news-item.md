@@ -3,7 +3,7 @@ title: 'Collaborative Archive & Data Research Environment Fellowship Program Ann
 date: '06-05-2019 14:07'
 ---
 
-**May 6, 2019** | **Source:** [Rutgers University Library News](https://www.libraries.rutgers.edu/news/collaborative-archive-data-research-environment-fellowship-program-announced-iu)  
+**May 6, 2019**  
 Indiana University’s Network Science Institute has recently announced its CADRE Fellowship Program.
 
 ===
@@ -22,3 +22,5 @@ Receive travel scholarships to present your work at primer venues
 Applications are due May 31.
 
 Rutgers University Libraries are part of the Shared BigData Gateway for Research Libraries, a public-private partnership led by Indiana University Libraries and the IU Network Science Institute. To learn more, visit the IU news site.
+
+ **Source:** [Rutgers University Library News](https://www.libraries.rutgers.edu/news/collaborative-archive-data-research-environment-fellowship-program-announced-iu)  
