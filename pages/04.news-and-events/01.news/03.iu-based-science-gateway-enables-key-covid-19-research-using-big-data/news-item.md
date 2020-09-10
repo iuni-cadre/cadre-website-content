@@ -3,7 +3,7 @@ title: 'IU-based science gateway enables key COVID-19 research using big data'
 date: '15-05-2020 11:53'
 ---
 
-**May 15, 2020** | **Source:** [IU Research Impact](https://research.impact.iu.edu/coronavirus/big-data-research.html)  
+**May 15, 2020**  
 The Collaborative Archive and Data Research Environment was established to make an impact on big data research. In 2020, it’s now making an impact on the COVID-19 fight through a new fellowship program to facilitate COVID-19 research.
 
 ===
@@ -27,3 +27,5 @@ The CADRE group quickly granted fellowships to four research teams:
 * Yulia Sevryugina, University of Michigan, is evaluating the research quality of COVID-19 work. At a time when coronavirus research is being disseminated so rapidly, some studies may lack of scientific rigor and be more likely to have errors. Sevryugina will use CADRE’s datasets to identify signs of lower quality such as incoherent writing, stylistic errors, plagiarism, speculative language, unreproducible experiments, and far-fetched conclusions based on poor quality data.
 
 More information about CADRE and its services is available on their website.
+
+**Source:** [IU Research Impact](https://research.impact.iu.edu/coronavirus/big-data-research.html)  

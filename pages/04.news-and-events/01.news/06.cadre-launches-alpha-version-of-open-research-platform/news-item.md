@@ -4,7 +4,8 @@ date: '10-02-2020 12:13'
 media_order: 'CADRELeadership.jpg,CADRELogo_Small.png'
 ---
 
-**Feb. 10, 2020** -- The Collaborative Archive & Data Research Environment (CADRE) will release the alpha version of its platform today in tandem with its [major workshop](https://cadre.iu.edu/news-and-events/events/cadre-workshop-iu) that will show researchers from any institution how to access and test the free tier of the platform during alpha.
+**Feb. 10, 2020**  
+The Collaborative Archive & Data Research Environment (CADRE) will release the alpha version of its platform today in tandem with its [major workshop](https://cadre.iu.edu/news-and-events/events/cadre-workshop-iu) that will show researchers from any institution how to access and test the free tier of the platform during alpha.
 
 ===
 

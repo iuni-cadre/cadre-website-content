@@ -3,7 +3,8 @@ title: 'University of Maryland Libraries joins CADRE as the 10th BTAA partner-in
 date: '03-06-2020 11:53'
 ---
 
-**June 3, 2020** -- The [Collaborative Archive & Data Research Environment](https://cadre.iu.edu/) (CADRE) is excited to announce today that the [University of Maryland Libraries](https://www.lib.umd.edu/) is joining the esteemed cohort of library partners supporting the CADRE project.
+**June 3, 2020**  
+The [Collaborative Archive & Data Research Environment](https://cadre.iu.edu/) (CADRE) is excited to announce today that the [University of Maryland Libraries](https://www.lib.umd.edu/) is joining the esteemed cohort of library partners supporting the CADRE project.
 
 ===
 
