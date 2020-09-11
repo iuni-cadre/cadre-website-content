@@ -7,13 +7,19 @@
 {
     padding-top: 0;
 }
+a.title-link {
+    text-decoration: none;
+}
+a {
+    color: #1451B3;
+}
 .pages-homepage header h2
 {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
-
+    background-color: #1F088C;
     border-radius: 0 0 1rem 1rem;
     padding: 3rem;
     text-align: left;
@@ -25,22 +31,23 @@
 {
     margin-left: 1.25rem;
     margin-bottom: 2.5rem;
-    color: #646c81;
+    color: #525860;
 }
 .pages-homepage .upcoming-pages h3
 {
   font-family: Lato;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
   line-height: 1.2;
+  text-decoration: none;
   letter-spacing: normal;
   text-align: center;
-  color: #edf8fb;
+  /* color: #edf8fb; */
 
-  background-color: #5b72b7;
-  border-radius: .25rem;
+  /* background-color: #5b72b7;
+  border-radius: .25rem; */
 
   display: inline-block;
   padding: .5rem 1rem;
@@ -94,7 +101,7 @@
     line-height: 1.13;
     letter-spacing: normal;
     text-align: left;
-    color: #5b72b7;
+    color: #525860;
     margin-bottom: .5rem;
 }
 .pages-homepage .page-card-content > p
@@ -107,7 +114,7 @@
   line-height: 1.23;
   letter-spacing: normal;
   text-align: left;
-  color: #838896;
+  color: #525860;
   margin-top: .5rem;
   margin-bottom: .5rem;
 
@@ -115,7 +122,7 @@
 
 .pages-homepage .details-button
 {
-    background-color: #5b72b7;
+    background-color: #1451B3;
     font-size: .875rem;
     font-weight: normal;
     font-style: normal;
@@ -167,8 +174,10 @@
 
             {# {{subpage.title}} #}
             <div class="d-flex align-items-end pb-3">
-            <a class="" href="{{url(page.url)}}"><h3 class="d-inline-block mr-3">{{page.title}}</h3></a>
-            <a class="" href="{{url(page.url)}}"><div class="d-inline-block">View More...</div></a>
+                <a class="title-link" href="{{url(page.url)}}">
+                    <h3 class="d-inline-block">{{page.title}}</h3>
+                    <span class="d-inline-block">View All</span>
+                </a>
             </div>
 
             <div class="card page-card mb-5">

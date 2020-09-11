@@ -4,7 +4,7 @@ title: 'CADRE Data Access Policy'
 
 Download a PDF version of this policy [here](https://iuni.iu.edu/files/cadre/Cadre_Data_Access_Policy_I.pdf).
 
-#### Scope ####
+### Scope ###
 All agents of the Universities participating in the CADRE project who wish to access the WoS and/or MAG datasets stored on IUNI’s data enclave.
 
 Policy Statement
@@ -17,7 +17,7 @@ Policy Statement
 
 ---
 
-#### Reason for Policy ####
+### Reason for Policy ###
 IUNI wants to make the WoS and MAG data accessible to eligible individuals while adhering to the terms and conditions of the agreement with Clarivate Analytics and Microsoft Research.
 
 The WoS data set is a proprietary data set purchased from Clarivate Analytics and the protection of this data is a key priority for the institute. A violation may result in a termination of the contract with Clarivate Analytics; resulting in significant challenges for research using publication data throughout the University.
@@ -28,7 +28,7 @@ The goal of the data access policy is to maximize accessibility while simultaneo
 
 ---
 
-#### Procedures ####
+### Procedures ###
 **1.1.** The data enclave will be accessible for all eligible individuals who are affiliated with a participating institution. Except where there is a compelling reason not to do so, it is the intention of IUNI to approve all applications from individuals and who complete the actions required to comply with this policy.
 
 **1.2.** The Indiana University Office of the Vice-President and General Counsel has final authority regarding interpretation of the Clarivate license agreement and whether the proposed use of the data comport with the agreement.
@@ -61,7 +61,7 @@ Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, a
 
 ---
 
-#### Definitions ####
+### Definitions ###
 
 * IUNI: The Indiana University Network Science Institute (iuni.iu.edu)
 * Eligible Individual: An individual who is an employee or student of an institution participating in the CADRE project.
@@ -72,14 +72,14 @@ Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, a
 
 ---
 
-#### Sanctions ####
+### Sanctions ###
 Indiana University will handle reports of misuse and abuse of information and information technology resources in accordance with existing policies and procedures issued by appropriate authorities. Depending on the individual and circumstances involved this could include the offices of Human Resources, Vice Provost or Vice Chancellor of Faculties (or campus equivalent), Dean of Students (or campus equivalent), Office of the General Counsel, and/or appropriate law enforcement agencies. See policy IT-02, Misuse and Abuse of Information Technology Resources for more detail.
 
 Failure to comply with Indiana University information technology policies may result in sanctions relating to the individual's use of information technology resources (such as suspension or termination of access, or removal of online material); the individual's employment (up to and including immediate termination of employment in accordance with applicable university policy); the individual's studies within the university (such as student discipline in accordance with applicable university policy); civil or criminal liability; or any combination of these.
 
 ---
 
-#### Additional Contacts ####
+### Additional Contacts ###
 Subject	Contact
 
 Web of Science:	Matthew Hutchinson | (812) 855-1404	| <a href="mailto:maahutch@iu.edu">m a a h u t c h @ i u . e d u</a>
@@ -88,10 +88,10 @@ Microsoft Academic Graph: Matthew Hutchinson | (812) 855-1404 | <a href="mailto:
 
 ---
 
-#### Forms ####
+### Forms ###
 If you are interested in accessing the data enclave, please complete the application form at the following address: [http://iuni.iu.edu/resources/cadre/general-data-user](http://iuni.iu.edu/resources/cadre/general-data-user)
 
 ---
 
-#### History ####
+### History ###
 This policy replaces the ‘Web of Science - Data Access Policy’.
