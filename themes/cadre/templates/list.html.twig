@@ -2,78 +2,100 @@
 {% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
 
 {% block content %}
-<style>
-    .default-page ul li p
-    {
-        margin-bottom: 0;
-    }
-    .default-page ul li
-    {
-        margin-bottom: 1rem;
-    }
+    <style>
+        .default-page ul li p {
+            margin-bottom: 0;
+            font-size: 1rem;
+        }
+        .default-page ul li {
+            margin-bottom: 1rem;
+        }
 
-    .default-page
-    {
-        padding-top: 0;
-    }
-    .default-page header h2
-    {
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: cover;
+        .default-page {
+            padding-top: 0;
+        }
+        .default-page header h2 {
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+            background-color: #1F088C;
 
-        border-radius: 0 0 1rem 1rem;
-        padding: 3rem;
-        text-align: left;
-        font-size: 2.5rem;
-        margin: 0;
-        color: white;
+            border-radius: 0 0 1rem 1rem;
+            padding: 3rem;
+            text-align: left;
+            font-size: 2.5rem;
+            margin: 0;
+            color: white;
 
-        background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
-    }
+            background-image: url({{url('theme://assets/img/cadreEvent-Header-BgImg.jpg')}});
+        }
 
-    .default-page > .container > p
-    {
-        margin-left: 1.25rem;
-        margin-bottom: 2.5rem;
-        color: #646c81;
-    }
+        .news_title {
+            font-family: Lato, sans-serif;
+            font-size: 1.25rem;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.2;
+            letter-spacing: normal;
+            text-align: left;
+            color: #1451B3;
+            margin-bottom: 1rem;
+        }
 
-</style>
-<section class="default-page">
-    <div class="container">
-        {# <h2>{{page.title}}</h2>
-        {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
-            {% include 'partials/breadcrumbs.html.twig' %}
-        {% endif %}        #}
+        .default-page > .container > p {
+            margin-left: 1.25rem;
+            margin-bottom: 2.5rem;
+            color: #646c81;
+        }
 
-        <header>
-            <div class="header-title">
-                <h2>{{page.title}}</h2>
-            </div>
+        .default-page a {
+            text-decoration: none;
+        }
+        .read_more {
+            color: #1451B3;
+            font-size: 1rem;
+            padding-top: 1rem;
+            text-decoration: none;
+        }
+    </style>
+    <section class="default-page">
+        <div
+            class="container">
+            {# <h2>{{page.title}}</h2>
+                    {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
+                        {% include 'partials/breadcrumbs.html.twig' %}
+                    {% endif %}        #}
 
-        {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
-            {% include 'partials/breadcrumbs.html.twig' %}
-        {% endif %}
-        </header>
-
-        {% if page.content %}
-            {{page.content | raw}}
-        {% endif %}
-
-        <ul class="list-unstyled">
-        {% for subpage in page.children() %}
-            <li>
-                <div class="card p-3">
-                    <strong><a href="{{url(subpage.url)}}">{{ subpage.title|raw }}</a></strong>
-
-                    {{ subpage.summary | raw }}
-                    <small><a href="{{url(subpage.url)}}">Read More...</a></small>
+            <header>
+                <div class="header-title">
+                    <h2>{{page.title}}</h2>
                 </div>
-            </li>
-        {% endfor %}
-        </ul>
-    </div>
-</section>
+
+                {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
+                    {% include 'partials/breadcrumbs.html.twig' %}
+                {% endif %}
+            </header>
+
+            {% if page.content %}
+                {{page.content | raw}}
+            {% endif %}
+
+            <ul class="list-unstyled">
+                {% for subpage in page.children() %}
+                    <li>
+                        <div class="card p-3">
+                            <strong class="news_title">
+                                <a href="{{url(subpage.url)}}">{{ subpage.title|raw }}</a>
+                            </strong>
+
+                            {{ subpage.summary | raw }}
+                            <small class="read_more"><a href="{{url(subpage.url)}}">Read More...</a></small>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </section>
 
 {% endblock %}

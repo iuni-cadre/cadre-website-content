@@ -264,9 +264,19 @@ section.blue h3 {
     font-size: 1.1rem;
 }
 
+.default-page ol li
+{
+    margin-bottom: 1em;
+}
+
 .default-page a 
 {
     text-decoration: underline;
+}
+
+.default-page hr 
+{
+    margin: 2rem 0;
 }
 
 .default-page h2
@@ -279,14 +289,27 @@ section.blue h3 {
     margin: 0;
 }
 
+.default-page h3, .default-page h4
+{
+    text-align: left;
+}
+
+.default-page h3
+{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.625rem;
+}
+
 .default-page h4
 {
     margin-top: 2rem;
+    font-size: 1.125rem;
+    margin-bottom: 1em;
 }
 
 .default-page p img
 {
-    
     border-radius: 1rem;
     margin-bottom: 1rem;
     padding: 1rem;
@@ -301,6 +324,10 @@ section.blue h3 {
 .default-page p img.float-right
 {
     margin-left: 1rem;
+}
+
+aside.sidebar a {
+    text-decoration: none;
 }
 
 .newsletter-section label
