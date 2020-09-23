@@ -21,7 +21,6 @@ When you use CADRE, you receive access to millions of academic publications and 
 
 Current datasets include:  
 * Web of Science (covering 1900 through 2019): a leading commerical dataset that includes 73 million papers and 1.7 billion citations  
-* Web of Science (covering 1900 through 2017)
 * Microsoft Academic Graph: an open bibliometric dataset that holds 208 million documents and 1.4 billion citations  
 * U.S. Patent and Trademark Office: for access to 9 million patent application documents  
 

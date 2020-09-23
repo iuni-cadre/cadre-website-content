@@ -16,16 +16,15 @@ Our fellowship team from the University of Michigan, Ann Arbor, will present the
 
 The team will use the CADRE datasets to develop methodologies for comparative bibliometrics and content analyses; provide insight into publication trends in theoretical and applied domains; give authors new factors to consider when trying to publish; and help editors in similar disciplines use informatics to distinguish their journals.
 
-**Abstract**: We propose a comparative analysis of papers published in four legacy journals focused on mathematical biology (Bulletin of Mathematical Biology, Journal of Theoretical Biology, Mathematical Biosciences and Journal of Mathematical Biology), and newer journals with different publication models and more disciplinary variety (PLoS Computational Biology and Journal of the Royal Society Interface) over a 15-year period.
+**Abstract**
+In this presentation, our team will provide an update our work to perform a comparative analysis on papers published in four mathematical biology legacy journals and on newer journals with different publication models and disciplinary scope. The presentation will include: the rationale and methods for the project, including a description of data sources, preliminary analyses of impact factors, citation patterns for journals and organizations, and topics. We conclude with a discussion of next steps for the project, and potential implications of our work for authors and editors. 
 
-We will look at several different factors: author analyses (including author publication trends), citation network analysis, a multi-factored content analysis of published papers (traditional analyses based on taxonomies for biological classification and methodologies, as well as topic modelling and machine learning-based analyses of textual content in abstracts), and editorial policies.
+**Marisa Conte** is Associate Director of the Research and Informatics Unit at the Taubman Health Sciences Library.  In this role, she coordinates THL's engagement and facilitates collaborations in research and informatics initiatives. Marisa is also a PhD student in Health Infrastructures and Learning Systems in the Medical School’s Department of Learning Health Sciences.
 
-The results from these analyses will serve several purposes:
-- Develop and test methodologies for comparative bibliometric and content analyses
-- Provide insight into publication trends in theoretical and applied domains
-- Give authors new factors to consider when determining the best route to publication
-- Help editors in closely-related disciplines use informetrics to distinguish their journals
+**Samuel Hansen** is the Mathematics & Statistics Librarian at the University of Michigan, and also supports the Biostatistics department in the School of Public Health. Their professional interests include bibliometrics, research impact, database design, topic analysis, digital archiving, podcasts, network theory, open access, copyleft, science communication, and equity in STEM.
 
-Our multidisciplinary team consists of librarians with subject expertise in biomedicine, biology and mathematics, and a faculty member with research focused on biometrology and mathematical biology. One member of our team, Samuel Hansen, has been working in-depth with the Web of Science data for some time. They used the Indiana University Generic XML Parser code published on GitHub to recreate the Web of Science PostgreSQL database for internal University of Michigan use before the public launch of CADRE. They bring a deep understanding of the database structure and the data it can provide.
+**Scott Martin** is the University of Michigan’s Biological Sciences Librarian. In this role, he serves as the library liaison to the departments of Ecology and Evolutionary Biology (EEB) and Molecular, Cellular, and Developmental Biology (MCDB) as well as the Museum of Natural History, the Museums of Paleontology and Zoology, the University Herbarium, and the U-M Biological Station.
+
+**Santiago Schnell**, DPhil (Oxon), FRSC, is the interim chair of the Department of Molecular & Integrative Physiology at the University of Michigan Medical School. He is also the John A. Jacquez Collegiate Professor of Physiology, and Professor of Computational Medicine and Bioinformatics, and a William K. Brehm Investigator at the Brehm Center for Diabetes Research. Dr. Schnell is currently serving as Editor-in-Chief of Mathematical Biosciences
 
 **[Read more about the researchers here.](https://cadre.iu.edu/fellows/comparative-analysis-of-legacy-and-emerging-journals-in-mathematical-biology)**
