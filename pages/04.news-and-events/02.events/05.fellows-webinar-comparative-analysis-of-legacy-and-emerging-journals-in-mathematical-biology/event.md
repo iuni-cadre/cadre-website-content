@@ -8,6 +8,11 @@ Our fellowship team from the University of Michigan, Ann Arbor, will present the
 
 ===
 
+#### Watch the recording
+[plugin:youtube](https://youtu.be/dKBP5XIGs_U)
+
+#### Event details
+
 **When:** September 23 at 3 p.m. ET  
 **Where:** Online  
 **Livestream link:** [Register for this meeting here](https://iu.zoom.us/meeting/register/tJAtf-6prjguGdNWF3YBuIBrue0zRgjnu3f_). After registering, you will receive a confirmation email containing information about joining the meeting.
