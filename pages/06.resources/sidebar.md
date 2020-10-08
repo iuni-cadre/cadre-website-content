@@ -34,6 +34,9 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 --- 
 
 ### CADRE Fellows Webinar Series: ### 
+#### Comparative analysis of legacy and emerging journals in mathematical biology
+[plugin:youtube](https://youtu.be/dKBP5XIGs_U)
+
 #### What types of novelty are most disruptive?
 [plugin:youtube](https://youtu.be/qxnwtzfz_3I)
 
