@@ -1,0 +1,25 @@
+state: enabled
+email: wilkinj@iu.edu
+access:
+  admin:
+    super: 'false'
+    login: 'true'
+    cache: 'true'
+    configuration: 'false'
+    configuration_system: 'false'
+    configuration_site: 'false'
+    configuration_media: 'false'
+    configuration_info: 'false'
+    settings: 'false'
+    pages: 'true'
+    maintenance: 'false'
+    statistics: 'true'
+    plugins: 'false'
+    themes: 'false'
+    tools: 'true'
+    users: 'false'
+fullname: 'Jaci Wilkinson'
+title: Editor
+language: en
+twofa_enabled: false
+hashed_password: $2y$10$wbBK2Ncguf43WeBzQ3o31OVnKyKlMshkaKfDgdO0a5XcknNIMlRRK
