@@ -304,8 +304,16 @@ section.blue h3 {
 .default-page h4
 {
     margin-top: 2rem;
-    font-size: 1.125rem;
+    font-size: 1.325rem;
     margin-bottom: 1em;
+    font-weight: bold;
+}
+.default-page h5
+{
+    margin-top: 2rem;
+    font-size: 1.325rem;
+    margin-bottom: 1em;
+    /* font-size: bold; */
 }
 
 .default-page p img
@@ -324,6 +332,14 @@ section.blue h3 {
 .default-page p img.float-right
 {
     margin-left: 1rem;
+}
+
+.default-page blockquote {
+    margin-left: 2rem;
+}
+.default-page blockquote p
+{
+    margin-bottom: 0;
 }
 
 aside.sidebar a {
