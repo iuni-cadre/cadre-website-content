@@ -334,6 +334,14 @@ section.blue h3 {
     margin-left: 1rem;
 }
 
+.default-page blockquote {
+    margin-left: 2rem;
+}
+.default-page blockquote p
+{
+    margin-bottom: 0;
+}
+
 aside.sidebar a {
     text-decoration: none;
 }
