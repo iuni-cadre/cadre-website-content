@@ -304,8 +304,16 @@ section.blue h3 {
 .default-page h4
 {
     margin-top: 2rem;
-    font-size: 1.125rem;
+    font-size: 1.325rem;
     margin-bottom: 1em;
+    font-weight: bold;
+}
+.default-page h5
+{
+    margin-top: 2rem;
+    font-size: 1.325rem;
+    margin-bottom: 1em;
+    /* font-size: bold; */
 }
 
 .default-page p img
