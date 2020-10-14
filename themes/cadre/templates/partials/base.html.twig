@@ -5,15 +5,10 @@
 <html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146561272-1"></script>
+
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-146561272-1');
+GA_ID = "UA-146561272-1";
 </script>
-
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/user/icons/apple-touch-icon.png">
@@ -148,7 +143,14 @@
         {% endblock %}
 
 
+    
+
+
     <footer id="main-footer">
+
+
+
+
         <div class="container">
         <div class="row">
             <div class="col-12 col-md">
@@ -201,5 +203,82 @@
     </footer>
 
     {% include 'partials/iu-footer.html.twig' %}
+
+
+    
+        <style>
+            #cookie_alert
+            {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                background: #7A1705;
+                color: white;
+                z-index: 20000;
+            }
+            #cookie_alert strong
+            {
+                color: white !important;
+            }
+        </style>
+        <div id="cookie_alert">
+            <div class="container">
+                <div class="p-3">
+                    <p>
+                        <strong>Cookie Notice:</strong>
+                        We use third-party widgets and libraries to provide the best experience to our users.  These libraries may use cookies.  
+                    </p>
+                    <div>
+                        <button class="btn btn-primary" id="cookie_consent">Click here to consent to cookie use and dismiss this message.</button>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <script>
+            var cookie_consent_script = function(){
+                function clickConsent(){
+                    document.cookie = "cadre_cookie_consent=true";
+                    consent_given();
+                }
+                function consent_given(){
+                    var alert = document.getElementById("cookie_alert");
+                    var parent = alert.parentNode
+                    
+                    parent.removeChild(alert);
+
+                    var twitter_script = document.createElement("script");
+                    twitter_script.src = "https://platform.twitter.com/widgets.js";
+                    twitter_script.charset = "charset='utf-8'";
+                    parent.appendChild(twitter_script);
+
+                    var ga_script = document.createElement("script");
+                    ga_script.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
+                    parent.appendChild(ga_script);
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', GA_ID);
+
+                }
+
+                var decodedCookie = decodeURIComponent(document.cookie);
+                var ca = decodedCookie.split(';');
+                var cookies = {};
+                ca.map(function(item){
+                    var bits = item.split("=");
+                    cookies[bits[0].trim()] = bits[1];
+                });
+                if(cookies["cadre_cookie_consent"])
+                {
+                    consent_given();
+                }
+                else
+                {
+                    document.getElementById("cookie_consent").addEventListener("click", clickConsent)
+                }
+            }()
+        </script>
 </body>
 </html>
