@@ -1,5 +1,7 @@
 ---
 title: Pricing
+published: false
+unpublish_date: '12-10-2020 13:15'
 ---
 
 While CADRE is currently under development, the tiered-pricing model we plan to offer will create an affordable solution for all researchers and institutions. 
