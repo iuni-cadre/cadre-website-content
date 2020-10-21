@@ -11,7 +11,7 @@ Take a tour of some exciting new CADRE features and functionality included in ou
 **When:** October 26 at 2 p.m. ET  
 **Registration link:** [Register here](https://iu.zoom.us/meeting/register/tJUrdOigrzwiH9FdRCpVTaxRLK_LhgsgluHx). After registering, you will receive a confirmation email containing information about joining the meeting.
  
-This short webinar will take attendees through a live tour of the features accompanying CADRE's beta launch, which include:
+This webinar will take attendees through a live tour of the features accompanying CADRE's beta launch, which include:
 * User-interface enhancements
 * Addition of user profiles
 * Improved Job Status page
