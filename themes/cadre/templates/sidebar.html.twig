@@ -28,7 +28,7 @@
     </pre> #}
         <a href="{{url(top_level.url)}}"><strong class="card-title">{{top_level.title}}</strong></a>
         <ul class="list-unstyled mb-0">
-        {% for subpage in top_level.children() %}
+        {% for subpage in top_level.children() if subpage.header.published is not same as(false) %}
             <li>
                 <a href="{{url(subpage.url)}}">{{subpage.title}}</a>
 
