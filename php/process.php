@@ -81,14 +81,15 @@ function get_emails($form_name)
         "stephanie" => "smcgavin@iu.edu",
         "iuni" => "iuni@indiana.edu",
         "matt" => "maahutch@iu.edu",
-        "chathuri" => "chathuri@iu.edu"
+        "chathuri" => "cpelikan@iu.edu"
     );
 
     $all_forms = array(
         // "general_contact" => array("ben"),
         "general_contact" => array("ben", "stephanie"),
         "newsletter_subscribe" => array("ben", "stephanie"),
-        "gateway_feedback" => array("ben", "matt", "chathuri", "stephanie"),
+//        "gateway_feedback" => array("ben", "matt", "chathuri", "stephanie"),
+        "gateway_feedback" => array("ben",  "stephanie", "chathuri"),
     );
     
     if(!isset($all_forms[$form_name]))
