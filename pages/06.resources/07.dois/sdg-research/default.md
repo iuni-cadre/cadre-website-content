@@ -7,7 +7,7 @@ Authors: Payumo, Jane; He, Guangming; Manjanatha, Anusha Chintamani; Calvert, Sc
 Affiliation: Michigan State University  
 Date: 2020
 
-* DOI:  [http://hdl.handle.net/2022/25849](http://hdl.handle.net/2022/25849)
+* DOI:  [https://doi.org/2022/25849](https://doi.org/2022/25849)
 * URI:  [https://cadre.iu.edu/gateway/](https://cadre.iu.edu/gateway/)
 
 #### Abstract:
