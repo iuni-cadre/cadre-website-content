@@ -4,7 +4,8 @@ date: '21-10-2020 11:44'
 media_order: highres-CADRElogo.png
 ---
 
-The Collaborative Archive & Data Research Environment (CADRE) launched [the beta version of its platform](https://cadre.iu.edu/news-and-events/events/tour-of-cadre-beta-launch) today and invites institutions to access CADRE [through a free trial period](https://cadre.iu.edu/about-cadre/request-a-trial).
+**10/21/20**  
+The Collaborative Archive & Data Research Environment (CADRE) began rolling out [the beta version of its platform](https://cadre.iu.edu/news-and-events/events/tour-of-cadre-beta-launch) today and invites institutions to access CADRE [through a free trial period](https://cadre.iu.edu/about-cadre/request-a-trial). Users will have full access to all aspects of the release by Friday, Oct. 23.
 
 ===
 
