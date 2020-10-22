@@ -32,9 +32,10 @@ If you want to stay updated on CADRE and remain informed on when our services wi
 <textarea class="form-control" required="" name="Question_or_Comment" id="Question_or_Comment"></textarea>
 </div>
 </div>
-
+<div class="row">
 <div class="form-group col">
 <input class="btn btn-primary" type="Submit" value="Submit">
+</div>
 </div>
 </form>
 

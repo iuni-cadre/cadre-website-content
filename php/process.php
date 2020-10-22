@@ -79,13 +79,17 @@ function get_emails($form_name)
     $email_addresses = array(
         "ben" => "bserrett@iu.edu",
         "stephanie" => "smcgavin@iu.edu",
-        "iuni" => "iuni@indiana.edu"
+        "iuni" => "iuni@indiana.edu",
+        "matt" => "maahutch@iu.edu",
+        "chathuri" => "cpelikan@iu.edu"
     );
 
     $all_forms = array(
         // "general_contact" => array("ben"),
         "general_contact" => array("ben", "stephanie"),
         "newsletter_subscribe" => array("ben", "stephanie"),
+//        "gateway_feedback" => array("ben", "matt", "chathuri", "stephanie"),
+        "gateway_feedback" => array("ben",  "stephanie", "chathuri"),
     );
     
     if(!isset($all_forms[$form_name]))
@@ -131,11 +135,13 @@ $db_forms = array();
 $all_forms = array(
     "general_contact" => "CADRE Contact Us",
     "newsletter_subscribe" => "CADRE Newsletter Subscription Request",
+    "gateway_feedback" => "CADRE Gateway Feedback Form",
 );
 
 $visible_forms = array(
     "general_contact",
-    "newsletter_subscribe"
+    "newsletter_subscribe",
+    "gateway_feedback",
 );
 
 $captcha_forms = array(
