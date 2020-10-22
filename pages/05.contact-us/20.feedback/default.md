@@ -12,7 +12,7 @@ If you've found a bug or have a feature suggestion for the CADRE Gateway, please
 make CADRE the very best research platform available.
 
 
-<form  id="the_form" action="./process" method="POST" enctype="multipart/form-data">
+<form  id="the_form" action="./feedback/process" method="POST" enctype="multipart/form-data">
 <input type="text" id="username_field" name="username" placeholder="username">
 <input type="hidden" value="gateway_feedback" name="form_name">
 <div class="row">
