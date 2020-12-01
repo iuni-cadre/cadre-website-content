@@ -8,6 +8,14 @@ Take a tour of some exciting new CADRE features and functionality included in ou
 
 ===
 
+#### Watch the Recording ####
+
+[plugin:youtube](https://youtu.be/C5W0EmhwPMg)
+
+[Find CADRE's full demo website here](https://iuni-cadre.github.io/BetaDemo/).
+
+#### Event Details ####
+
 **When:** October 26 at 2 p.m. ET  
 **Registration link:** [Register here](https://iu.zoom.us/meeting/register/tJUrdOigrzwiH9FdRCpVTaxRLK_LhgsgluHx). After registering, you will receive a confirmation email containing information about joining the meeting.
  
@@ -20,4 +28,4 @@ This webinar will take attendees through a live tour of the features accompanyin
 * Ability to publish and share packages, tools, and data archives with other users
 * Bug fixes
 
-Make sure you're [subscribed to our newsletter](https://cadre.iu.edu/news-and-events) to stay in the loop on all upcoming events.
+Find all the details [of the beta release here](https://cadre.iu.edu/news-and-events/news/cadre-executes-beta-launch-invites-institutions-to-trial-platform) and make sure you're [subscribed to our newsletter](https://cadre.iu.edu/news-and-events) to stay in the loop on all upcoming events.

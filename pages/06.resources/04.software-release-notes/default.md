@@ -2,6 +2,18 @@
 title: 'Software Release Notes'
 ---
 
+##### 1.0.2-beta
+
+Updated user trial form
+
+---
+
+##### 1.0.1-beta
+
+Bug fixes
+
+---
+
 ##### 1.0.0-beta
 [Official beta launch](https://cadre.iu.edu/news-and-events/news/cadre-executes-beta-launch-invites-institutions-to-trial-platform)
 

@@ -10,7 +10,7 @@ We are designing CADRE to be an agile, interdisciplinary tool for any academic r
 Whether you are a researcher, an institution, or a data publisher, you can learn more about how to work with us below. [Contact us](https://cadre.iu.edu/contact-us) with any questions or requests.
 
 #### Contribute to CADRE ####
-This platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible through [a two-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/).
+This platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible through [a three-year IMLS grant](https://www.imls.gov/grants/awarded/lg-70-18-0202-18). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/).
 
 The[ Web of Science Group](https://clarivate.com/webofsciencegroup/) and [Microsoft Research](https://www.microsoft.com/en-us/research/project/academic/) generously donated datasets, training resources, and other resources to our team. These two partners also helped fund our [fellowship program](https://cadre.iu.edu/work-with-us/cadre-fellowship), including sending fellow teams to [ISSI 2019](https://cadre.iu.edu/news-and-events/events/rome). 
 
@@ -28,7 +28,7 @@ If you are an organization interested in contributing datasets, resources, or pa
  
 The following instutions have contributed resources to the CADRE platform and receive full access to CADRE and [WoS (2017), WoS (2019), and MAG datasets](https://cadre.iu.edu/about-cadre/available-datasets). If you are an academic instution interested in partnering with CADRE or creating a membership to access services, [please let us know](https://cadre.iu.edu/contact-us).
 
-##### Big Ten Academic Alliance partners:
+##### CADRE's library partners:
 * Michigan State University Libraries
 * Ohio State University Libraries
 * Penn State University Libraries
@@ -38,4 +38,4 @@ The following instutions have contributed resources to the CADRE platform and re
 * University of Maryland Libraries
 * University of Michigan Libraries
 * University of Minnesota Libraries
-
+* University of Toronto Libraries

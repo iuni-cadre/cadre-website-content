@@ -22,10 +22,7 @@ access:
     login: 'true'
 fullname: 'Ben Serrette'
 title: Admin
-hashed_password: $2y$10$046knhm62QzSkrVhnPdUvuZOv88gifK8X1Ch8X0mkc.AGsiUZOnU2
 language: en
 twofa_enabled: false
 twofa_secret: MYPKRCXLA7NQ3UDP3LZ7WFD6R76Y62KV
-pw_resets:
-  - 1602522248
-reset: '88e5bc1f4ddfb7eddcb53e401cca0af3::1603127048'
+hashed_password: $2y$10$bOxY3LQYSRl6AGMW3HI3zuASipkNq/uEW3UQ4yu45yGE.2usD1upC

@@ -2,7 +2,7 @@
 title: 'Cite CADRE'
 ---
 
-We ask that you cite cite our project when publishing papers that use packages you've created on CADRE.
+We ask that you cite our project when publishing papers that use packages you've created on CADRE.
 
 #### Collaborative Archive & Data Research Environment (CADRE)#### 
 Authors: Wittenberg, Jamie; Mabry, Patricia L.; Yan, Xiaoran; Van Rennes, Robert; Pentchev, Valentin; Wilkinson, Jaci  

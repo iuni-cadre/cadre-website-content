@@ -7,8 +7,12 @@ main: true
 
 In addition to providing sustainable, affordable, and standardized text- and data-mining services for large datasets, CADRE will offer extensive tutorials on how to work with our platform and datasets. Take a look at some resources for how to take full advantage of CADRE.
 
+Visit CADRE's [Kaltura channel](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for closed-captioned videos. If you have any trouble accessing our Kaltura page, [let us know](https://cadre.iu.edu/contact-us).  
+
 ### Informational Videos and Demos: ###
-You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for more videos.  
+
+#### CADRE Beta Launch Tour
+[plugin:youtube](https://youtu.be/C5W0EmhwPMg)
 
 #### Empowering Data-Driven Research through an Open, Accessible Data Infrastructure
 [plugin:youtube](https://youtu.be/svf0zD438n0)
@@ -34,6 +38,9 @@ You can also visit CADRE's [channel on Kaltura](https://iu.mediaspace.kaltura.co
 --- 
 
 ### CADRE Fellows Webinar Series: ### 
+#### The global network of air links and scientific collaboration – a quasi-experimental analysis
+[plugin:youtube](https://youtu.be/axOLJbo78GM)
+
 #### Comparative analysis of legacy and emerging journals in mathematical biology
 [plugin:youtube](https://youtu.be/dKBP5XIGs_U)
 
