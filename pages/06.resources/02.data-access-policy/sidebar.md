@@ -2,6 +2,14 @@
 title: 'CADRE Data Access Policy'
 ---
 
+### Data Access/General User Application: ###
+To request data access, please first read the CADRE Data Access Policy below. You can then complete the CADRE General Data User Application. Upon approval, data enclave access is provided by IUNI Data Manager Matthew Hutchinson.
+* [CADRE General Data User Application Form](https://iuni.iu.edu/resources/cadre/general-data-user)
+
+---
+
+### CADRE Data Acess Policy ###
+
 Download a PDF version of this policy [here](https://iuni.iu.edu/files/cadre/Cadre_Data_Access_Policy_I.pdf).
 
 ### Scope ###
@@ -68,7 +76,7 @@ Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, a
 * Web of Science or WoS: The dataset and all future updates that have been provided to IUNI by Clarivate Analytics.
 * Microsoft Academic Graph or MAG: The dataset and all future updates that have been provided to IUNI by Microsoft Research.
 * Data Enclave or ‘The enclave’: A dedicated data intensive node in the Karst network that stores the WoS and MAG dataset and is maintained by UITS on behalf of IUNI.
-* Data Manager: An employee of IUNI who conducts day-to-day administration of the WoS and MAG dataset and supports researchers in accessing the data. The Data Manager serves as the single point of contact for all issues regarding the enclave and the WoS data (See [https://datamgmt.iu.edu/governance/structure.php](http://iuni.iu.edu/resources/cadre/general-data-user) for more details).
+* Data Manager: An employee of IUNI who conducts day-to-day administration of the WoS and MAG dataset and supports researchers in accessing the data. The Data Manager serves as the single point of contact for all issues regarding the enclave and the WoS data.
 
 ---
 
@@ -89,7 +97,7 @@ Microsoft Academic Graph: Matthew Hutchinson | (812) 855-1404 | <a href="mailto:
 ---
 
 ### Forms ###
-If you are interested in accessing the data enclave, please complete the application form at the following address: [http://iuni.iu.edu/resources/cadre/general-data-user](http://iuni.iu.edu/resources/cadre/general-data-user)
+If you are interested in accessing the data enclave, [please complete the application form here](http://iuni.iu.edu/resources/cadre/general-data-use).
 
 ---
 

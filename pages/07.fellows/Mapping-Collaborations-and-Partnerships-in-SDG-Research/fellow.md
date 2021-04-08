@@ -29,6 +29,8 @@ This project will build on the WoS report “Navigating the Structure of Researc
 
 Researchers will design a prototype to analyze and visualize the input-output of partnerships over time in SDG-supportive research. They also plan to create a scoring measure or partnership index that defines and conducts partnership analytics for SDGs by using data sourced from WoS and MAG.
 
+In Febraury 2021, the researchers published their work [in Frontiers Research Metrics and Analytics](https://www.frontiersin.org/articles/10.3389/frma.2020.612442/full). They've also created a reproducible package for their work, available in the Marketplace.
+
 **More about the researchers:**
 * Jane Payumo, academic specialist and research and data evaluation manager, MSU AgBioResearch, Michigan State University
 * Devin Higgins, digital library programmer, MSU Libraries, Michigan State University

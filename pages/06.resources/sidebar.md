@@ -7,8 +7,6 @@ main: true
 
 In addition to providing sustainable, affordable, and standardized text- and data-mining services for large datasets, CADRE will offer extensive tutorials on how to work with our platform and datasets. Take a look at some resources for how to take full advantage of CADRE.
 
-Visit CADRE's [Kaltura channel](https://iu.mediaspace.kaltura.com/channel/Collaborative%2BArchive%2BData%2BResearch%2BEnvironment%2B%2528CADRE%2529/122203841) for closed-captioned videos. If you have any trouble accessing our Kaltura page, [let us know](https://cadre.iu.edu/contact-us).  
-
 ### Informational Videos and Demos: ###
 
 #### CADRE Beta Launch Tour
@@ -38,6 +36,12 @@ Visit CADRE's [Kaltura channel](https://iu.mediaspace.kaltura.com/channel/Collab
 --- 
 
 ### CADRE Fellows Webinar Series: ### 
+#### Utilizing Data Citation for Aggregating, Contextualizing, and Engaging with Research Data in STEM Education Research####
+[plugin:youtube](https://youtu.be/fRIDcyYIorE)
+
+#### Systematic over-time study of the similarities and differences in research across mathematics and the sciences
+[plugin:youtube](https://youtu.be/WCG5AxE3jGA)
+
 #### The global network of air links and scientific collaboration – a quasi-experimental analysis
 [plugin:youtube](https://youtu.be/axOLJbo78GM)
 
@@ -58,13 +62,6 @@ Visit CADRE's [Kaltura channel](https://iu.mediaspace.kaltura.com/channel/Collab
 
 #### Assessing the Rise of China as a Scientific Nation
 [plugin:youtube](https://www.youtube.com/watch?v=Ylhq7JpZAXI)
-
----
-
-### Data Access/General User Application: ###
-To request data access, please first read the CADRE Data Access Policy. You can then complete the CADRE General Data User Application. Upon approval, data enclave access is provided by IUNI Data Manager Matthew Hutchinson.
-* [CADRE Data Access Policy](https://cadre.iu.edu/resources/data-access-policy)
-* [CADRE General Data User Application Form](https://iuni.iu.edu/resources/cadre/general-data-user)
 
 ---
 

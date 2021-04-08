@@ -6,13 +6,13 @@ metadata:
 main: true
 ---
 
-We are designing CADRE to be an agile, interdisciplinary tool for any academic researcher who performs text- and data-mining on large datasets. Our platform is currently under development, which means your contributions can help us shape the final product. We want to hear from researchers, prospective users, and potential partners on what you want to see in CADRE.
-
-If you have a request for datasets, data-analysis tools, other features&mdash;or if you are interested in partnering with CADRE&mdash; please fill out the form below. You can also use the form to report bugs or issues you've encountered on the platforn.
+Our platform is currently under development, which means your contributions can help us shape the final product. We want to hear from researchers, prospective users, and potential partners on what you want to see in CADRE. If you have a request for datasets, data-analysis tools, or other features, or if you need to report any bugs, [please fill out our Gateway Feedback Form instead.](https://cadre.iu.edu/contact-us/feedback)
 
 If you need help using CADRE, you can join the CADRE community and ask questions about how to use the platform [in the CADRE Slack Workspace](https://join.slack.com/t/cadreproject/shared_invite/zt-h0va3ww3-ekByIYC7iG81K_hLVGKciQ). Our CADRE IT and Research teams monintor the #cadre-users Slack channel for users who need assistance.
 
 If you want to stay updated on CADRE and remain informed on when our services will become available, follow us on Twitter at [@CADRE_Project](https://twitter.com/CADRE_Project) and [subscribe](https://cadre.iu.edu/news-and-events) to our newsletter.
+
+For all other inquiries, including how to get started with CADRE or [trial the platform](https://cadre.iu.edu/about-cadre/request-a-trial), please fill out the form below.
 
 
 <form  id="the_form" action="./contact-us/process" method="POST" enctype="multipart/form-data">

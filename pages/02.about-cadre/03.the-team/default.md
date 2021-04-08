@@ -91,15 +91,9 @@ Research Scientist at Indiana University Network Science Institute
 
 ---
 
-### CADRE Administrative and Outreach Team ###
+### CADRE Outreach Team ###
 
 <div class="row">
-
-<div class="col-4" markdown="1">
-![Lourdes Gonzalez headshot.](Lourdes.jpg)
-##### Lourdes Gonzalez  
-Adminsitrative Coordinator at Indiana University Network Science Institute
-</div>
     
 <div class="col-4" markdown="1">
 ![Stephanie Hernandez McGavin headshot.](Steph.jpg)
