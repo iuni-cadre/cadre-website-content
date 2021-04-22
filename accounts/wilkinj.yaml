@@ -22,7 +22,4 @@ fullname: 'Jaci Wilkinson'
 title: Editor
 language: en
 twofa_enabled: false
-hashed_password: $2y$10$wbBK2Ncguf43WeBzQ3o31OVnKyKlMshkaKfDgdO0a5XcknNIMlRRK
-pw_resets:
-  - 1617909295
-reset: '0f3a59332c7318de14abd2ad0692914c::1618514095'
+hashed_password: $2y$10$7FLV1h7vs8fT.FY5KAnGfera7oORtjk17HcMBDf/M8Qb/Um1tLmAC

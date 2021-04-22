@@ -10,7 +10,7 @@ CADRE addresses the IMLS' “National Digital Platform” priority area by addre
 This platform was built as part of the Shared BigData Gateway for Research Libraries (SBD-G) project, which is made possible by [a three-year IMLS grant](https://imls.gov/grants/awarded/lg-70-18-0202-18-0). The project is led by [Indiana University Libraries](https://libraries.indiana.edu/), in collaboration with the [Indiana University Network Science Institute](https://iuni.iu.edu/) and the [Big Ten Academic Alliance](http://www.btaa.org/). This project is additionally supported by a group of cross-industry partners that you can read more about [here](https://cadre.iu.edu/work-with-us).
 
 ### Features ###
-* **Access major datasets**: access Web of Science, Microsoft Academic Graph, and U.S. Patent and Trademark Office data  
+* **Access major datasets**: access Web of Science, Microsoft Academic Graph, and U.S. Patent and Trademark Office patent data  
 * **Private profile:** store query outputs, data-analysis tools, and research results in a profile  
 * **CADRE Query Builder:** use this user-friendly GUI query-builder to easily query datasets  
 * **Jupyter Notebook:** proficient coders can build data-analysis and visualization tools here  
