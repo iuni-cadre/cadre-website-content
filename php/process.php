@@ -183,7 +183,7 @@ if(in_array($this_form, $captcha_forms) )
 
     $ch = curl_init();
     $captcha = $_POST["g-recaptcha-response"];
-    $opts = "secret=***REMOVED***&response=".$captcha."&remoteip=".$_SERVER['REMOTE_ADDR'];
+    $opts = "secret=YOUR_SECRET_KEY&response=".$captcha."&remoteip=".$_SERVER['REMOTE_ADDR'];
     curl_setopt($ch, CURLOPT_URL,"https://www.google.com/recaptcha/api/siteverify");
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_POSTFIELDS,
